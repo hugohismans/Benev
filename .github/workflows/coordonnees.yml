@@ -1,5 +1,5 @@
 # Calcule automatiquement les coordonnées GPS des lieux ajoutés ou modifiés
-# sans coordonnées (par exemple depuis Pages CMS), puis republie le site.
+# sans coordonnées (par exemple depuis Pages CMS).
 name: Coordonnées GPS
 
 on:
@@ -10,7 +10,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
 
 concurrency:
   group: coordonnees
@@ -26,8 +25,6 @@ jobs:
         run: python3 scripts/importer.py --manquants
 
       - name: Enregistrer et republier
-        env:
-          GH_TOKEN: ${{ github.token }}
         run: |
           if git diff --quiet; then
             echo "Rien à faire."
@@ -38,6 +35,4 @@ jobs:
           git add _data/lieux
           git commit -m "Coordonnées GPS calculées automatiquement"
           git pull --rebase origin main
-          git push origin HEAD:main
-          # Un push fait par cette tâche ne relance pas GitHub Pages : on le demande.
-          gh api -X POST "repos/${{ github.repository }}/pages/builds" || true
+          git push origin HEAD:main  # GitHub Pages republie le site automatiquement
