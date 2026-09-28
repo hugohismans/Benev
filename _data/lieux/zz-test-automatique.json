@@ -1,0 +1,9 @@
+{
+  "nom": "TEST automatique (à supprimer)",
+  "actif": false,
+  "description": "Test",
+  "adresse": "Grand-Place 22",
+  "code_postal": "7000",
+  "commune": "Mons",
+  "coordonnees": ""
+}
