@@ -176,3 +176,54 @@ a { color: var(--primary); }
   .search h1 { font-size: 1.35rem; }
   .search-form .btn-primary { width: 100%; }
 }
+
+/* Impression */
+.count-row { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 4px 12px; }
+.btn-print { background: #fff; color: var(--primary); border: 2px solid var(--primary); padding: 6px 14px; font-size: .9rem; font-weight: 600; }
+.print-dialog {
+  border: 0; border-radius: var(--radius); padding: 20px; width: min(520px, calc(100vw - 32px));
+  max-height: calc(100vh - 32px); overflow: auto; color: var(--text); background: var(--surface);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, .25);
+}
+.print-dialog::backdrop { background: rgba(30, 25, 20, .45); }
+.print-dialog h2 { margin: 0 0 8px; font-size: 1.25rem; }
+.print-dialog fieldset { border: 0; padding: 0; margin: 12px 0; }
+.print-dialog legend { font-weight: 600; margin-bottom: 4px; }
+.print-dialog select { font: inherit; padding: 2px 4px; border-radius: 6px; }
+.print-aide { display: block; color: var(--muted); font-size: .82rem; }
+.print-dialog input:disabled + span { opacity: .5; }
+.print-actions { display: flex; justify-content: flex-end; gap: 12px; margin-top: 12px; }
+.print-area { display: none; }
+
+@media print {
+  @page { margin: 14mm 12mm; }
+  html { font-size: 11pt; }
+  body { background: #fff; color: #000; }
+  body > *:not(.print-area) { display: none !important; }
+  .print-area { display: block; }
+  .print-area h1 { font-size: 18pt; margin: 0 0 2pt; }
+  .print-area .p-meta { margin: 0 0 10pt; color: #333; font-size: 10pt; }
+  .print-area h2 { font-size: 13pt; margin: 12pt 0 4pt; border-bottom: 1px solid #999; break-after: avoid; }
+  .print-area table { width: 100%; border-collapse: collapse; font-size: 9.5pt; }
+  .print-area table { table-layout: fixed; }
+  .print-area col.c-lieu { width: 38%; }
+  .print-area col.c-ou { width: 15%; }
+  .print-area col.c-tel { width: 17%; }
+  .print-area col.c-quand { width: 30%; }
+  .print-area .p-tel { white-space: nowrap; }
+  .print-area .p-mail { overflow-wrap: anywhere; font-size: 8.5pt; }
+  .print-area thead { display: table-header-group; }
+  .print-area th, .print-area td { border-bottom: 1px solid #bbb; padding: 4pt 5pt; text-align: left; vertical-align: top; }
+  .print-area th { background: #eee; }
+  .print-area tr { break-inside: avoid; }
+  .print-area .p-cat { color: #444; font-size: 8.5pt; }
+  .print-area .p-fiche { border: 1px solid #999; border-radius: 6pt; padding: 7pt 9pt; margin: 0 0 8pt; break-inside: avoid; }
+  .print-area .p-fiche h3 { margin: 0; font-size: 12pt; }
+  .print-area .p-fiche p { margin: 3pt 0; }
+  .print-area .p-lieu { color: #333; }
+  .print-area .p-fiche dl { display: grid; grid-template-columns: 26mm 1fr; gap: 2pt 8pt; margin: 4pt 0 0; }
+  .print-area .p-fiche dt { font-weight: 700; }
+  .print-area .p-fiche dd { margin: 0; }
+  .print-area .p-pied { margin-top: 12pt; padding-top: 6pt; border-top: 1px solid #999; font-size: 9pt; break-inside: avoid; }
+  .print-area .p-pied ul { margin: 3pt 0; padding-left: 14pt; }
+}

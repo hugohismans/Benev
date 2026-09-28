@@ -7,6 +7,7 @@ La personne indique sa commune, son code postal ou son adresse (ou se localise),
 - **Site 100 % statique** : pas de base de données, pas d'inscription, pas de serveur à gérer.
 - **Hébergement gratuit** sur GitHub Pages.
 - **Administration gratuite** avec [Pages CMS](https://pagescms.org) : des formulaires pour ajouter ou modifier les lieux, sans toucher au code.
+- **Impression** : le bouton « Imprimer la liste » propose les 5 à 30 lieux les plus proches d'une adresse, tous les lieux de la recherche en cours (avec ses filtres) ou tout le répertoire classé par région, en format résumé (tableau) ou détaillé (fiches).
 - **Vie privée** : l'adresse tapée par le visiteur n'est jamais enregistrée. Elle est seulement transformée en coordonnées GPS par [OpenStreetMap (Nominatim)](https://nominatim.org) pour calculer les distances, directement dans le navigateur.
 
 ---

@@ -291,6 +291,7 @@
 
   function definirOrigine(pos, libelle) {
     state.origine = pos;
+    state.origineLibelle = libelle;
     statut(libelle ? '✔ Recherche autour de : ' + libelle : '');
     afficher();
     $('results-title').scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -327,6 +328,145 @@
       statut('Impossible de vous localiser. Écrivez plutôt votre commune.', true);
     }, { timeout: 10000, maximumAge: 60000 });
   }
+
+  // ---------- Impression ----------
+
+  function ligne(label, valeur) {
+    return valeur ? '<dt>' + label + '</dt><dd>' + echapper(valeur) + '</dd>' : '';
+  }
+
+  function adresseComplete(l) {
+    return [l.adresse, [l.code_postal, l.commune].filter(Boolean).join(' ')].filter(Boolean).join(', ');
+  }
+
+  function descriptionFiltres() {
+    var f = Array.from(state.categories);
+    if ($('f-douceur').checked) f.push('début en douceur');
+    if ($('f-accueil').checked) f.push('accueil des personnes fragilisées');
+    if ($('f-pmr').checked) f.push('accessible en fauteuil roulant');
+    return f.join(', ');
+  }
+
+  // Région d'un lieu, d'après son code postal (pour l'impression du répertoire).
+  var REGIONS = ['Hainaut', 'Province de Namur', 'Brabant wallon', 'France (bordure)', 'Flandre (bordure)'];
+  function region(l) {
+    var cp = parseInt(l.code_postal, 10) || 0;
+    if (/\(France\)/.test(l.commune || '') || cp >= 10000) return 'France (bordure)';
+    if (cp >= 1300 && cp <= 1499) return 'Brabant wallon';
+    if (cp >= 5000 && cp <= 5680) return 'Province de Namur';
+    if ((cp >= 6000 && cp <= 6599) || (cp >= 7000 && cp <= 7999) || !cp) return 'Hainaut';
+    return 'Flandre (bordure)';
+  }
+
+  function lieuxAImprimer(quoi, nombre) {
+    if (quoi === 'proches') {
+      return lieuxFiltres().filter(function (l) { return l.distance != null; }).slice(0, nombre);
+    }
+    if (quoi === 'filtres') return lieuxFiltres();
+    // Tout le répertoire, classé par commune (avec la distance si une adresse est connue).
+    return state.lieux.slice().map(function (l) {
+      l.distance = (state.origine && l.position) ? distanceKm(state.origine, l.position) : null;
+      return l;
+    }).sort(function (a, b) {
+      return REGIONS.indexOf(region(a)) - REGIONS.indexOf(region(b)) ||
+        (a.commune || '').localeCompare(b.commune || '', 'fr') || a.nom.localeCompare(b.nom, 'fr');
+    });
+  }
+
+  function resumeHTML(liste) {
+    var h = '<table><colgroup><col class="c-lieu"><col class="c-ou"><col class="c-tel"><col class="c-quand"></colgroup>' +
+      '<thead><tr><th>Lieu</th><th>Où</th><th>Téléphone</th><th>Quand</th></tr></thead><tbody>';
+    liste.forEach(function (l) {
+      h += '<tr><td><strong>' + echapper(l.nom) + '</strong><br><span class="p-cat">' +
+        echapper(l.categories.join(', ')) + '</span></td>';
+      h += '<td>' + echapper(l.commune) + (l.distance != null ? '<br>' + formatDistance(l.distance) : '') + '</td>';
+      h += l.telephone ? '<td class="p-tel">' + echapper(l.telephone) + '</td>' :
+        '<td class="p-mail">' + echapper(l.email || '') + '</td>';
+      h += '<td>' + echapper(l.horaires || '') + '</td></tr>';
+    });
+    return h + '</tbody></table>';
+  }
+
+  function ficheHTML(l) {
+    var h = '<div class="p-fiche"><h3>' + echapper(l.nom) + '</h3>';
+    h += '<p class="p-lieu">' + echapper(l.commune) + (l.distance != null ? ' – ' + formatDistance(l.distance) : '') +
+      (l.categories.length ? ' · ' + echapper(l.categories.join(', ')) : '') + '</p>';
+    if (l.description) h += '<p>' + echapper(l.description) + '</p>';
+    var plus = [];
+    if (l.debut_en_douceur) plus.push('possible de commencer en douceur');
+    if (l.accueil_adapte) plus.push('habitué à accueillir des personnes fragilisées');
+    if (l.pmr === 'Oui') plus.push('accessible en fauteuil roulant');
+    var engagement = l.engagement ? (ENGAGEMENT[l.engagement] || l.engagement) + (l.engagement_details ? ' – ' + l.engagement_details : '') : '';
+    h += '<dl>' + ligne('Adresse', adresseComplete(l)) + ligne('Quand', l.horaires) + ligne('Engagement', engagement) +
+      ligne('Qui demander', l.personne_reference) + ligne('Téléphone', l.telephone) + ligne('E-mail', l.email) +
+      ligne('Site web', l.site_web) + ligne('Bus / train', l.transports) + ligne('Langue', l.langue) +
+      ligne('À savoir', plus.join(', ')) + '</dl></div>';
+    return h;
+  }
+
+  function imprimer(quoi, format, nombre, avecAide) {
+    var liste = lieuxAImprimer(quoi, nombre);
+    var titres = {
+      proches: 'Les ' + liste.length + ' lieux de bénévolat les plus proches',
+      filtres: 'Lieux de bénévolat (' + liste.length + ')',
+      tout: 'Répertoire des lieux de bénévolat (' + liste.length + ')'
+    };
+    var meta = [];
+    if (state.origine && state.origineLibelle) meta.push('Autour de : ' + state.origineLibelle);
+    var filtres = descriptionFiltres();
+    if (filtres && quoi !== 'tout') meta.push('Choix : ' + filtres);
+    meta.push('Imprimé le ' + new Date().toLocaleDateString('fr-BE'));
+
+    var h = '<h1>' + echapper(titres[quoi]) + '</h1><p class="p-meta">' + echapper(meta.join(' · ')) + '</p>';
+    var rendu = format === 'resume' ? resumeHTML : function (ls) { return ls.map(ficheHTML).join(''); };
+    if (quoi === 'tout') {
+      // Un titre par région, les lieux triés par commune à l'intérieur
+      REGIONS.forEach(function (r) {
+        var lieux = liste.filter(function (l) { return region(l) === r; });
+        if (lieux.length) h += '<h2>' + echapper(r) + ' (' + lieux.length + ')</h2>' + rendu(lieux);
+      });
+    } else {
+      h += rendu(liste);
+    }
+    h += '<div class="p-pied"><p>Les informations peuvent changer : appelez le lieu avant de vous y rendre. ' +
+      'Liste complète et à jour : ' + echapper(location.origin + location.pathname) + '</p>';
+    if (avecAide) {
+      h += '<p><strong>Besoin de parler ?</strong> Lignes gratuites et anonymes :</p><ul>' +
+        '<li>Centre de Prévention du Suicide : 0800 32 123 (24 h/24)</li>' +
+        '<li>Télé-Accueil : 107 (24 h/24)</li><li>Urgence : 112</li></ul>';
+    }
+    h += '</div>';
+    $('print-area').innerHTML = h;
+    window.print();
+  }
+
+  function ouvrirImpression() {
+    var dlg = $('print-dialog');
+    var proches = dlg.querySelector('input[value="proches"]');
+    var nFiltres = lieuxFiltres().length;
+    proches.disabled = !state.origine;
+    $('print-proches-aide').textContent = state.origine ?
+      'Autour de : ' + (state.origineLibelle || 'votre adresse') :
+      'Indiquez d\'abord votre adresse en haut de la page.';
+    $('print-filtres-aide').textContent = nFiltres + ' lieux' + (descriptionFiltres() ? ', avec vos choix : ' + descriptionFiltres() : '') + '.';
+    $('print-tout-aide').textContent = state.lieux.length + ' lieux, sans filtre.';
+    dlg.querySelector('input[value="' + (state.origine ? 'proches' : 'filtres') + '"]').checked = true;
+    dlg.querySelector('input[value="' + (state.origine ? 'detail' : 'resume') + '"]').checked = true;
+    dlg.returnValue = '';
+    if (dlg.showModal) dlg.showModal(); else dlg.setAttribute('open', '');
+  }
+
+  $('print-open').addEventListener('click', ouvrirImpression);
+  $('print-nombre').addEventListener('change', function () {
+    if (state.origine) $('print-dialog').querySelector('input[value="proches"]').checked = true;
+  });
+  $('print-dialog').addEventListener('close', function () {
+    var dlg = $('print-dialog');
+    if (dlg.returnValue !== 'imprimer') return;
+    var quoi = dlg.querySelector('input[name="quoi"]:checked').value;
+    var format = dlg.querySelector('input[name="format"]:checked').value;
+    imprimer(quoi, format, parseInt($('print-nombre').value, 10), $('print-aide').checked);
+  });
 
   // ---------- Démarrage ----------
 
