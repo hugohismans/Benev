@@ -31,14 +31,9 @@ Chaque modification enregistrée est publiée automatiquement sur le site en une
 
 ### 3. Ajouter un lieu
 
-Cliquez sur **Lieux de bénévolat → Add an entry** et remplissez le formulaire. Seuls le nom, la description, l'adresse, la commune et les coordonnées GPS sont obligatoires.
+Cliquez sur **Lieux de bénévolat → Add an entry**, remplissez le formulaire puis cliquez sur **Save**. Seuls le nom, la description, l'adresse et la commune sont obligatoires.
 
-**Pour trouver les coordonnées GPS :**
-
-1. Ouvrez [Google Maps](https://maps.google.com) et cherchez l'adresse du lieu.
-2. Faites un **clic droit** sur le lieu (ou un appui long sur téléphone).
-3. Cliquez sur les chiffres qui apparaissent en haut du menu (ex. `50.4542, 3.9523`) : ils sont copiés.
-4. Collez-les dans le champ **Coordonnées GPS**.
+**Coordonnées GPS : ne rien faire.** Laissez ce champ vide : une tâche automatique sur GitHub les calcule à partir de l'adresse, 1 à 2 minutes après l'enregistrement. Si vous changez l'adresse d'un lieu existant, videz le champ pour qu'elles soient recalculées. (Si l'adresse est introuvable, le lieu s'affiche quand même dans la liste, mais sans distance ni point sur la carte : vous pouvez alors coller les coordonnées à la main depuis Google Maps, clic droit sur le lieu puis clic sur les chiffres.)
 
 **Conseils d'écriture** (les visiteurs peuvent être fragiles ou anxieux) :
 
@@ -61,7 +56,7 @@ Les lieux fournis au départ ont été **collectés automatiquement sur internet
 - le champ **Notes** indique ce qui reste à vérifier (adresse incertaine, horaires, etc.) ;
 - les lieux dont on n'a **pas pu confirmer qu'ils accueillent des bénévoles** (ou qui affichaient « équipe complète ») sont **cachés** : leur note commence par « À VÉRIFIER ». Après un coup de fil, cochez « Afficher ce lieu sur le site » ou supprimez le lieu.
 
-Les coordonnées GPS ont été calculées automatiquement. Quand la note dit « coordonnées approximatives », corrigez-les avec Google Maps.
+Quand la note d'un lieu dit « coordonnées approximatives », videz le champ Coordonnées GPS (elles seront recalculées) ou collez-les depuis Google Maps.
 
 Pour les lieux en Flandre, le champ **Langue parlée sur place** indique si les francophones sont bienvenus (à confirmer par téléphone). Les lieux en France portent la mention « (France) » dans la commune.
 
@@ -83,6 +78,7 @@ Pour lui donner une icône, ajoutez-la aussi en haut du fichier `assets/app.js`,
 | `lieux.json` | Regroupe tous les lieux (généré par Jekyll lors de la publication sur GitHub Pages) |
 | `index.html`, `assets/` | La page, le style et le JavaScript (sans framework, carte avec Leaflet) |
 | `.pages.yml` | Formulaire de l'administration Pages CMS |
+| `.github/workflows/coordonnees.yml` | Calcule les coordonnées GPS manquantes après chaque modification |
 
 Importer des lieux en masse (les coordonnées GPS sont calculées automatiquement, les doublons d'adresse ignorés, et un lieu avec `"benevolat_confirme": false` est importé caché) :
 

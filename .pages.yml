@@ -56,12 +56,11 @@ content:
         type: string
         required: true
       - name: coordonnees
-        label: Coordonnées GPS
-        description: "Sur Google Maps, faites un clic droit sur le lieu puis cliquez sur les chiffres pour les copier (ex. 50.4542, 3.9523). Collez-les ici."
+        label: Coordonnées GPS (automatique)
+        description: "Laissez vide : elles sont calculées automatiquement à partir de l'adresse, 1 à 2 minutes après l'enregistrement. Si vous changez l'adresse d'un lieu, videz ce champ pour qu'elles soient recalculées."
         type: string
-        required: true
         pattern:
-          regex: "^\\s*-?\\d{1,3}\\.\\d+\\s*,\\s*-?\\d{1,3}\\.\\d+\\s*$"
+          regex: "^(\\s*-?\\d{1,3}\\.\\d+\\s*,\\s*-?\\d{1,3}\\.\\d+\\s*)?$"
           message: "Format attendu : 50.4542, 3.9523"
 
       - name: telephone

@@ -1,0 +1,43 @@
+# Calcule automatiquement les coordonnées GPS des lieux ajoutés ou modifiés
+# sans coordonnées (par exemple depuis Pages CMS), puis republie le site.
+name: Coordonnées GPS
+
+on:
+  push:
+    branches: [main]
+    paths: ['_data/lieux/**']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: coordonnees
+  cancel-in-progress: false
+
+jobs:
+  geocoder:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Calculer les coordonnées manquantes
+        run: python3 scripts/importer.py --manquants
+
+      - name: Enregistrer et republier
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet; then
+            echo "Rien à faire."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data/lieux
+          git commit -m "Coordonnées GPS calculées automatiquement"
+          git pull --rebase origin main
+          git push origin HEAD:main
+          # Un push fait par cette tâche ne relance pas GitHub Pages : on le demande.
+          gh api -X POST "repos/${{ github.repository }}/pages/builds" || true

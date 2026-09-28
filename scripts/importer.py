@@ -3,6 +3,8 @@
 
 Usage : python3 scripts/importer.py fichier1.json [fichier2.json ...]
         python3 scripts/importer.py --corriger   (recalcule les coordonnées approximatives)
+        python3 scripts/importer.py --manquants  (calcule les coordonnées des lieux qui n'en ont pas ;
+                                                  lancé automatiquement par GitHub après chaque modification)
 
 Chaque fichier contient une liste de lieux (mêmes champs que dans l'admin).
 Les coordonnées GPS manquantes sont calculées avec OpenStreetMap (Nominatim),
@@ -195,11 +197,36 @@ def corriger():
         print('+ corrigé :', lieu['nom'], '→', lieu['coordonnees'])
 
 
+def manquants():
+    """Calcule les coordonnées des lieux ajoutés à la main sans coordonnées."""
+    for f in sorted(os.listdir(DOSSIER)):
+        if not f.endswith('.json'):
+            continue
+        chemin = os.path.join(DOSSIER, f)
+        with open(chemin, encoding='utf-8') as fh:
+            lieu = json.load(fh)
+        if str(lieu.get('coordonnees') or '').strip():
+            continue
+        pos, precision = geocoder(lieu)
+        if not pos:
+            print('- adresse introuvable :', lieu.get('nom', f))
+            continue
+        lieu['coordonnees'] = '%.5f, %.5f' % pos
+        if precision == 'commune' and NOTE_APPROX not in lieu.get('notes', ''):
+            lieu['notes'] = (lieu.get('notes', '') + ' ' + NOTE_APPROX).strip()
+        with open(chemin, 'w', encoding='utf-8') as fh:
+            json.dump(lieu, fh, ensure_ascii=False, indent=2)
+            fh.write('\n')
+        print('+', lieu.get('nom', f), '→', lieu['coordonnees'], '(%s)' % precision)
+
+
 if __name__ == '__main__':
     if len(sys.argv) < 2:
         print(__doc__)
         sys.exit(1)
     if sys.argv[1] == '--corriger':
         corriger()
+    elif sys.argv[1] == '--manquants':
+        manquants()
     else:
         main(sys.argv[1:])
