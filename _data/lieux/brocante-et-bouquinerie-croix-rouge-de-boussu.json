@@ -1,0 +1,20 @@
+{
+  "nom": "Brocante et bouquinerie Croix-Rouge de Boussu",
+  "actif": true,
+  "description": "Vous pourrez aider dans une grande brocante de 400 m² : trier et ranger meubles, vaisselle, livres et jeux, et accueillir les clients.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Culture et loisirs"
+  ],
+  "adresse": "Rue Neuve 85",
+  "code_postal": "7300",
+  "commune": "Boussu",
+  "coordonnees": "50.42987, 3.79483",
+  "telephone": "065/874944",
+  "email": "MCR.Boussu-Hornu@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/boussu-hornu-colfontaine/",
+  "horaires": "Du mardi au vendredi de 9h30 à 14h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/boussu-hornu-colfontaine/service/3526/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Service de la Maison Croix-Rouge Boussu-Hornu-Colfontaine."
+}

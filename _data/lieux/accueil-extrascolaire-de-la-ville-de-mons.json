@@ -1,0 +1,19 @@
+{
+  "nom": "Accueil extrascolaire de la Ville de Mons",
+  "actif": true,
+  "description": "Vous pourrez encadrer et faire jouer des enfants de 2,5 à 12 ans dans l'accueil avant ou après l'école, ou le mercredi après-midi, dans une école de Mons.",
+  "categories": [
+    "Enfants et jeunes"
+  ],
+  "adresse": "Grand-Place",
+  "code_postal": "7000",
+  "commune": "Mons",
+  "coordonnees": "50.45446, 3.95228",
+  "telephone": "+32 65 40 58 07",
+  "horaires": "Matin ±6h30-8h, et/ou soir ±15h-18h, et/ou mercredi dès 12h",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "transports": "Vélo, transports en commun, voiture",
+  "source": "https://www.giveaday.eu/fr-be/mons/volontariat/recherche-accueillant-e-s-extrascolaires-au-sein-des-ecoles/35804",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Adresse = Hôtel de Ville ; le bénévolat a lieu dans une école de l'entité montoise."
+}

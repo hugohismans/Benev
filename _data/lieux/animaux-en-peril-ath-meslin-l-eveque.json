@@ -1,0 +1,22 @@
+{
+  "nom": "Animaux en Péril",
+  "actif": true,
+  "description": "Vous pourrez aider à nourrir les chevaux et animaux de ferme recueillis, entretenir leurs espaces de vie et participer aux soins. Vous choisissez de venir en semaine ou le week-end, à la journée ou à la demi-journée.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Rue du Haut Aulnoy 29",
+  "code_postal": "7822",
+  "commune": "Ath (Meslin-l'Évêque)",
+  "coordonnees": "50.65985, 3.83698",
+  "telephone": "0471 22 58 29",
+  "email": "info@animauxenperil.be",
+  "site_web": "https://www.animauxenperil.be/",
+  "horaires": "Visites guidées samedi et/ou dimanche à 14h",
+  "engagement": "Flexible",
+  "engagement_details": "Semaine ou week-end, journée ou demi-journée. D'abord une visite guidée du week-end, puis une période d'essai, puis inscription à l'accueil.",
+  "debut_en_douceur": true,
+  "pmr": "Je ne sais pas",
+  "source": "https://animauxenperil.be/Aide/Benevolat",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. debut_en_douceur=true car visite + période d'essai avant d'intégrer l'équipe."
+}

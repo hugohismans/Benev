@@ -1,0 +1,23 @@
+{
+  "nom": "Repair Café de Fontaine-l'Évêque à Forchies-la-Marche",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer des objets du quotidien avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Maison des Jeunes « Case Départ », Rue Chaussée 65, Forchies-la-Marche",
+  "code_postal": "6141",
+  "commune": "Fontaine-l'Évêque",
+  "coordonnees": "50.42412, 4.33010",
+  "telephone": "0478 61 03 63",
+  "email": "repaircafe@edu.villedefontaine.be",
+  "horaires": "4e lundi du mois, 15h-19h (sauf juillet, août, décembre)",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 4e lundi du mois, 15h-19h (sauf juillet, août, décembre)",
+  "personne_reference": "Eric, Daniel et Alain",
+  "pmr": "Je ne sais pas",
+  "transports": "Bus TEC 63 (Jumet Madeleine – Fontaine-l'Évêque), arrêt « Forchies-la-Marche, rue des Trieux »",
+  "source": "https://repairtogether.be/en/group/repair-cafe-de-fontaine-leveque-forchies-la-marche-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

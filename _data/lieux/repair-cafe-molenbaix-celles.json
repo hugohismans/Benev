@@ -1,0 +1,23 @@
+{
+  "nom": "Repair Café Molenbaix",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer du petit électroménager, des vêtements ou des machines à coudre avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue du Château 14, Molenbaix",
+  "code_postal": "7760",
+  "commune": "Celles",
+  "coordonnees": "50.69572, 3.42739",
+  "telephone": "0479 32 03 39",
+  "email": "repaircafemolenbaix@gmail.com",
+  "site_web": "https://www.facebook.com/repaircafemolenbaix",
+  "horaires": "3e dimanche du mois, 14h-17h",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 3e dimanche du mois, 14h-17h",
+  "personne_reference": "Tony Dhont (bénévole initiateur)",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-molenbaix-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

@@ -1,0 +1,22 @@
+{
+  "nom": "Le Joli-Clos – Maison de ressourcement (HELORA Jolimont)",
+  "actif": true,
+  "description": "Dans une maison chaleureuse près de l'hôpital, vous pourrez accueillir des personnes touchées par un cancer, aider à des ateliers créatifs ou de bien-être, ou donner un coup de main au potager, à la bibliothèque ou à la rénovation de meubles.",
+  "categories": [
+    "Accueil et convivialité",
+    "Nature et jardinage",
+    "Culture et loisirs"
+  ],
+  "adresse": "Rue Ferrer 159",
+  "code_postal": "7100",
+  "commune": "La Louvière",
+  "coordonnees": "50.47757, 4.21503",
+  "telephone": "064 23 30 60",
+  "email": "joli-clos@helora.be",
+  "site_web": "https://www.helora.be",
+  "engagement_details": "Accueil en binôme.",
+  "personne_reference": "Isabelle Hermisse ou Andréa Ramaekers",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.helora.be/actualites/maison-de-ressourcement-joli-clos-appel-aux-benevoles",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Contacts actuels repris de la page volontariat HELORA ; l'appel aux bénévoles citait d'autres contacts (Jolimont). Code postal 7100 à vérifier."
+}

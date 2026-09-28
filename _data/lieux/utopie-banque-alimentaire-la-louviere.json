@@ -1,0 +1,18 @@
+{
+  "nom": "Utopie - banque alimentaire",
+  "actif": false,
+  "description": "Vous pourrez découvrir cette association louviéroise qui distribue des colis alimentaires deux matinées par semaine.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue Gustave Boel 152",
+  "code_postal": "7100",
+  "commune": "La Louvière",
+  "coordonnees": "50.47997, 4.17242",
+  "telephone": "064/22.46.48",
+  "site_web": "https://www.utopie-asbl.be/",
+  "horaires": "Mardi et jeudi, 9h00-12h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.fdss.be/fr/caa/repertoire-de-l-aide-alimentaire/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Répertoire FDSS : l'accueil de bénévoles n'est pas confirmé. La page 'banque alimentaire' du site renvoie une erreur 404."
+}

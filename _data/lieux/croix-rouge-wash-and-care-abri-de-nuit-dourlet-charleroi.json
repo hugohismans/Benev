@@ -1,0 +1,22 @@
+{
+  "nom": "Croix-Rouge – Wash and Care (abri de nuit Dourlet)",
+  "actif": false,
+  "description": "Vous pourrez accueillir des personnes sans-abri, les aider à laver leur linge et ranger ou distribuer des vêtements du vestiaire social, aux côtés de travailleurs sociaux.",
+  "categories": [
+    "Accueil et convivialité",
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue Dourlet 34",
+  "code_postal": "6000",
+  "commune": "Charleroi",
+  "coordonnees": "50.41927, 4.45338",
+  "email": "lorraine.launois@croix-rouge.be",
+  "site_web": "https://volontariat.croix-rouge.be",
+  "horaires": "Lundi 9h-12h ou vendredi 14h-18h",
+  "engagement": "Régulier",
+  "engagement_details": "Un créneau par semaine. Module « Bienvenue à la Croix-Rouge » et une journée de formation sur la rencontre des personnes sans-abri.",
+  "personne_reference": "Lorraine Launois (coordinatrice)",
+  "pmr": "Je ne sais pas",
+  "source": "https://volontariat.croix-rouge.be/jobs/volontaire-aupres-des-personnes-sans-abri/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Public parfois en grande précarité : contexte à évaluer selon la personne."
+}

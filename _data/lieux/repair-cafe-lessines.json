@@ -1,0 +1,21 @@
+{
+  "nom": "Repair Café Lessines",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer de l'électricité, des vêtements, des ordinateurs, des vélos ou des moteurs avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue René Magritte (ancienne gare)",
+  "code_postal": "7860",
+  "commune": "Lessines",
+  "coordonnees": "50.71254, 3.83305",
+  "telephone": "0474 91 13 98",
+  "horaires": "1er dimanche du mois, 14h-17h30",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 1er dimanche du mois, 14h-17h30",
+  "personne_reference": "Nadine (0474 91 13 98) ou Françoise (0479 47 50 28)",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-lessines-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil. Pas de numéro de rue sur la fiche. Coordonnées approximatives (centre de la commune) : à corriger."
+}

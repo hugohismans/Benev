@@ -1,0 +1,20 @@
+{
+  "nom": "L'Étoile de Bonté – S.P.A. Quaregnon",
+  "actif": true,
+  "description": "Vous pourrez donner un peu de votre temps aux chiens et chats du refuge, qui vit grâce à ses bénévoles et à ses donateurs.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Rue des Fachelles 83",
+  "code_postal": "7390",
+  "commune": "Quaregnon",
+  "coordonnees": "50.42218, 3.86020",
+  "telephone": "065 67 40 24",
+  "email": "hello@etoiledebonte.net",
+  "site_web": "https://www.etoiledebonte.net/",
+  "horaires": "Lundi au samedi 9h-12h et 12h30-16h30 ; fermé dimanche et jours fériés",
+  "engagement_details": "Contact par téléphone ou e-mail pour proposer son aide.",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.etoiledebonte.net/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Tâches et conditions du bénévolat non détaillées sur le site."
+}

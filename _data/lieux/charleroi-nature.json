@@ -1,0 +1,20 @@
+{
+  "nom": "Charleroi Nature",
+  "actif": true,
+  "description": "Vous pourrez animer des activités nature pour des enfants et des ados : sorties de classe, stages pendant les congés, ateliers.",
+  "categories": [
+    "Nature et jardinage",
+    "Enfants et jeunes"
+  ],
+  "adresse": "Avenue des Muguets 16",
+  "code_postal": "6001",
+  "commune": "Charleroi",
+  "coordonnees": "50.37282, 4.45822",
+  "telephone": "+32 476 52 69 89",
+  "engagement": "Ponctuel",
+  "engagement_details": "Prestations défrayées",
+  "personne_reference": "De Meester Luc",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.giveaday.eu/fr-be/charleroi/volontariat/recherche-animateurs-ou-guides-nature/25859",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Section : Marcinelle (6001). Cherche plutôt des personnes à l'aise pour animer/guider."
+}

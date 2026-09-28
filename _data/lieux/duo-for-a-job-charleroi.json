@@ -1,0 +1,23 @@
+{
+  "nom": "DUO for a JOB Charleroi",
+  "actif": true,
+  "description": "Si vous avez plus de 50 ans, vous pourrez accompagner un jeune dans sa recherche d'emploi, 2 heures par semaine pendant 6 mois. Une formation et un suivi sont prévus, aucune expérience n'est requise.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Quai Paul Verlaine 2",
+  "code_postal": "6000",
+  "commune": "Charleroi",
+  "coordonnees": "50.40646, 4.43777",
+  "telephone": "0471 56 05 74",
+  "email": "charleroi@duoforajob.be",
+  "site_web": "https://www.duoforajob.be/fr/accueil/",
+  "horaires": "En semaine, entre 9h et 17h",
+  "engagement": "Régulier",
+  "engagement_details": "2 h par semaine pendant 6 mois",
+  "personne_reference": "Pepinster Juliette",
+  "pmr": "Oui",
+  "transports": "A vélo, en transports en commun, en voiture (parking payant) (Give a Day)",
+  "source": "https://www.levolontariat.be/devenez-mentor-benevole-chez-duo-job-0",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Réservé aux plus de 50 ans. Bureaux dans les bâtiments de la Nouvelle Gazette. Aussi sur Give a Day (https://www.giveaday.eu/fr-be/charleroi/volontariat/devenir-mentor-accompagner-un-jeune-en-recherche-d-emploi/27596)."
+}

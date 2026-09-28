@@ -1,0 +1,19 @@
+{
+  "nom": "Ressourcerie Sud Hainaut",
+  "actif": false,
+  "description": "Vous pourrez peut-être aider ce magasin social qui trie, nettoie et revend des objets donnés à prix solidaires.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue de la Fontaine Pépin 12",
+  "code_postal": "6540",
+  "commune": "Lobbes",
+  "coordonnees": "50.36430, 4.28477",
+  "telephone": "+32 491 07 82 12",
+  "email": "info@rsudhainaut.be",
+  "site_web": "https://www.rsudhainaut.be/",
+  "horaires": "Magasin : Mer-Sam à partir de 10h (heure de fermeture tronquée sur la page) ; dépôts Mer-Sam 10h-16h",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.rsudhainaut.be/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Ressourcerie = entreprise d'insertion (emplois salariés) ; le bénévolat n'est pas mentionné sur le site. À vérifier avant publication. Second site : Route de Charlemagne 11, 6464 Chimay (zoning de Baileux)."
+}

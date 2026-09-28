@@ -1,0 +1,19 @@
+{
+  "nom": "Maison Croix-Rouge Terrils Verts (Châtelet)",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique (avec un rayon vintage) ou à la distribution de colis alimentaires.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue de Couillet 146H",
+  "code_postal": "6200",
+  "commune": "Châtelet",
+  "coordonnees": "50.39736, 4.49670",
+  "telephone": "071/381333",
+  "site_web": "https://maisons.croix-rouge.be/maisons/terrils-verts/",
+  "horaires": "Lundi, mardi et jeudi de 9h à 12h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/terrils-verts/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Couvre Châtelet, Farciennes, Gerpinnes, Aiseau-Presles, Fleurus. Téléphone de la Maison sur la fiche : 0497/58 51 39 (président) ; 071/381333 = permanence des services."
+}

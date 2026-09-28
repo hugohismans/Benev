@@ -1,0 +1,19 @@
+{
+  "nom": "Maison Croix-Rouge Jurbise-Lens",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique ou à la distribution de colis alimentaires.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Aide alimentaire"
+  ],
+  "adresse": "Chemin du Prince 398",
+  "code_postal": "7050",
+  "commune": "Jurbise",
+  "coordonnees": "50.50884, 3.94875",
+  "telephone": "065/354780",
+  "site_web": "https://maisons.croix-rouge.be/maisons/jurbise-lens/",
+  "horaires": "Mardi et vendredi de 14h à 17h ; mercredi de 9h à 12h et de 14h à 17h ; jeudi de 9h à 12h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/jurbise-lens/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Couvre aussi Lens."
+}

@@ -1,0 +1,21 @@
+{
+  "nom": "CHU Charleroi-Chimay (Humani) – Bénévolat",
+  "actif": true,
+  "description": "Vous pourrez accueillir et orienter patients et visiteurs, accompagner des patients ou animer des moments de détente, dans différents services de l'hôpital.",
+  "categories": [
+    "Accueil et convivialité",
+    "Personnes âgées"
+  ],
+  "adresse": "Boulevard Zoé Drion 1",
+  "code_postal": "6000",
+  "commune": "Charleroi",
+  "coordonnees": "50.41319, 4.45304",
+  "telephone": "071/92.00.68",
+  "email": "deborah.dhollande@humani.be",
+  "site_web": "https://www.humani.be",
+  "engagement_details": "Après un e-mail ou un appel présentant vos motivations, un petit entretien est organisé. Frais de déplacement remboursés.",
+  "personne_reference": "Deborah Dhollande",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.humani.be/actualites/posts/le-chu-charleroi-chimay-recrute-des-benevoles/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Plusieurs sites hospitaliers ; l'adresse est celle du siège (hôpital Vésale/Marie Curie non précisés). Vérifier le site d'affectation."
+}

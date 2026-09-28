@@ -1,0 +1,21 @@
+{
+  "nom": "Maison Croix-Rouge Pays des Collines (Frasnes-lez-Buissenal)",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique, à la brocante, à la bouquinerie, à l'épicerie sociale ou aux colis alimentaires.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Aide alimentaire",
+    "Culture et loisirs"
+  ],
+  "adresse": "Rue Belle Eau 3",
+  "code_postal": "7911",
+  "commune": "Frasnes-lez-Anvaing",
+  "coordonnees": "50.66513, 3.62112",
+  "telephone": "069/34 52 72",
+  "email": "mcr.payscolline@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/pays-des-collines/",
+  "horaires": "Mardi et vendredi de 10h à 12h30 et de 13h30 à 17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/pays-des-collines/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Localité : Frasnes-lez-Buissenal. Couvre aussi Ellezelles et Flobecq."
+}

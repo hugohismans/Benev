@@ -1,0 +1,23 @@
+{
+  "nom": "Repair Café du Collectif Hyper Citoyens",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer du petit électroménager, des vélos, des petits meubles ou des jouets avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Place Omer Musch 1, Piéton",
+  "code_postal": "7160",
+  "commune": "Chapelle-lez-Herlaimont",
+  "coordonnees": "50.43915, 4.29577",
+  "telephone": "064/43.12.57 ou 0487/93.10.20",
+  "email": "animation.cch@gmail.com",
+  "site_web": "http://collectifhypercitoyens.be/",
+  "horaires": "1er vendredi du mois, 16h-19h (pas pendant les congés scolaires)",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 1er vendredi du mois, 16h-19h (pas pendant les congés scolaires)",
+  "personne_reference": "Denis Marcelle",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-du-collectif-hyper-citoyens-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

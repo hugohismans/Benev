@@ -1,0 +1,21 @@
+{
+  "nom": "Maison Croix-Rouge Pays de Charleroi",
+  "actif": true,
+  "description": "Vous pourrez aider à la distribution de colis alimentaires, à l'épicerie sociale ou aux vestiboutiques adultes et enfants.",
+  "categories": [
+    "Aide alimentaire",
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue du Gouvernement 15",
+  "code_postal": "6000",
+  "commune": "Charleroi",
+  "coordonnees": "50.41062, 4.44669",
+  "telephone": "071 32 09 50",
+  "email": "mcr.charleroi@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/pays-de-charleroi/",
+  "horaires": "Colis alimentaires : lundi, mardi et jeudi de 9h30 à 12h ; vestiboutique adulte : lundi, mardi et jeudi de 13h30 à 16h et vendredi de 9h à 16h ; vestiboutique enfant : mardi de 13h30 à 16h et vendredi de 9h à 16h ; épicerie sociale : vendredi de 9h à 16h (sur rendez-vous)",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/pays-de-charleroi/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison."
+}

@@ -1,0 +1,19 @@
+{
+  "nom": "Vestiboutique et colis alimentaires Croix-Rouge de Monceau-sur-Sambre",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique (vêtements pour bébés, enfants et adultes) ou à la préparation de colis alimentaires.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue Albert Camus 18",
+  "code_postal": "6031",
+  "commune": "Charleroi",
+  "coordonnees": "50.41202, 4.38243",
+  "telephone": "0494/676541",
+  "site_web": "https://maisons.croix-rouge.be/maisons/ravel/",
+  "horaires": "Vestiboutique : mardi de 9h à 16h, jeudi de 9h à 15h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/ravel/service/3884/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Localité : Monceau-sur-Sambre. Services de l'antenne Ravel. Téléphone = permanence vestiboutique ; colis alimentaires : 0497/183578. Email de la source = adresse privée, non reprise."
+}

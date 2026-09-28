@@ -1,0 +1,19 @@
+{
+  "nom": "Maison sociale de Gosselies",
+  "actif": false,
+  "description": "Vous pourrez découvrir cette maison sociale qui distribue des colis et tient une épicerie sociale à Gosselies.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Place des Combattants 19",
+  "code_postal": "6041",
+  "commune": "Charleroi",
+  "coordonnees": "50.46452, 4.43182",
+  "telephone": "0475/87.83.45",
+  "email": "administration@maisonsociale.be",
+  "site_web": "http://maisonsociale.be",
+  "horaires": "Mardi 9h00-12h00 et 13h00-15h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.fdss.be/fr/caa/repertoire-de-l-aide-alimentaire/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Répertoire FDSS : l'accueil de bénévoles n'est pas confirmé."
+}

@@ -1,0 +1,17 @@
+{
+  "nom": "CREAVES de Ransart",
+  "actif": false,
+  "description": "Centre qui soigne les animaux sauvages blessés ou orphelins ; vous pourrez demander comment aider aux soins et à l'entretien.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Rue Longue 11",
+  "code_postal": "6043",
+  "commune": "Charleroi (Ransart)",
+  "coordonnees": "50.45735, 4.47362",
+  "telephone": "0471 89 65 83",
+  "email": "creavesderansart@outlook.com",
+  "pmr": "Je ne sais pas",
+  "source": "https://protectiondesoiseaux.be/les-centres-de-revalidation/belgique/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Centre récemment agréé (2026) ; besoin de bénévoles non vérifié."
+}

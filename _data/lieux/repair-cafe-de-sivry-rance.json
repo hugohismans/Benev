@@ -1,0 +1,23 @@
+{
+  "nom": "Repair Café de Sivry-Rance",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer du petit électroménager, des ordinateurs ou des vêtements avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue de Sourenne 1",
+  "code_postal": "6470",
+  "commune": "Sivry-Rance",
+  "coordonnees": "50.16328, 4.22460",
+  "telephone": "0485 47 11 02",
+  "email": "torbant@gmail.com",
+  "site_web": "https://www.facebook.com/RepaircafeSivryrance",
+  "horaires": "4e dimanche du mois, 14h-17h (pas en juillet-août)",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 4e dimanche du mois, 14h-17h (pas en juillet-août)",
+  "personne_reference": "Thierry",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-de-sivry-rance-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil. La fiche dit explicitement : 'Nous sommes toujours à la recherche de bénévoles'."
+}

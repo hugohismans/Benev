@@ -1,0 +1,20 @@
+{
+  "nom": "Maison Croix-Rouge Haute Senne (Ecaussinnes)",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique, au transport social ou à l'accompagnement de personnes isolées.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Avenue de la Déportation 63",
+  "code_postal": "7190",
+  "commune": "Ecaussinnes",
+  "coordonnees": "50.56225, 4.15703",
+  "telephone": "067/771484",
+  "email": "mcr.ht-senne@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/haute-senne/",
+  "horaires": "Lundi, mercredi et vendredi de 9h à 12h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/haute-senne/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Couvre Ecaussinnes, Braine-le-Comte, Soignies. Certaines fiches de service indiquent « 63-2 »."
+}

@@ -1,0 +1,19 @@
+{
+  "nom": "Maison Croix-Rouge Val de l'Escaut (Estaimpuis)",
+  "actif": false,
+  "description": "Vous pourrez participer à l'atelier cuisine ou aux après-midis jeux de société organisés par la Maison.",
+  "categories": [
+    "Accueil et convivialité",
+    "Culture et loisirs"
+  ],
+  "adresse": "Rue du Centre 30",
+  "code_postal": "7730",
+  "commune": "Estaimpuis",
+  "coordonnees": "50.69016, 3.28310",
+  "telephone": "056/48 40 85",
+  "email": "mcr.val-escaut@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/val-de-lescaut/",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/val-de-lescaut/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. La fiche indique « Temporairement pas de permanences » : vérifier que la Maison est active. Couvre Estaimpuis, Pecq, Celles, Mont-de-l'Enclus."
+}

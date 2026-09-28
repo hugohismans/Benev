@@ -1,0 +1,18 @@
+{
+  "nom": "Vestiboutique Croix-Rouge de Tournai",
+  "actif": true,
+  "description": "Vous pourrez aider à trier, ranger et vendre des vêtements de seconde main pour bébés, enfants et adultes.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue de la Cordonnerie 16",
+  "code_postal": "7500",
+  "commune": "Tournai",
+  "coordonnees": "50.60654, 3.39020",
+  "telephone": "069/221015",
+  "site_web": "https://maisons.croix-rouge.be/maisons/tournai/",
+  "horaires": "Lundi de 13h à 16h45 ; du mardi au vendredi de 10h à 16h45",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/tournai/service/3643/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Service de la Maison Croix-Rouge de Tournai."
+}

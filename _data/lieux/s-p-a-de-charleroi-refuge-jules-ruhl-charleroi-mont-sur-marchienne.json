@@ -1,0 +1,21 @@
+{
+  "nom": "S.P.A. de Charleroi (refuge Jules Ruhl)",
+  "actif": true,
+  "description": "Vous pourrez aider à prendre soin des chiens et des chats abandonnés du refuge. Même quelques heures par semaine, le lundi ou le samedi par exemple, ça compte.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Rue Jules Ruhl 211",
+  "code_postal": "6032",
+  "commune": "Charleroi (Mont-sur-Marchienne)",
+  "coordonnees": "50.40342, 4.40991",
+  "telephone": "071 60 93 11",
+  "email": "info@spa-charleroi.be",
+  "site_web": "https://www.spa-charleroi.be/",
+  "horaires": "Lundi 10h-17h ; mardi au vendredi 13h-17h ; samedi 10h-17h",
+  "engagement": "Flexible",
+  "engagement_details": "Horaires flexibles selon vos disponibilités ; formulaire de contact puis rencontre avec l'équipe.",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.spa-charleroi.be/devenir-benevole.php",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Semble correspondre à la 'SRPA Charleroi / Refuge Asile Jules Ruhl' citée ailleurs : ne pas créer de doublon. Horaires = heures d'ouverture du refuge."
+}

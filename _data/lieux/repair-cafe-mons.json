@@ -1,0 +1,23 @@
+{
+  "nom": "Repair Café Mons",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer du petit électroménager, des vêtements, des ordinateurs ou des outils de jardin avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Maison de quartier, Allée des Oiseaux 30",
+  "code_postal": "7000",
+  "commune": "Mons",
+  "coordonnees": "50.44597, 3.96070",
+  "telephone": "0497/90 90 74",
+  "email": "repaircafemons@gmail.com",
+  "site_web": "https://www.facebook.com/RepairCafeMons",
+  "horaires": "Dernier samedi du mois, 14h-17h",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : Dernier samedi du mois, 14h-17h",
+  "personne_reference": "Assunta / Emmanuel",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-mons-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

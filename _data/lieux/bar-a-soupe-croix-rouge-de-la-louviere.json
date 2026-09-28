@@ -1,0 +1,19 @@
+{
+  "nom": "Bar à soupe Croix-Rouge de La Louvière",
+  "actif": true,
+  "description": "Vous pourrez aider à servir la soupe et à accueillir chaleureusement les personnes qui passent en journée.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Achille Chavée 60",
+  "code_postal": "7100",
+  "commune": "La Louvière",
+  "coordonnees": "50.47950, 4.19159",
+  "telephone": "064/216681",
+  "site_web": "https://maisons.croix-rouge.be/maisons/la-louviere-le-roeulx/",
+  "horaires": "Du lundi au vendredi de 10h à 11h45 et de 12h15 à 14h ; accueil spécifique femmes lundi et vendredi de 14h à 16h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/la-louviere-le-roeulx/service/4531/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Accueil de jour / bar à soupe de la Maison Croix-Rouge La Louvière-Le Roeulx."
+}

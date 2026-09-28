@@ -1,0 +1,20 @@
+{
+  "nom": "S.P.A. de La Louvière",
+  "actif": true,
+  "description": "Vous pourrez promener les chiens, câliner et nourrir les chats, aider à l'accueil ou donner un coup de main pour l'entretien et les événements du refuge.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Rue Jean Jaurès 195",
+  "code_postal": "7100",
+  "commune": "La Louvière",
+  "coordonnees": "50.48419, 4.19060",
+  "telephone": "064 22 25 07",
+  "email": "info@spalalouviere.be",
+  "site_web": "https://www.spalalouviere.be/",
+  "horaires": "Mardi-vendredi 13h-17h ; samedi 10h-16h ; dimanche 10h-15h ; fermé le lundi",
+  "engagement_details": "Plusieurs pôles : accueil, chatterie, chenil, entretien, événements, canicross hebdomadaire.",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.spalalouviere.be/benevoles/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Âge minimum et fréquence non précisés."
+}

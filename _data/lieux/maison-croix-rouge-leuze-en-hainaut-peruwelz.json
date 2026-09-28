@@ -1,0 +1,21 @@
+{
+  "nom": "Maison Croix-Rouge Leuze-en-Hainaut-Péruwelz",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique, à la brocante, à la bouquinerie ou à l'épicerie sociale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Aide alimentaire",
+    "Culture et loisirs"
+  ],
+  "adresse": "Rue de la Bonneterie 3 C",
+  "code_postal": "7900",
+  "commune": "Leuze-en-Hainaut",
+  "coordonnees": "50.59856, 3.62271",
+  "telephone": "069 66 64 96",
+  "email": "mcr.leuze@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/leuze-en-hainaut-peruwelz/",
+  "horaires": "Été : mardi et jeudi de 9h à 18h, samedi de 13h à 17h. Hiver : mardi et jeudi de 9h à 17h, samedi de 13h à 17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/leuze-en-hainaut-peruwelz/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Propose aussi une buanderie sociale."
+}

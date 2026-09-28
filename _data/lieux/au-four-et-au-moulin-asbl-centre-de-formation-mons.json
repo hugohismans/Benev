@@ -1,0 +1,20 @@
+{
+  "nom": "Au Four et au Moulin ASBL (centre de formation)",
+  "actif": true,
+  "description": "Vous pourrez aider des stagiaires en français et en calcul, ou donner un coup de main pratique : tondre, peindre un local, faire une livraison ou des courses, quelques heures ou ponctuellement.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Chaussée du Roeulx 331 A",
+  "code_postal": "7000",
+  "commune": "Mons",
+  "coordonnees": "50.45766, 3.98606",
+  "telephone": "+32 473 93 79 96",
+  "engagement": "Flexible",
+  "engagement_details": "Quelques heures par semaine ou ponctuel",
+  "debut_en_douceur": true,
+  "pmr": "Je ne sais pas",
+  "transports": "Vélo (parking vélo), transports en commun, voiture (parking gratuit)",
+  "source": "https://www.giveaday.eu/fr-be/mons/volontariat/aide-logistique-pour-centre-de-formation/60233",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Autre annonce : suivi individualisé des stagiaires (https://www.giveaday.eu/fr-be/mons/volontariat/suivi-individualise-des-stagiaires-francais-calcul-metier/60229)."
+}

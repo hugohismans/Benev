@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café et Donnerie de Froidchapelle",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer des petits objets (électro, vêtements) avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Terne Gilot 9",
+  "code_postal": "6440",
+  "commune": "Froidchapelle",
+  "coordonnees": "50.16195, 4.34700",
+  "site_web": "https://www.facebook.com/profile.php?id=100012634719472",
+  "horaires": "1er mardi du mois, 16h30-18h (pendant la tardive de la donnerie)",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 1er mardi du mois, 16h30-18h (pendant la tardive de la donnerie)",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-froidchapelle-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil. Le Repair Café se tient pendant la donnerie : possibilité d'aider aussi à la donnerie, à vérifier. Coordonnées approximatives (centre de la commune) : à corriger."
+}

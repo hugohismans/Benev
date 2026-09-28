@@ -1,0 +1,18 @@
+{
+  "nom": "Les Anim'Associés",
+  "actif": true,
+  "description": "Vous pourrez aider à organiser des fêtes médiévales, fantastiques, musicales ou artisanales à Tournai, accessibles à tous.",
+  "categories": [
+    "Culture et loisirs"
+  ],
+  "adresse": "Boulevard Walter de Marvis 14",
+  "code_postal": "7500",
+  "commune": "Tournai",
+  "coordonnees": "50.60500, 3.40484",
+  "telephone": "0495 57 78 72",
+  "email": "lesanimassocies@gmail.com",
+  "engagement": "Ponctuel",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.levolontariat.be/group/les-animassocies",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Engagement surtout lié aux événements (déduit, à confirmer)."
+}

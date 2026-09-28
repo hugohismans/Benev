@@ -1,0 +1,19 @@
+{
+  "nom": "Repair Café Au Pied du Mont",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer des objets du quotidien avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue des Marais 7",
+  "code_postal": "7750",
+  "commune": "Mont-de-l'Enclus",
+  "coordonnees": "50.74347, 3.50864",
+  "email": "repair@mjpaja.be",
+  "site_web": "https://www.mjpaja.be",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-au-pied-du-mont-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil. Initiative de la Maison de Jeunes P.A.J.A. Fréquence non précisée."
+}

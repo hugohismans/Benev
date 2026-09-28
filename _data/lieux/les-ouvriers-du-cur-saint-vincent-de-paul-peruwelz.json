@@ -1,0 +1,20 @@
+{
+  "nom": "Les Ouvriers du Cœur (Saint-Vincent de Paul Péruwelz)",
+  "actif": true,
+  "description": "Vous pourrez aider à réceptionner, ranger et livrer les denrées, ou participer aux ateliers créatifs et au magasin de seconde main.",
+  "categories": [
+    "Aide alimentaire",
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue de Sondeville 37",
+  "code_postal": "7600",
+  "commune": "Péruwelz",
+  "coordonnees": "50.50611, 3.58966",
+  "telephone": "0472/85 63 00",
+  "email": "svp074@vincentdepaul.be",
+  "site_web": "https://www.ouvriersducoeur-peruwelz.be/actions",
+  "horaires": "Lundi 14h-16h et vendredi 10h-12h (répertoire FDSS)",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.ouvriersducoeur-peruwelz.be/actions",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

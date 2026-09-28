@@ -1,0 +1,18 @@
+{
+  "nom": "Terre - Carnaby Street Mons",
+  "actif": false,
+  "description": "Vous pourrez peut-être aider dans cette boutique de vêtements vintage de seconde main de l'asbl Terre.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue de la Coupe 54-56",
+  "code_postal": "7000",
+  "commune": "Mons",
+  "coordonnees": "50.45215, 3.95187",
+  "telephone": "065/31.86.06",
+  "site_web": "https://www.terre.be/boutiques/carnaby-street-mons/",
+  "horaires": "Lun-Sam 10h-17h45",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.terre.be/boutiques/carnaby-street-mons/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Terre asbl est surtout une entreprise d'économie sociale (insertion par le travail) : aucune mention de bénévolat trouvée sur le site. À vérifier impérativement avant publication ; à retirer si la boutique n'accueille pas de bénévoles."
+}

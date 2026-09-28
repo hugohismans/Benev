@@ -1,0 +1,21 @@
+{
+  "nom": "École de devoirs du Plan de Cohésion Sociale de Manage",
+  "actif": true,
+  "description": "Vous pourrez aider des enfants de 6 à 12 ans à faire leurs devoirs, ou animer des ateliers (créatifs, artistiques, sportifs…) le mercredi après-midi. Pas besoin d'être diplômé.",
+  "categories": [
+    "Enfants et jeunes"
+  ],
+  "adresse": "Rue de la Petite Franchise 29",
+  "code_postal": "7170",
+  "commune": "Manage",
+  "coordonnees": "50.48917, 4.23019",
+  "telephone": "064 45 95 19",
+  "email": "lucie.cambier@manage-commune.be",
+  "horaires": "Lundi, mardi, jeudi 15h-17h ; mercredi 13h30-15h30",
+  "engagement": "Régulier",
+  "engagement_details": "Un ou plusieurs après-midis par semaine",
+  "personne_reference": "Cambier Lucie",
+  "pmr": "Oui",
+  "source": "https://www.levolontariat.be/recherche-benevoles-qualifies-ou-non-en-ecoles-de-devoirs",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Section : Fayt-lez-Manage (EDD aussi à Bellecourt). Code postal déduit de la localité (non indiqué sur l'annonce)."
+}

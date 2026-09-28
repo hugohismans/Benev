@@ -1,0 +1,20 @@
+{
+  "nom": "La Pépinière-Tournai (potager collectif)",
+  "actif": true,
+  "description": "Vous pourrez cultiver des légumes avec d'autres, dedans et dehors, en permaculture, dans un lieu de rencontre et de partage de savoirs.",
+  "categories": [
+    "Nature et jardinage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Albert Allard 2B",
+  "code_postal": "7500",
+  "commune": "Tournai",
+  "coordonnees": "50.60780, 3.37721",
+  "email": "lapepinieretournai@gmail.com",
+  "site_web": "https://lapepiniere-tournai.be/",
+  "horaires": "Jeudi et samedi matin, 9h-13h",
+  "engagement": "Flexible",
+  "pmr": "Je ne sais pas",
+  "source": "https://lapepiniere-tournai.be/?Les-Potagers=",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

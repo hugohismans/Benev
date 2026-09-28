@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Estaimpuis",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer du petit électroménager, des vêtements, des vélos ou des ordinateurs avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Albert 1er, Néchin",
+  "code_postal": "7730",
+  "commune": "Estaimpuis",
+  "coordonnees": "50.66713, 3.27142",
+  "telephone": "0474 49 75 45",
+  "email": "dedeurph@gmail.com",
+  "horaires": "4e jeudi du mois, 17h-20h",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 4e jeudi du mois, 17h-20h",
+  "personne_reference": "Philippe De Deurwaerder",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-estaimpuis-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil. Pas de numéro de rue sur la fiche."
+}

@@ -1,0 +1,24 @@
+{
+  "nom": "Plan de Cohésion Sociale de Châtelet – Maison de la cohésion sociale",
+  "actif": true,
+  "description": "Vous pourrez partager un talent ou quelques heures dans des activités gratuites (culture, loisirs, sport, santé, entraide). Le PCS cherche des bénévoles en permanence, ponctuellement ou plus régulièrement.",
+  "categories": [
+    "Accueil et convivialité",
+    "Culture et loisirs"
+  ],
+  "adresse": "Rue de la Montagne 14",
+  "code_postal": "6200",
+  "commune": "Châtelet",
+  "coordonnees": "50.40471, 4.52242",
+  "telephone": "071 12 67 76",
+  "site_web": "https://www.facebook.com/PlanDeCohesionSocialeDeChatelet",
+  "horaires": "En semaine et week-end, en journée",
+  "engagement": "Flexible",
+  "engagement_details": "Ponctuel ou régulier, à convenir (dès 1 h/semaine selon Give a Day)",
+  "debut_en_douceur": true,
+  "personne_reference": "Pirard Carole",
+  "pmr": "Oui",
+  "transports": "A vélo (parking vélo), en voiture (parking gratuit), en transports en commun (Give a Day)",
+  "source": "https://www.levolontariat.be/rejoignez-une-equipe-dynamique-et-solidaire-en-devenant-volontaire-au-plan-de-cohesion-sociale-de",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. E-mail personnel retiré : passer par la source. Autre n° indiqué : 071 244 742. Accessible aux personnes ne maîtrisant pas le français. Aussi sur Give a Day (https://www.giveaday.eu/fr-be/chatelet/volontariat/volontaire-au-plan-de-cohesion-sociale-de-chatelet/13592)."
+}

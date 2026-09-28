@@ -1,0 +1,19 @@
+{
+  "nom": "Coordination des Écoles de Devoirs du Hainaut (CEDDH)",
+  "actif": true,
+  "description": "Vous pourrez offrir quelques heures par semaine pour aider des enfants à faire leurs devoirs : la coordination vous oriente vers une école de devoirs près de chez vous.",
+  "categories": [
+    "Enfants et jeunes"
+  ],
+  "adresse": "Chemin des Mourdreux 56",
+  "code_postal": "7000",
+  "commune": "Mons",
+  "coordonnees": "50.45582, 3.97940",
+  "telephone": "0479/94.48.30",
+  "email": "info@ceddh.be",
+  "site_web": "https://www.ecolesdedevoirs.be/hainaut",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.ecolesdedevoirs.be/hainaut",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Point de contact (bureau de coordination), pas un lieu d'activité. Adresse reprise d'un résumé de recherche de cette page ; à revérifier."
+}

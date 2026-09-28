@@ -1,0 +1,19 @@
+{
+  "nom": "Repair Café Seneffe",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer de l'électroménager, des vêtements, des machines à coudre, des vélos ou des objets en bois avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Plan de Cohésion Sociale, Place Penne d'Agenais 12",
+  "code_postal": "7180",
+  "commune": "Seneffe",
+  "coordonnees": "50.53046, 4.25921",
+  "email": "repairseneffe@gmail.com",
+  "engagement": "Régulier",
+  "personne_reference": "Eric Wanekem",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-seneffe-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

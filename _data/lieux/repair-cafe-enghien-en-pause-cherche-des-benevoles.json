@@ -1,0 +1,19 @@
+{
+  "nom": "Repair Café Enghien (en pause, cherche des bénévoles)",
+  "actif": false,
+  "description": "Vous pourrez aider à réparer des objets du quotidien et relancer l'activité avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue de Nazareth",
+  "code_postal": "7850",
+  "commune": "Enghien",
+  "coordonnees": "50.69383, 4.03469",
+  "telephone": "+32 476 59 01 60",
+  "email": "repaircafeenghien@gmail.com",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-enghien-en/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil. En pause depuis novembre 2024 faute de bénévoles ; la fiche invite les personnes intéressées à les contacter pour relancer. Pas de numéro de rue."
+}

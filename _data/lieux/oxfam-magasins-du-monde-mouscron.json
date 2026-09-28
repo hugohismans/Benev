@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam-Magasins du monde Mouscron",
+  "actif": true,
+  "description": "Vous pourrez aider à accueillir les clients, trier et mettre en rayon des vêtements de seconde main et des produits du commerce équitable, au sein d'une équipe de bénévoles.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue de Courtrai, 32",
+  "code_postal": "7700",
+  "commune": "Mouscron",
+  "coordonnees": "50.74509, 3.21721",
+  "telephone": "056 33 19 24",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/mouscron/",
+  "horaires": "Lun 14h-18h, Mar 9h30-12h et 14h-18h, Mer-Ven 10h-12h et 14h-18h, Sam 10h-12h et 14h30-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/mouscron/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Oxfam-Magasins du monde fonctionne avec des équipes locales de bénévoles ; contact général bénévolat : info@mdmoxfam.be / 010 43 79 50 (siège, Wavre). Vérifier auprès du magasin les besoins actuels en bénévoles."
+}

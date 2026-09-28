@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam-Magasins du monde Mons",
+  "actif": true,
+  "description": "Vous pourrez aider à accueillir les clients, conseiller et ranger les produits du commerce équitable (épicerie, artisanat) dans une équipe de bénévoles.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue d'Havré, 15",
+  "code_postal": "7000",
+  "commune": "Mons",
+  "coordonnees": "50.45401, 3.95315",
+  "telephone": "065 34 75 45",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/mons/",
+  "horaires": "Mar-Sam 10h-18h ; fermé lundi, dimanche et jours fériés",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/mons/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Oxfam-Magasins du monde fonctionne avec des équipes locales de bénévoles ; contact général bénévolat : info@mdmoxfam.be / 010 43 79 50 (siège, Wavre). Vérifier auprès du magasin les besoins actuels en bénévoles."
+}

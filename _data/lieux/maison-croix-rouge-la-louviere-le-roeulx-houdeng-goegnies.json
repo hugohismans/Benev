@@ -1,0 +1,22 @@
+{
+  "nom": "Maison Croix-Rouge La Louvière-Le Roeulx (Houdeng-Goegnies)",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique, à la brocante ou à l'épicerie sociale, ou rendre visite à des personnes isolées et participer à des activités collectives.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Aide alimentaire",
+    "Accueil et convivialité",
+    "Personnes âgées"
+  ],
+  "adresse": "Chaussée Houtart 314",
+  "code_postal": "7110",
+  "commune": "La Louvière",
+  "coordonnees": "50.48774, 4.15560",
+  "telephone": "064/21 66 81",
+  "email": "mcr.lalouviere@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/la-louviere-le-roeulx/",
+  "horaires": "Du lundi au vendredi de 9h à 15h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/la-louviere-le-roeulx/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Localité : Houdeng-Goegnies. Les fiches de service écrivent « Chaussée Paul Houtart 314 »."
+}

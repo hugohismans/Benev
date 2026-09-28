@@ -1,0 +1,19 @@
+{
+  "nom": "La Prairie – ferme d'animation (Dottignies)",
+  "actif": true,
+  "description": "Deuxième site de La Prairie : vous pourrez aider autour des animaux de la ferme et des activités nature.",
+  "categories": [
+    "Animaux",
+    "Enfants et jeunes"
+  ],
+  "adresse": "Rue Sous-Lieutenant Catoire 101",
+  "code_postal": "7711",
+  "commune": "Mouscron (Dottignies)",
+  "coordonnees": "50.72575, 3.30950",
+  "telephone": "056 48 59 39",
+  "email": "prairiedot@skynet.be",
+  "site_web": "https://www.prairie.be/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.prairie.be/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Même asbl que La Prairie Mouscron ; modalités de bénévolat à demander."
+}

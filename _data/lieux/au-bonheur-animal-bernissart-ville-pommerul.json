@@ -1,0 +1,19 @@
+{
+  "nom": "Au Bonheur Animal",
+  "actif": true,
+  "description": "Vous pourrez aider à soigner et nourrir plus de 200 animaux sauvés : vaches, cochons, chèvres, moutons, volailles, lapins et petits rongeurs.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Rue d'Hautrage 11",
+  "code_postal": "7322",
+  "commune": "Bernissart (Ville-Pommerœul)",
+  "coordonnees": "50.47429, 3.73886",
+  "telephone": "0476 03 80 15",
+  "email": "aubonheuranimal@outlook.be",
+  "site_web": "https://www.aubonheuranimal.com/",
+  "horaires": "Visites certains dimanches 14h-17h ; sinon sur rendez-vous",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.aubonheuranimal.com/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Refuge agréé sans subsides ; conditions du bénévolat à demander par téléphone ou e-mail."
+}

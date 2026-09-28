@@ -1,0 +1,21 @@
+{
+  "nom": "Comme chez nous – Le Rebond (accueil de jour)",
+  "actif": true,
+  "description": "Vous pourrez servir le café et une collation aux personnes sans-abri accueillies l'après-midi, en binôme avec un autre bénévole et avec l'appui des travailleurs sociaux.",
+  "categories": [
+    "Accueil et convivialité",
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue de Charleville 36",
+  "code_postal": "6000",
+  "commune": "Charleroi",
+  "coordonnees": "50.40645, 4.44278",
+  "telephone": "+32 71 30 23 69",
+  "horaires": "Lundi, mercredi, jeudi 13h15-16h15",
+  "engagement": "Régulier",
+  "personne_reference": "Stefano Muriel",
+  "pmr": "Je ne sais pas",
+  "transports": "Transports en commun",
+  "source": "https://www.giveaday.eu/fr-be/charleroi/volontariat/accueil-de-personnes-sans-abri-les-apres-midi/62264",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

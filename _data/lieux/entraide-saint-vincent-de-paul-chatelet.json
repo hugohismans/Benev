@@ -1,0 +1,20 @@
+{
+  "nom": "Entraide Saint-Vincent de Paul – Châtelet",
+  "actif": false,
+  "description": "Vous pourrez aider à la boutique de seconde main, à l'aide alimentaire, à l'école de devoirs ou à l'aide au numérique.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Aide alimentaire",
+    "Enfants et jeunes"
+  ],
+  "adresse": "Place de l'Hôtel de Ville 21",
+  "code_postal": "6200",
+  "commune": "Châtelet",
+  "coordonnees": "50.40371, 4.52364",
+  "telephone": "071/39 41 22",
+  "email": "chatelet.vincentdepaul@gmail.com",
+  "site_web": "https://fr.vincentdepaul.be",
+  "pmr": "Je ne sais pas",
+  "source": "https://fr.vincentdepaul.be/pres-de-chez-vous/hainaut",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Association animée par des bénévoles ; la page ne publie pas d'appel explicite : contacter pour proposer son aide. Boutique annoncée ailleurs du mardi au vendredi 9h-12h30 et 13h30-15h30 (à vérifier)."
+}

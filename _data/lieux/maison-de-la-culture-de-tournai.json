@@ -1,0 +1,20 @@
+{
+  "nom": "Maison de la culture de Tournai",
+  "actif": false,
+  "description": "Vous pourrez renforcer l'équipe lors des événements : accueil aux entrées des spectacles et diffusion des programmes.",
+  "categories": [
+    "Culture et loisirs",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Avenue des Frères Rimbaut 2",
+  "code_postal": "7500",
+  "commune": "Tournai",
+  "coordonnees": "50.59215, 3.38780",
+  "telephone": "+32 69 25 30 80",
+  "email": "billetterie@maisonculturetournai.com",
+  "site_web": "https://maisonculturetournai.com",
+  "engagement": "Ponctuel",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisonculturetournai.com/actualites/appel-aux-benevoles-etudiantes",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. L'appel indiquait « inscriptions clôturées » : vérifier s'il y a un nouvel appel. Coordonnées approximatives (centre de la commune) : à corriger."
+}

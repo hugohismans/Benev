@@ -1,0 +1,19 @@
+{
+  "nom": "Repair Café Marchienne-au-Pont (Coopéco)",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer du petit électroménager, des vêtements, des ordinateurs ou des vélos avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Coopéco, Rue de l'Abattoir 12, Marchienne-au-Pont",
+  "code_postal": "6030",
+  "commune": "Charleroi",
+  "coordonnees": "50.40679, 4.40114",
+  "email": "rousseauxbernard.br@gmail.com",
+  "engagement": "Régulier",
+  "personne_reference": "Bernard Rousseaux",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-marchienne-au-pont-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil. Associé au supermarché participatif Coopéco. Fréquence non précisée."
+}

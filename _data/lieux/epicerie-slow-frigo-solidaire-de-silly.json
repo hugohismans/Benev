@@ -1,0 +1,19 @@
+{
+  "nom": "Épicerie Slow - frigo solidaire de Silly",
+  "actif": false,
+  "description": "Vous pourrez découvrir ce frigo solidaire lancé par la commune et le CPAS de Silly, ouvert le jeudi en fin de journée.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Place communale 18",
+  "code_postal": "7830",
+  "commune": "Silly",
+  "coordonnees": "50.64825, 3.92355",
+  "telephone": "0486/63.39.93",
+  "email": "slowfood@silly.be",
+  "site_web": "https://www.facebook.com/EpicerieSlow",
+  "horaires": "Jeudi 17h00-18h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.fdss.be/fr/caa/repertoire-de-l-aide-alimentaire/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Répertoire FDSS. Le site epicerieslow.be ne répond pas. L'accueil de bénévoles n'est pas confirmé."
+}

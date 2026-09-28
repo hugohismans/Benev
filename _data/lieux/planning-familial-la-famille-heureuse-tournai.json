@@ -1,0 +1,17 @@
+{
+  "nom": "Planning Familial La Famille Heureuse – Tournai",
+  "actif": true,
+  "description": "Vous pourrez accueillir les personnes qui se présentent au planning familial et les orienter avec bienveillance.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue de la Wallonie 16",
+  "code_postal": "7500",
+  "commune": "Tournai",
+  "coordonnees": "50.60520, 3.38906",
+  "engagement": "Régulier",
+  "engagement_details": "Mission annoncée de juin 2026 à mars 2027.",
+  "pmr": "Je ne sais pas",
+  "source": "https://associations.tournai.be/benevolat",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Contact via Associ'Actions (069 59 08 36)."
+}

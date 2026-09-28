@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam-Magasins du monde Braine-le-Comte",
+  "actif": true,
+  "description": "Vous pourrez aider à accueillir les clients, conseiller et ranger les produits du commerce équitable (épicerie, artisanat) dans une équipe de bénévoles.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue de la Station, 4",
+  "code_postal": "7090",
+  "commune": "Braine-le-Comte",
+  "coordonnees": "50.61029, 4.13707",
+  "telephone": "067 56 07 74",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/braine-le-comte/",
+  "horaires": "Mer 10h-18h, Jeu 9h-18h, Ven-Sam 10h-18h ; fermé lun, mar, dim et jours fériés",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/braine-le-comte/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Oxfam-Magasins du monde fonctionne avec des équipes locales de bénévoles ; contact général bénévolat : info@mdmoxfam.be / 010 43 79 50 (siège, Wavre). Vérifier auprès du magasin les besoins actuels en bénévoles. La page indique par erreur 'Brabant wallon' ; 7090 Braine-le-Comte est bien en Hainaut."
+}

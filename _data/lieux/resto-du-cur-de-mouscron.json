@@ -1,0 +1,19 @@
+{
+  "nom": "Resto du Cœur de Mouscron",
+  "actif": false,
+  "description": "Vous pourrez aider à servir des repas chauds, distribuer des colis alimentaires et accueillir les gens au chauffoir.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Saint-Pierre 32",
+  "code_postal": "7700",
+  "commune": "Mouscron",
+  "coordonnees": "50.74232, 3.21493",
+  "telephone": "0495/54.41.66",
+  "site_web": "https://restosducoeur.be/fr/nos-restos/resto-du-coeur-de-mouscron",
+  "horaires": "Du lundi au vendredi de 9h à 12h sans rendez-vous et de 13h à 17h sur rendez-vous",
+  "pmr": "Je ne sais pas",
+  "source": "https://restosducoeur.be/fr/nos-restos/resto-du-coeur-de-mouscron",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page indique que l'équipe de bénévoles est au complet pour l'instant (formulaire 'Devenir bénévole' disponible pour se manifester). Adresse : la fiche détaillée indique Rue Saint-Pierre 32, la liste générale indique 28 bis."
+}

@@ -1,0 +1,20 @@
+{
+  "nom": "Centrale des moins mobiles de Châtelet (PCS)",
+  "actif": true,
+  "description": "Avec votre voiture, vous pourrez conduire des personnes qui ont du mal à se déplacer. Vous choisissez vous-même vos disponibilités et vos frais de déplacement sont remboursés.",
+  "categories": [
+    "Personnes âgées",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Place Wilson 116",
+  "code_postal": "6200",
+  "commune": "Châtelet",
+  "coordonnees": "50.41691, 4.51812",
+  "telephone": "+32 473 88 33 52",
+  "engagement": "Flexible",
+  "engagement_details": "Vous fixez vos disponibilités, libre d'accepter ou non un trajet",
+  "personne_reference": "Gheysen Maude",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.giveaday.eu/fr-be/chatelet/volontariat/chauffeurs-benevoles-a-la-cmm-de-chatelet/12972",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Nécessite un véhicule personnel."
+}

@@ -1,0 +1,19 @@
+{
+  "nom": "CHU HELORA – Hôpital de Mons, site Constantinople",
+  "actif": true,
+  "description": "Vous pourrez accueillir et orienter les patients, leur tenir compagnie dans les services et participer à des initiatives de confort. Aucun geste médical n'est demandé.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Avenue B. de Constantinople 5",
+  "code_postal": "7000",
+  "commune": "Mons",
+  "coordonnees": "50.45618, 3.96306",
+  "telephone": "065 35 92 26",
+  "email": "sonia.benali@helora.be",
+  "site_web": "https://www.helora.be",
+  "personne_reference": "Sonia Ben Ali",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.helora.be/hopitaux/volontariat",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Adresse trouvée sur https://www.volontr.be/institutions-pour-benevoles/ ; contact sur la page HELORA. Volont'R mentionne aussi la Maison Comtesses (soins palliatifs) à la même adresse. Coordonnées approximatives (centre de la commune) : à corriger."
+}

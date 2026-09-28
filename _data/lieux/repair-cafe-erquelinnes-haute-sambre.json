@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café Erquelinnes (Haute Sambre)",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer des objets en panne avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Floréal Park 20",
+  "code_postal": "6560",
+  "commune": "Erquelinnes",
+  "coordonnees": "50.30671, 4.10882",
+  "telephone": "+32 477.42.66.83",
+  "email": "repaircafe.erquelinnes@gmail.com",
+  "site_web": "https://www.facebook.com/share/1Dr3op17PM/",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-erquelinnes-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

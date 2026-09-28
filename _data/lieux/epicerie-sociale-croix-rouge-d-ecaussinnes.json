@@ -1,0 +1,19 @@
+{
+  "nom": "Épicerie sociale Croix-Rouge d'Ecaussinnes",
+  "actif": true,
+  "description": "Vous pourrez aider à ranger les rayons et à accueillir les personnes qui viennent faire leurs courses à petits prix.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue de la Marlière 43",
+  "code_postal": "7190",
+  "commune": "Ecaussinnes",
+  "coordonnees": "50.56819, 4.17031",
+  "telephone": "067/771484 (option 8)",
+  "email": "mcr.ht-senne@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/haute-senne/",
+  "horaires": "Lundi de 13h30 à 16h ; mercredi de 10h à 12h ; vendredi de 9h à 11h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/haute-senne/service/3774/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Service de la Maison Croix-Rouge Haute Senne."
+}

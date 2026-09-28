@@ -1,0 +1,20 @@
+{
+  "nom": "Service Jeunesse du CPAS de Charleroi – « École & Moi »",
+  "actif": true,
+  "description": "Vous pourrez aider des petits groupes d'enfants (primaire et début secondaire) dans leurs apprentissages, le mercredi après-midi, selon vos possibilités.",
+  "categories": [
+    "Enfants et jeunes"
+  ],
+  "adresse": "Rue Destrée 25",
+  "code_postal": "6001",
+  "commune": "Charleroi",
+  "coordonnees": "50.39804, 4.45238",
+  "telephone": "+32 71 32 23 33",
+  "horaires": "Mercredi après-midi",
+  "engagement": "Régulier",
+  "engagement_details": "Environ 4 h toutes les 2 semaines",
+  "pmr": "Je ne sais pas",
+  "transports": "Transports en commun, voiture (parking gratuit), vélo",
+  "source": "https://www.giveaday.eu/fr-be/charleroi/volontariat/rejoignez-notre-aventure-aidez-les-enfants-a-briller/66549",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Section : Marcinelle."
+}

@@ -1,0 +1,18 @@
+{
+  "nom": "Jardins partagés d'Espace Temps (Gilly)",
+  "actif": true,
+  "description": "Vous pourrez jardiner dans un lieu ouvert où l'entraide et le dialogue entre générations et cultures sont encouragés.",
+  "categories": [
+    "Nature et jardinage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue du Calvaire 98",
+  "code_postal": "6060",
+  "commune": "Charleroi (Gilly)",
+  "coordonnees": "50.42622, 4.47418",
+  "telephone": "071 42 31 11",
+  "site_web": "https://www.espacetemps.be/Jardins-partages",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.espacetemps.be/Jardins-partages",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. L'adresse est celle de la maison de santé Espace Temps ; les jardins se trouvent à l'Athénée Royal et rue des Vallées (près de l'École de la Visitation). Conditions d'accès à demander."
+}

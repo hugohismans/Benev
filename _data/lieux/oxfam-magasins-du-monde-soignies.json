@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam-Magasins du monde Soignies",
+  "actif": true,
+  "description": "Vous pourrez aider à accueillir les clients, trier et mettre en rayon des vêtements de seconde main et des produits du commerce équitable, au sein d'une équipe de bénévoles.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Place Van Zeeland 47",
+  "code_postal": "7060",
+  "commune": "Soignies",
+  "coordonnees": "50.57886, 4.06844",
+  "telephone": "067 33 08 44",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/soignies/",
+  "horaires": "Mar-Sam 9h30-12h30 et 14h-18h ; fermé lundi et dimanche",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/soignies/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Oxfam-Magasins du monde fonctionne avec des équipes locales de bénévoles ; contact général bénévolat : info@mdmoxfam.be / 010 43 79 50 (siège, Wavre). Vérifier auprès du magasin les besoins actuels en bénévoles."
+}

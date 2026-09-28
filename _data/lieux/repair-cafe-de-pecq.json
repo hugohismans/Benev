@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café de Pecq",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer du petit électroménager ou des vêtements avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Chaussée d'Audenarde 421 (en face), Hérinnes",
+  "code_postal": "7742",
+  "commune": "Pecq",
+  "coordonnees": "50.69320, 3.37045",
+  "telephone": "069/25.95.26",
+  "email": "mary.fievet@pecq.be",
+  "horaires": "1er samedi du mois, 14h-17h",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 1er samedi du mois, 14h-17h",
+  "personne_reference": "Mary Fievet (Plan de cohésion sociale de Pecq)",
+  "pmr": "Non",
+  "source": "https://repairtogether.be/en/group/repair-cafe-de-pecq-3/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil. La fiche indique 4 marches à gravir. Coordonnées approximatives (centre de la commune) : à corriger."
+}

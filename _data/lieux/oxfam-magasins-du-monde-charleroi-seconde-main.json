@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam-Magasins du monde Charleroi seconde main",
+  "actif": true,
+  "description": "Vous pourrez aider à trier, ranger et vendre des vêtements de seconde main, et à accueillir les clients avec une équipe de bénévoles.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue de Montigny, 70",
+  "code_postal": "6000",
+  "commune": "Charleroi",
+  "coordonnees": "50.40781, 4.44676",
+  "telephone": "071 18 23 72",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/charleroi-seconde-main/",
+  "horaires": "Lun-Sam 10h-17h30 ; fermé dimanche et jours fériés",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/charleroi-seconde-main/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Oxfam-Magasins du monde fonctionne avec des équipes locales de bénévoles ; contact général bénévolat : info@mdmoxfam.be / 010 43 79 50 (siège, Wavre). Vérifier auprès du magasin les besoins actuels en bénévoles."
+}

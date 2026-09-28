@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam Seconde Main Mons (vêtements)",
+  "actif": true,
+  "description": "Vous pourrez aider à trier et présenter des vêtements, chaussures et objets de brocante de seconde main, et accueillir les clients.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Grand rue 28",
+  "code_postal": "7000",
+  "commune": "Mons",
+  "coordonnees": "50.45168, 3.94947",
+  "email": "shop.mons.textile@oxfamsol.be",
+  "site_web": "https://oxfambelgique.be/magasins/oxfam-seconde-main-mons",
+  "horaires": "Lun-Jeu 10h-18h, Ven-Sam 10h30-18h30 ; fermé dimanche",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfambelgique.be/magasins/oxfam-seconde-main-mons",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Magasin Oxfam Belgique (Oxfam-Solidarité) ; Oxfam indique que ses magasins fonctionnent grâce à des milliers de bénévoles. Vérifier les besoins actuels auprès du magasin."
+}

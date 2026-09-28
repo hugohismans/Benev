@@ -1,0 +1,20 @@
+{
+  "nom": "Télé-Accueil Mons-Hainaut",
+  "actif": false,
+  "description": "Vous pourrez offrir une écoute au téléphone (107) à des personnes qui ont besoin de parler. Une formation d'environ 20 heures vous prépare, et une équipe vous soutient.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Boulevard Sainctelette",
+  "code_postal": "7000",
+  "commune": "Mons",
+  "coordonnees": "50.44637, 3.94674",
+  "telephone": "065 35 22 29",
+  "engagement": "Régulier",
+  "engagement_details": "Environ 16 h par mois",
+  "personne_reference": "Lantair Hugo",
+  "pmr": "Je ne sais pas",
+  "transports": "En voiture (parking gratuit), vélo, transports en commun",
+  "source": "https://www.giveaday.eu/fr-be/mons/volontariat/le-107-recrute-de-nouveaux-benevoles/43477",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. E-mail personnel retiré : passer par la source. Mission exigeante (écoute, formation longue) : caché par prudence, à évaluer. Numéro de rue non indiqué sur l'annonce. Engagement exigeant."
+}

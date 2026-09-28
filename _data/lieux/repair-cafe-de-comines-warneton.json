@@ -1,0 +1,23 @@
+{
+  "nom": "Repair Café de Comines-Warneton",
+  "actif": false,
+  "description": "Vous pourrez aider à réparer de l'électronique, du petit électroménager ou de la petite mécanique avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Café de la Maison du Peuple, Rue Duribreu 52, Le Bizet",
+  "code_postal": "7783",
+  "commune": "Comines-Warneton",
+  "coordonnees": "50.70563, 2.88733",
+  "telephone": "0492 75 77 09",
+  "email": "clarionf@live.be",
+  "site_web": "https://www.facebook.com/Repaircafecomineswarneton",
+  "horaires": "3e jeudi du mois, 18h-20h",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 3e jeudi du mois, 18h-20h",
+  "personne_reference": "Sébastien Lallemant",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-de-comines-warneton-3/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil. Fiche non mise à jour depuis 2024 : vérifier que l'activité continue."
+}

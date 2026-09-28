@@ -1,0 +1,19 @@
+{
+  "nom": "Maison Croix-Rouge Saint-Ghislain-Quaregnon-Frameries",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique : trier, ranger et vendre des vêtements de seconde main pour toute la famille.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue du Village 126",
+  "code_postal": "7390",
+  "commune": "Quaregnon",
+  "coordonnees": "50.44147, 3.86510",
+  "telephone": "065/793156",
+  "email": "mcr.quaregnon@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/saint-ghislain-quaregnon-frameries/",
+  "horaires": "Lundi de 9h à 14h ; du mardi au vendredi de 9h à 15h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/saint-ghislain-quaregnon-frameries/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Le site websoc.hainaut.be indique « Rue du Village 118 » : numéro à vérifier."
+}

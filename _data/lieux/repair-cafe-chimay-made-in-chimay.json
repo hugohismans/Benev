@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Chimay (Made in Chimay)",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer des objets du quotidien avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Tiers-Lieu Made in Chimay, Rue d'Angleterre 10",
+  "code_postal": "6460",
+  "commune": "Chimay",
+  "coordonnees": "50.04868, 4.31497",
+  "telephone": "+32 474 10 25 62",
+  "email": "mic@chimayville.be",
+  "site_web": "https://www.facebook.com/TLmadeinchimay",
+  "horaires": "3e samedi du mois, 9h45-12h45",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 3e samedi du mois, 9h45-12h45",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-chimay-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café La Louvière (La Croyère)",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer des objets en bois, des vélos, des vêtements ou des ordinateurs avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Maison de quartier La Croyère, Rue des Résédas 27",
+  "code_postal": "7100",
+  "commune": "La Louvière",
+  "coordonnees": "50.49402, 4.19876",
+  "telephone": "0477/44 18 46",
+  "email": "repaircafelc@lalouviere.be",
+  "horaires": "4e samedi du mois, 14h-17h (sur inscription)",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 4e samedi du mois, 14h-17h (sur inscription)",
+  "personne_reference": "Séverine Matz",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-la-louviere-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

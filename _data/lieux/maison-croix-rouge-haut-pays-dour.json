@@ -1,0 +1,19 @@
+{
+  "nom": "Maison Croix-Rouge Haut Pays (Dour)",
+  "actif": true,
+  "description": "Vous pourrez aider à l'épicerie sociale ou à la vestiboutique (vêtements, puériculture, linge de maison).",
+  "categories": [
+    "Seconde main et recyclage",
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue Grande 25",
+  "code_postal": "7370",
+  "commune": "Dour",
+  "coordonnees": "50.39773, 3.77968",
+  "telephone": "065-679-610",
+  "site_web": "https://maisons.croix-rouge.be/maisons/haut-pays/",
+  "horaires": "Lundi 10h-17h ; mardi fermé ; mercredi 10h-17h ; jeudi et vendredi 8h30-17h ; samedi 9h-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/haut-pays/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Couvre Dour, Hensies, Honnelles, Quiévrain."
+}

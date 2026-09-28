@@ -1,0 +1,18 @@
+{
+  "nom": "Les Amis de la Cathédrale de Tournai",
+  "actif": true,
+  "description": "Vous pourrez devenir « Ange » de la cathédrale et accueillir les visiteurs de ce monument.",
+  "categories": [
+    "Culture et loisirs",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Place de l'Évêché 1",
+  "code_postal": "7500",
+  "commune": "Tournai",
+  "coordonnees": "50.60702, 3.38801",
+  "engagement": "Régulier",
+  "engagement_details": "Mission annoncée d'avril 2026 à avril 2027.",
+  "pmr": "Je ne sais pas",
+  "source": "https://associations.tournai.be/benevolat",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Contact via la plateforme Associ'Actions (Maison des associations : 069 59 08 36). Détail de la mission à vérifier."
+}

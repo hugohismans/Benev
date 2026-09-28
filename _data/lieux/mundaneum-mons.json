@@ -1,0 +1,18 @@
+{
+  "nom": "Mundaneum",
+  "actif": false,
+  "description": "Centre d'archives et lieu d'expositions sur l'histoire du savoir, à Mons. Vous pourrez vous renseigner sur les possibilités d'aider à l'accueil ou lors d'événements.",
+  "categories": [
+    "Culture et loisirs"
+  ],
+  "adresse": "Rue de Nimy 76",
+  "code_postal": "7000",
+  "commune": "Mons",
+  "coordonnees": "50.45762, 3.95558",
+  "telephone": "065 31 53 43",
+  "email": "info@mundaneum.be",
+  "site_web": "https://mundaneum.org/",
+  "pmr": "Je ne sais pas",
+  "source": "https://mundaneum.org/en/the-mundaneum/staff/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Un résultat de recherche mentionne une rubrique 'Stages & bénévoles' sur le site, mais la page n'a pas pu être consultée. Bénévolat à confirmer auprès du Mundaneum."
+}

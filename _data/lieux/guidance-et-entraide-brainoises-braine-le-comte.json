@@ -1,0 +1,19 @@
+{
+  "nom": "Guidance et Entraide brainoises",
+  "actif": false,
+  "description": "Vous pourrez découvrir cette épicerie sociale de Braine-le-Comte, ouverte plusieurs demi-journées par semaine.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue Henri Neuman 19",
+  "code_postal": "7090",
+  "commune": "Braine-le-Comte",
+  "coordonnees": "50.60922, 4.13832",
+  "telephone": "067/56.16.11",
+  "email": "info@gebasbl.be",
+  "site_web": "https://gebasbl.be",
+  "horaires": "Lu 13h-16h, ma 10h-12h10, me 13h-16h30, je 9h30-12h20, ve 10h-12h10",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.fdss.be/fr/caa/repertoire-de-l-aide-alimentaire/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Répertoire FDSS (destiné aux bénéficiaires) : l'accueil de bénévoles n'est pas confirmé."
+}

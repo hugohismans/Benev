@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Silly",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer du petit électro, des vêtements, des objets en bois ou aiguiser des outils avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Centre Culturel Silly, Rue Saint-Pierre 4",
+  "code_postal": "7830",
+  "commune": "Silly",
+  "coordonnees": "50.64835, 3.92253",
+  "telephone": "0476/404052",
+  "email": "florent.schaukens@skynet.be",
+  "horaires": "2e mercredi du mois, 14h-18h",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 2e mercredi du mois, 14h-18h",
+  "personne_reference": "Florent Schaukens (CCCA de Silly)",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-silly-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

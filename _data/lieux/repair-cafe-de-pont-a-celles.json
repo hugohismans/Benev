@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café de Pont-à-Celles",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer du petit électroménager, des vêtements, des vélos ou des petits meubles avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "École communale d'Obaix, Rue du Village 78, Obaix",
+  "code_postal": "6230",
+  "commune": "Pont-à-Celles",
+  "coordonnees": "50.52647, 4.36073",
+  "telephone": "+32 486 23 20 22",
+  "email": "pontacellesentransition@gmail.com",
+  "site_web": "https://www.pacentransition.be/le-repair-cafe/",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-de-pont-a-celles-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil. Entrée par la cour d'école, rue des Mottes. Fréquence non précisée sur la fiche."
+}

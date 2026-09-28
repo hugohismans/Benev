@@ -2,6 +2,7 @@
 """Importe des lieux en masse dans _data/lieux/.
 
 Usage : python3 scripts/importer.py fichier1.json [fichier2.json ...]
+        python3 scripts/importer.py --corriger   (recalcule les coordonnées approximatives)
 
 Chaque fichier contient une liste de lieux (mêmes champs que dans l'admin).
 Les coordonnées GPS manquantes sont calculées avec OpenStreetMap (Nominatim),
@@ -14,6 +15,7 @@ import re
 import sys
 import time
 import unicodedata
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -26,7 +28,11 @@ CHAMPS = ['nom', 'actif', 'description', 'categories', 'adresse', 'code_postal',
           'pmr', 'transports', 'source', 'notes']
 
 
+NOTE_APPROX = 'Coordonnées approximatives (centre de la commune) : à corriger.'
+
+
 def slug(texte):
+    texte = texte.replace('œ', 'oe').replace('Œ', 'Oe').replace('æ', 'ae')
     texte = unicodedata.normalize('NFD', texte).encode('ascii', 'ignore').decode()
     return re.sub(r'[^a-z0-9]+', '-', texte.lower()).strip('-')[:80]
 
@@ -35,9 +41,17 @@ def nominatim(params):
     params = dict(params, format='jsonv2', limit=1, countrycodes='be')
     url = 'https://nominatim.openstreetmap.org/search?' + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={'User-Agent': 'benev-importer/1.0 (site de bénévolat, Hainaut)'})
-    time.sleep(1.1)
-    with urllib.request.urlopen(req, timeout=20) as r:
-        res = json.load(r)
+    for essai in range(3):
+        time.sleep(1.5)
+        try:
+            with urllib.request.urlopen(req, timeout=20) as r:
+                res = json.load(r)
+            break
+        except urllib.error.HTTPError as e:
+            if e.code != 429 or essai == 2:
+                raise
+            print('  (trop de requêtes, pause de 60 s)')
+            time.sleep(60)
     if not res:
         return None
     lat, lng = float(res[0]['lat']), float(res[0]['lon'])
@@ -46,13 +60,28 @@ def nominatim(params):
     return lat, lng
 
 
+def cle_adresse(lieu):
+    """Clé servant à repérer deux fiches pour une même adresse."""
+    rue = slug(lieu.get('adresse', ''))
+    if not rue or not re.search(r'\d', rue):
+        return None
+    return rue + '|' + (lieu.get('code_postal') or slug(lieu.get('commune', '')))
+
+
 def geocoder(lieu):
     """Renvoie ((lat, lng), précision) ou (None, None)."""
-    rue, cp, commune = lieu.get('adresse', ''), lieu.get('code_postal', ''), lieu.get('commune', '')
+    rue, cp = lieu.get('adresse', ''), lieu.get('code_postal', '')
+    # « Gilly (Charleroi) » → « Gilly »
+    commune = re.sub(r'\s*\(.*?\)', '', lieu.get('commune', '')).strip()
     essais = []
-    if rue:
-        essais.append(({'street': rue, 'postalcode': cp, 'city': commune}, 'adresse'))
-        essais.append(({'q': ', '.join(x for x in [rue, cp, commune] if x)}, 'adresse'))
+    rues = [rue] if rue else []
+    # « Maison du Peuple, Place Émile Vandervelde 28 » → « Place Émile Vandervelde 28 »
+    morceaux = [m.strip() for m in rue.split(',') if re.search(r'\d', m)]
+    if morceaux and morceaux[-1] != rue:
+        rues.append(morceaux[-1])
+    for r in rues:
+        essais.append(({'street': r, 'postalcode': cp, 'city': commune}, 'adresse'))
+        essais.append(({'q': ', '.join(x for x in [r, cp, commune] if x)}, 'adresse'))
     if cp or commune:
         essais.append(({'q': ', '.join(x for x in [cp, commune, 'Belgique'] if x)}, 'commune'))
     for params, precision in essais:
@@ -70,6 +99,12 @@ def geocoder(lieu):
 def main(fichiers):
     os.makedirs(DOSSIER, exist_ok=True)
     existants = {f[:-5] for f in os.listdir(DOSSIER) if f.endswith('.json')}
+    adresses = set()
+    for f in existants:
+        with open(os.path.join(DOSSIER, f + '.json'), encoding='utf-8') as fh:
+            cle = cle_adresse(json.load(fh))
+        if cle:
+            adresses.add(cle)
     ajoutes = ignores = 0
     for chemin in fichiers:
         with open(chemin, encoding='utf-8') as f:
@@ -85,7 +120,16 @@ def main(fichiers):
                 print('- déjà présent :', nom)
                 ignores += 1
                 continue
+            cle = cle_adresse(lieu)
+            if cle and cle in adresses:
+                print('- doublon (même adresse) :', nom)
+                ignores += 1
+                continue
             notes = [lieu.get('notes', '').strip()] if lieu.get('notes') else []
+            # Un lieu dont le bénévolat n'est pas confirmé est importé mais caché.
+            if lieu.get('benevolat_confirme') is False:
+                lieu['actif'] = False
+                notes.insert(0, 'À VÉRIFIER : accueil de bénévoles non confirmé.')
             if not lieu.get('coordonnees'):
                 pos, precision = geocoder(lieu)
                 if not pos:
@@ -94,7 +138,7 @@ def main(fichiers):
                     continue
                 lieu['coordonnees'] = '%.5f, %.5f' % pos
                 if precision == 'commune':
-                    notes.append('Coordonnées approximatives (centre de la commune) : à corriger.')
+                    notes.append(NOTE_APPROX)
             lieu['notes'] = ' '.join(notes)
             lieu['actif'] = lieu.get('actif', True)
             propre = {}
@@ -107,13 +151,39 @@ def main(fichiers):
                 json.dump(propre, f, ensure_ascii=False, indent=2)
                 f.write('\n')
             existants.add(nom_fichier)
+            if cle:
+                adresses.add(cle)
             ajoutes += 1
             print('+', nom, '→', lieu['coordonnees'])
     print('\n%d lieux ajoutés, %d ignorés.' % (ajoutes, ignores))
+
+
+def corriger():
+    for f in sorted(os.listdir(DOSSIER)):
+        chemin = os.path.join(DOSSIER, f)
+        with open(chemin, encoding='utf-8') as fh:
+            lieu = json.load(fh)
+        if NOTE_APPROX not in lieu.get('notes', ''):
+            continue
+        pos, precision = geocoder(lieu)
+        if precision != 'adresse':
+            print('- toujours approximatif :', lieu['nom'])
+            continue
+        lieu['coordonnees'] = '%.5f, %.5f' % pos
+        lieu['notes'] = ' '.join(lieu['notes'].replace(NOTE_APPROX, '').split())
+        if not lieu['notes']:
+            del lieu['notes']
+        with open(chemin, 'w', encoding='utf-8') as fh:
+            json.dump(lieu, fh, ensure_ascii=False, indent=2)
+            fh.write('\n')
+        print('+ corrigé :', lieu['nom'], '→', lieu['coordonnees'])
 
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
         print(__doc__)
         sys.exit(1)
-    main(sys.argv[1:])
+    if sys.argv[1] == '--corriger':
+        corriger()
+    else:
+        main(sys.argv[1:])

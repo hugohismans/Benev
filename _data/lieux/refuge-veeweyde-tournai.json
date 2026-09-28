@@ -1,0 +1,21 @@
+{
+  "nom": "Refuge Veeweyde Tournai",
+  "actif": true,
+  "description": "Vous pourrez promener les chiens, brosser les animaux, nettoyer les enclos et tenir compagnie aux pensionnaires : chiens, chats, rongeurs ou animaux de ferme.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Vieux Chemin Willems 159",
+  "code_postal": "7500",
+  "commune": "Tournai",
+  "coordonnees": "50.61155, 3.36530",
+  "telephone": "069 22 54 69",
+  "email": "veeweyde.tournai@veeweyde.be",
+  "site_web": "https://www.veeweyde.be/en/the-shelter-of-veeweyde-tournai/",
+  "horaires": "Visites et adoptions sur rendez-vous, du lundi au samedi",
+  "engagement": "Régulier",
+  "engagement_details": "Une matinée fixe par semaine pendant au moins 6 mois ; 18 ans minimum ; candidature avec lettre de motivation par e-mail.",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.veeweyde.be/en/become-a-volunteer/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. GPS : rue des Mottes 159. Engagement assez exigeant (matinée fixe, 6 mois) ; candidature sélective."
+}

@@ -1,0 +1,21 @@
+{
+  "nom": "CRIE d'Harchies (Natagora)",
+  "actif": true,
+  "description": "Au bord des marais d'Harchies, vous pourrez aider lors des fêtes nature : tenir le bar, raconter des histoires ou animer un stand. Si vous connaissez bien les marais, vous pourrez aussi guider des balades.",
+  "categories": [
+    "Nature et jardinage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Chemin des Préaux 5",
+  "code_postal": "7321",
+  "commune": "Bernissart (Harchies)",
+  "coordonnees": "50.48971, 3.66943",
+  "telephone": "069 58 11 72",
+  "email": "crie.harchies@natagora.be",
+  "site_web": "https://crieharchies.natagora.be/",
+  "engagement": "Ponctuel",
+  "engagement_details": "Surtout lors des événements.",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.natagora.be/le-crie-dharchies",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Attention : de nombreux GPS indiquent à tort le hall sportif de Bernissart. La régionale Natagora Centre-Ouest Hainaut gère aussi 14 réserves (chantiers de gestion) : https://centreouesthainaut.natagora.be/nos-reserves Coordonnées approximatives (centre de la commune) : à corriger."
+}

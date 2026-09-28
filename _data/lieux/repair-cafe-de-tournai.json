@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café de Tournai",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer du petit électro, des vêtements, des vélos, des jouets ou du matériel de jardin avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "MJ Masure Quatorze, Rue as Pois 7",
+  "code_postal": "7500",
+  "commune": "Tournai",
+  "coordonnees": "50.60614, 3.38112",
+  "email": "repaircafetournai@gmail.com",
+  "horaires": "2e dimanche du mois, 10h-15h",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 2e dimanche du mois, 10h-15h",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-de-tournai-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

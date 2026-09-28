@@ -1,0 +1,19 @@
+{
+  "nom": "La Maison des Familles - épicerie sociale de Tournai",
+  "actif": false,
+  "description": "Vous pourrez découvrir l'épicerie sociale de la Maison des Familles, qui gère aussi le restaurant social Une Assiette pour Tous.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue du Quesnoy 15",
+  "code_postal": "7500",
+  "commune": "Tournai",
+  "coordonnees": "50.60823, 3.39596",
+  "telephone": "069/89.07.07",
+  "email": "infos@maisondesfamilles.eu",
+  "site_web": "https://www.maisondesfamilles.eu/",
+  "horaires": "Mardi, jeudi et vendredi, 9h00-12h00",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.fdss.be/fr/caa/repertoire-de-l-aide-alimentaire/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Répertoire FDSS : l'accueil de bénévoles n'est pas confirmé. Autres antennes : Chièvres, Celles, Brunehaut."
+}

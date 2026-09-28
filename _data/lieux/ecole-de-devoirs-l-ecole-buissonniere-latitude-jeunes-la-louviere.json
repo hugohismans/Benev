@@ -1,0 +1,20 @@
+{
+  "nom": "École de devoirs L'École Buissonnière (Latitude Jeunes)",
+  "actif": true,
+  "description": "Vous pourrez aider des enfants de 6 à 12 ans à faire leurs devoirs après l'école, en centre-ville de La Louvière.",
+  "categories": [
+    "Enfants et jeunes"
+  ],
+  "adresse": "Rue Warocqué 19",
+  "code_postal": "7100",
+  "commune": "La Louvière",
+  "coordonnees": "50.47773, 4.19095",
+  "telephone": "0473 52 42 01",
+  "email": "alice.pirau@solidaris.be",
+  "site_web": "https://my.one.be/ecole-de-devoirs/2032846",
+  "horaires": "Lundi–vendredi 15h–19h ; mercredi 12h–19h",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "source": "https://volontariat.ecolesdedevoirs.be/edd-recherche-volontaires/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Adresse : https://my.one.be/ecole-de-devoirs/2032846 (autre contact : 071/507 817, latitudejeunes.317@solidaris.be)."
+}

@@ -1,0 +1,21 @@
+{
+  "nom": "Une Assiette pour Tous",
+  "actif": true,
+  "description": "Vous pourrez aider en cuisine ou en salle dans ce restaurant social qui sert environ 75 repas chaque midi en semaine.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue de Monnel 12",
+  "code_postal": "7500",
+  "commune": "Tournai",
+  "coordonnees": "50.60978, 3.39385",
+  "telephone": "069/81.75.72",
+  "email": "assiettepourtous@gmail.com",
+  "site_web": "https://www.maisondesfamilles.eu/index.php/restaurant-social-assiette-pour-tous/",
+  "horaires": "Lundi au vendredi, 11h00 à 13h50",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "source": "https://vivre-ensemble.be/association/une-assiette-pour-tous/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Une douzaine de bénévoles se relaient selon la presse (L'Avenir). Horaires issus du répertoire FDSS."
+}

@@ -1,0 +1,20 @@
+{
+  "nom": "Entraide Saint-Vincent de Paul – Fontaine-l'Évêque",
+  "actif": false,
+  "description": "Vous pourrez aider aux colis alimentaires et au vestiaire, aux activités sociales ou à l'atelier après l'école pour les enfants de 5 à 9 ans.",
+  "categories": [
+    "Aide alimentaire",
+    "Enfants et jeunes",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Place de la Wallonie 16",
+  "code_postal": "6140",
+  "commune": "Fontaine-l'Évêque",
+  "coordonnees": "50.41118, 4.32485",
+  "telephone": "071/54 02 96",
+  "email": "svp291@vincentdepaul.be",
+  "site_web": "https://fr.vincentdepaul.be",
+  "pmr": "Je ne sais pas",
+  "source": "https://fr.vincentdepaul.be/pres-de-chez-vous/hainaut",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Association animée par des bénévoles ; la page ne publie pas d'appel explicite : contacter pour proposer son aide."
+}

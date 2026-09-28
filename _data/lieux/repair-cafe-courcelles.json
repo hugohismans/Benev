@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Courcelles",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer de l'électroménager, des ordinateurs ou des vélos avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Place Albert Ier 32",
+  "code_postal": "6180",
+  "commune": "Courcelles",
+  "coordonnees": "50.46131, 4.37188",
+  "telephone": "+32 495 31 64 68",
+  "email": "Pascal.vanenhove@gmail.com",
+  "site_web": "https://www.facebook.com/repair.cafe.courcelles/",
+  "horaires": "3e samedi de mars, juin, septembre et décembre, 13h-17h",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 3e samedi de mars, juin, septembre et décembre, 13h-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-courcelles-3/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil. Seulement 4 séances par an. Coordonnées approximatives (centre de la commune) : à corriger."
+}

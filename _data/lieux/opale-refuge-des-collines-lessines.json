@@ -1,0 +1,19 @@
+{
+  "nom": "Opale – Refuge des Collines",
+  "actif": true,
+  "description": "Vous pourrez aider à prendre soin des chiens, chats, lapins, chevaux, animaux de ferme et autres petits animaux abandonnés ou saisis.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Chaussée de Renaix 176B",
+  "code_postal": "7860",
+  "commune": "Lessines",
+  "coordonnees": "50.71733, 3.79528",
+  "telephone": "0495 66 00 02",
+  "email": "refugeopaleasbl@gmail.com",
+  "site_web": "https://www.opaleasblrefugedescollines.com/",
+  "horaires": "Du lundi au samedi, uniquement sur rendez-vous",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.opaleasblrefugedescollines.com/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Le site mentionne le bénévolat parmi les façons d'aider, sans détails."
+}

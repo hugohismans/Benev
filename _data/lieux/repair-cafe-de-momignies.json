@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café de Momignies",
+  "actif": false,
+  "description": "Vous pourrez aider à réparer du petit électroménager, des vêtements, des vélos ou du tricot avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "La Cave des Fagnes, Rue Mandenne 1",
+  "code_postal": "6590",
+  "commune": "Momignies",
+  "coordonnees": "50.02701, 4.15905",
+  "telephone": "0496 405 409",
+  "email": "olivierrecloux@hotmail.com",
+  "horaires": "4e samedi du mois, 14h-17h30",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 4e samedi du mois, 14h-17h30",
+  "personne_reference": "Nathalie Dubuisson, Jacques Lafosse, Olivier Recloux",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-de-momignies-3/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil. Fiche non mise à jour depuis 2024 : vérifier que l'activité continue."
+}

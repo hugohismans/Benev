@@ -1,0 +1,19 @@
+{
+  "nom": "Vestiboutique et bouquinerie Croix-Rouge de Nalinnes",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique (vêtements, jouets, objets de la maison) ou à la bouquinerie.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Culture et loisirs"
+  ],
+  "adresse": "Rue Couture 9",
+  "code_postal": "6120",
+  "commune": "Ham-sur-Heure-Nalinnes",
+  "coordonnees": "50.32642, 4.44893",
+  "telephone": "071/594270",
+  "site_web": "https://maisons.croix-rouge.be/maisons/val-des-aulnes/",
+  "horaires": "Du mardi au vendredi de 9h30 à 12h30 et de 13h à 17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/val-des-aulnes/service/3658/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Service de la Maison Croix-Rouge Val des Aulnes. Localité : Nalinnes."
+}

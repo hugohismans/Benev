@@ -1,0 +1,19 @@
+{
+  "nom": "Contrat de Rivière Sambre & Affluents",
+  "actif": false,
+  "description": "Vous pourrez vous renseigner sur les actions pour des rivières plus propres autour de la Sambre (par exemple lutte contre les plantes invasives).",
+  "categories": [
+    "Nature et jardinage"
+  ],
+  "adresse": "Rue de Monceau Fontaine 42/20",
+  "code_postal": "6031",
+  "commune": "Charleroi (Monceau-sur-Sambre)",
+  "coordonnees": "50.41513, 4.38655",
+  "telephone": "071 96 07 18",
+  "email": "info@crsambre.be",
+  "site_web": "https://www.crsambre.be/",
+  "engagement": "Ponctuel",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.crsambre.be/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas de programme de bénévolat explicite trouvé : à vérifier."
+}

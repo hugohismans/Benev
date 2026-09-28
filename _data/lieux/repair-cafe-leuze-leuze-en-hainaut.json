@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Leuze",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer des ordinateurs, smartphones, de l'électroménager, des vêtements ou des vélos avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Centre culturel de Leuze (3e étage), Rue d'Ath 33B",
+  "code_postal": "7900",
+  "commune": "Leuze-en-Hainaut",
+  "coordonnees": "50.60001, 3.62477",
+  "telephone": "0476 24 80 47",
+  "site_web": "https://www.facebook.com/profile.php?id=100081037398199",
+  "horaires": "4e vendredi du mois, 16h-19h",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 4e vendredi du mois, 16h-19h",
+  "pmr": "Oui",
+  "transports": "Parking aisé",
+  "source": "https://repairtogether.be/en/group/repair-cafe-leuze-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil. La fiche mentionne un ascenseur (accès 3e étage)."
+}

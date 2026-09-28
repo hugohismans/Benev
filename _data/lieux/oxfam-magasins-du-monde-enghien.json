@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam-Magasins du monde Enghien",
+  "actif": false,
+  "description": "Vous pourrez aider à accueillir les clients, conseiller et ranger les produits du commerce équitable (épicerie, artisanat) dans une équipe de bénévoles.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue d'Hérinnes, 4",
+  "code_postal": "7850",
+  "commune": "Enghien",
+  "coordonnees": "50.69369, 4.03927",
+  "telephone": "02 395 35 62",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/enghien/",
+  "horaires": "Mar-Ven 9h30-12h30 et 13h30-18h30, Sam 10h-12h30 et 13h30-18h30 ; fermé lundi et dimanche",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/enghien/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Oxfam-Magasins du monde fonctionne avec des équipes locales de bénévoles ; contact général bénévolat : info@mdmoxfam.be / 010 43 79 50 (siège, Wavre). Vérifier auprès du magasin les besoins actuels en bénévoles."
+}

@@ -1,0 +1,18 @@
+{
+  "nom": "Maison de la Participation et des Associations – jardins partagés",
+  "actif": true,
+  "description": "Cette association accompagne les jardins partagés de Charleroi : elle pourra vous orienter vers un jardin près de chez vous pour cultiver avec d'autres.",
+  "categories": [
+    "Nature et jardinage"
+  ],
+  "adresse": "Route de Mons 80",
+  "code_postal": "6030",
+  "commune": "Charleroi (Marchienne-au-Pont)",
+  "coordonnees": "50.41146, 4.43285",
+  "telephone": "071 53 91 53",
+  "email": "info@mpa80.be",
+  "site_web": "https://mpacharleroi.be/reseau-jaquady/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.charleroi.be/annuaire/jardins-partages",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Point d'entrée vers le réseau (au moins 25 jardins partagés à Charleroi, dont le Jardin du Parc près du Palais de Justice où 'il reste de la place', selon la RTBF)."
+}

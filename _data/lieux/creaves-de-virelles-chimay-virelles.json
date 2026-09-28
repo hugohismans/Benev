@@ -1,0 +1,19 @@
+{
+  "nom": "CREAVES de Virelles",
+  "actif": false,
+  "description": "Vous pourrez rejoindre les soigneurs bénévoles qui s'occupent des animaux sauvages blessés recueillis au bord du lac de Virelles.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Rue du Lac 42",
+  "code_postal": "6461",
+  "commune": "Chimay (Virelles)",
+  "coordonnees": "50.06735, 4.33707",
+  "telephone": "0476 94 22 25",
+  "email": "creavesdevirelles@gmail.com",
+  "site_web": "http://creavesvirelles.blogspot.com/",
+  "horaires": "Ouvert tous les jours, 9h-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://protectiondesoiseaux.be/les-centres-de-revalidation/belgique/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Situé sur le site de l'Aquascope. Horaires = accueil des animaux. Modalités de bénévolat non trouvées."
+}

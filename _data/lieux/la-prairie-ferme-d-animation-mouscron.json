@@ -1,0 +1,19 @@
+{
+  "nom": "La Prairie – ferme d'animation (Mouscron)",
+  "actif": true,
+  "description": "Dans cette ferme d'animation ouverte à tous, vous pourrez donner un coup de main autour des animaux de la ferme et de la nature, aux côtés d'une équipe soutenue par de nombreux bénévoles.",
+  "categories": [
+    "Animaux",
+    "Enfants et jeunes"
+  ],
+  "adresse": "Rue de la Vellerie 121",
+  "code_postal": "7700",
+  "commune": "Mouscron",
+  "coordonnees": "50.73196, 3.21411",
+  "telephone": "056 34 20 44",
+  "email": "contact@prairie.be",
+  "site_web": "https://www.prairie.be/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.prairie.be/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Le site dit s'appuyer sur de nombreux bénévoles, sans modalités précises."
+}

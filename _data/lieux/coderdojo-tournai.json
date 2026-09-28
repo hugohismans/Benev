@@ -1,0 +1,23 @@
+{
+  "nom": "CoderDojo Tournai",
+  "actif": true,
+  "description": "Vous pourrez aider des enfants à réaliser leurs petits projets de programmation lors des ateliers du club. Pas besoin d'être expert : l'envie d'encourager les jeunes suffit.",
+  "categories": [
+    "Enfants et jeunes",
+    "Culture et loisirs"
+  ],
+  "adresse": "Avenue Minjean 9",
+  "code_postal": "7500",
+  "commune": "Tournai",
+  "coordonnees": "50.60536, 3.36664",
+  "telephone": "+32 468 12 81 53",
+  "site_web": "https://www.coderdojobelgium.be",
+  "horaires": "1 à 2 fois par mois, le week-end ou le mercredi après-midi",
+  "engagement": "Régulier",
+  "engagement_details": "Environ 3 h par mois",
+  "debut_en_douceur": true,
+  "personne_reference": "Verhoeven Melvin",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.giveaday.eu/fr-be/tournai/volontariat/coderdojo-tournai-recherche-des-benevoles/32555",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu.  Contact = coordinateur national CoderDojo Belgium."
+}

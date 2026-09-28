@@ -1,0 +1,19 @@
+{
+  "nom": "Ressourcerie Le Carré Mouscron",
+  "actif": false,
+  "description": "Vous pourrez peut-être aider dans ce magasin qui donne une seconde vie aux objets (meubles, vaisselle, déco...) vendus à petit prix.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "45, Pl. Alphonse et Antoine Motte",
+  "code_postal": "7700",
+  "commune": "Mouscron",
+  "coordonnees": "50.74054, 3.22998",
+  "telephone": "056 84 74 84",
+  "email": "mouscron@lecarreasbl.be",
+  "site_web": "https://lecarreasbl.be/",
+  "horaires": "Magasins : Lun-Ven 10h-18h, Sam 10h-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://lecarreasbl.be/magasins/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Ressourcerie = entreprise d'insertion (emplois salariés) ; le bénévolat n'est pas mentionné sur le site. À vérifier avant publication. Siège : info@lecarreasbl.be / 078 05 02 25."
+}

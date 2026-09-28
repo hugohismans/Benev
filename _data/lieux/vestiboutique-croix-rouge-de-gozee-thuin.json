@@ -1,0 +1,18 @@
+{
+  "nom": "Vestiboutique Croix-Rouge de Gozée",
+  "actif": true,
+  "description": "Vous pourrez aider à trier et vendre des vêtements de seconde main pour toute la famille, avec un rayon vintage.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue de Marchienne 42",
+  "code_postal": "6534",
+  "commune": "Thuin",
+  "coordonnees": "50.33623, 4.35359",
+  "telephone": "0494/57 51 97",
+  "site_web": "https://maisons.croix-rouge.be/maisons/val-des-aulnes/",
+  "horaires": "Mardi de 13h à 17h ; mercredi de 9h30 à 13h et de 14h à 17h ; jeudi de 13h30 à 17h ; vendredi de 9h30 à 13h et de 14h à 17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/val-des-aulnes/service/5001/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Service de la Maison Croix-Rouge Val des Aulnes. Localité : Gozée."
+}

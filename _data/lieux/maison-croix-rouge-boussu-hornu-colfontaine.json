@@ -1,0 +1,19 @@
+{
+  "nom": "Maison Croix-Rouge Boussu-Hornu-Colfontaine",
+  "actif": true,
+  "description": "Vous pourrez donner un coup de main à l'épicerie sociale ou à la vestiboutique, où l'on propose des vêtements de seconde main à petits prix.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue François Dorzée 23",
+  "code_postal": "7300",
+  "commune": "Boussu",
+  "coordonnees": "50.43388, 3.79751",
+  "telephone": "065 78 13 64",
+  "site_web": "https://maisons.croix-rouge.be/maisons/boussu-hornu-colfontaine/",
+  "horaires": "Du mardi au vendredi de 9h30 à 14h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/boussu-hornu-colfontaine/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison."
+}

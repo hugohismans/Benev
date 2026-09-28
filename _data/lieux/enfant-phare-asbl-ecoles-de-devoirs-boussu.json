@@ -1,0 +1,18 @@
+{
+  "nom": "Enfant Phare ASBL – écoles de devoirs",
+  "actif": true,
+  "description": "Vous pourrez aider des enfants à faire leurs devoirs et les accompagner dans leur scolarité, un ou plusieurs après-midis par semaine.",
+  "categories": [
+    "Enfants et jeunes"
+  ],
+  "adresse": "Rue Rogier 7",
+  "code_postal": "7300",
+  "commune": "Boussu",
+  "coordonnees": "50.43449, 3.79569",
+  "email": "psys@enfant-phare.be",
+  "horaires": "Du lundi au jeudi après-midi (plusieurs possibilités)",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.levolontariat.be/recherche-de-benevoles-en-ecole-de-devoirs",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Antennes aussi à Mons et dans le Borinage. Code postal déduit de la localité (non indiqué sur l'annonce)."
+}

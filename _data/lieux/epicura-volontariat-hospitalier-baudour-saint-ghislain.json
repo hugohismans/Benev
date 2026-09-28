@@ -1,0 +1,21 @@
+{
+  "nom": "EpiCURA – Volontariat hospitalier",
+  "actif": true,
+  "description": "Vous pourrez guider les visiteurs, accompagner des patients vers leurs consultations (en chaise roulante ou en offrant votre bras) et gérer un prêt de livres.",
+  "categories": [
+    "Accueil et convivialité",
+    "Culture et loisirs"
+  ],
+  "adresse": "Rue Louis Caty 136",
+  "commune": "Baudour (Saint-Ghislain)",
+  "coordonnees": "50.46968, 3.84035",
+  "telephone": "0476/78.30.09",
+  "email": "anne-sophie.dheygere@epicura.be",
+  "site_web": "https://www.epicura.be",
+  "engagement": "Régulier",
+  "engagement_details": "4 heures par semaine, dès 18 ans. Entretien, modules de formation, puis accompagnement par des volontaires expérimentés.",
+  "personne_reference": "Anne-Sophie D'Heygere",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.epicura.be/mon-hopital/a-propos/volontariat/devenir-benevole/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Adresse = siège administratif de Baudour ; aussi sites d'Ath et Hornu. Code postal non indiqué sur la page (probablement 7331, à vérifier)."
+}

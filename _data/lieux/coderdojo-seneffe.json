@@ -1,0 +1,23 @@
+{
+  "nom": "CoderDojo Seneffe",
+  "actif": true,
+  "description": "Vous pourrez aider des enfants à réaliser leurs petits projets de programmation lors des ateliers du club. Pas besoin d'être expert : l'envie d'encourager les jeunes suffit.",
+  "categories": [
+    "Enfants et jeunes",
+    "Culture et loisirs"
+  ],
+  "adresse": "Place de Penne d'Agenais 8",
+  "code_postal": "7180",
+  "commune": "Seneffe",
+  "coordonnees": "50.53018, 4.25971",
+  "telephone": "+32 468 12 81 53",
+  "site_web": "https://www.coderdojobelgium.be",
+  "horaires": "1 à 2 fois par mois, le week-end ou le mercredi après-midi",
+  "engagement": "Régulier",
+  "engagement_details": "Environ 3 h par mois",
+  "debut_en_douceur": true,
+  "personne_reference": "Verhoeven Melvin",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.giveaday.eu/fr-be/seneffe/volontariat/coderdojo-seneffe-recherche-des-benevoles/32556",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Probablement à la Rotonde du Centre de l'Eau (même adresse). Contact = coordinateur national CoderDojo Belgium."
+}

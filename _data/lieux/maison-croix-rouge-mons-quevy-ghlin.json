@@ -1,0 +1,22 @@
+{
+  "nom": "Maison Croix-Rouge Mons-Quévy (Ghlin)",
+  "actif": true,
+  "description": "Vous pourrez aider au bar à soupe, à la vestiboutique ou à la bouquinerie, ou accompagner des personnes isolées.",
+  "categories": [
+    "Aide alimentaire",
+    "Seconde main et recyclage",
+    "Culture et loisirs",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Sainte-Anne 1A",
+  "code_postal": "7011",
+  "commune": "Mons",
+  "coordonnees": "50.58122, 3.91585",
+  "telephone": "065/87.46.41",
+  "email": "mcr.mons-quevy@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/mons-quevy/",
+  "horaires": "Du lundi au jeudi de 9h à 15h ; fermé le vendredi",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/mons-quevy/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Localité : Ghlin. Organise aussi des maraudes pour les sans-abri."
+}

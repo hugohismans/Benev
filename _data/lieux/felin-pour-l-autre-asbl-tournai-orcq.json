@@ -1,0 +1,17 @@
+{
+  "nom": "Félin pour l'autre asbl",
+  "actif": false,
+  "description": "Association tournaisienne qui s'occupe de chats ; vous pourrez vous renseigner pour aider les félins accueillis.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Chaussée de Lille 454",
+  "code_postal": "7501",
+  "commune": "Tournai (Orcq)",
+  "coordonnees": "50.60381, 3.34950",
+  "telephone": "0471 12 45 97",
+  "site_web": "http://felinpourlautre.be/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.antoing.net/informations-utiles/bien-etre-animal/refuges",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Listé comme refuge par la commune d'Antoing ; activités exactes et besoin de bénévoles NON vérifiés — à confirmer avec l'association."
+}

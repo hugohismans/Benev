@@ -1,0 +1,20 @@
+{
+  "nom": "Opération Faim et Froid",
+  "actif": false,
+  "description": "Vous pourrez découvrir une association de Gilly qui aide familles et enfants : épicerie sociale, buffet de la gare, magasins et ateliers.",
+  "categories": [
+    "Aide alimentaire",
+    "Enfants et jeunes",
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue du Coquelet 104",
+  "code_postal": "6060",
+  "commune": "Charleroi",
+  "coordonnees": "50.42483, 4.49103",
+  "telephone": "071/48.67.47",
+  "email": "accueil@faimetfroid.be",
+  "site_web": "https://www.faimetfroid.be/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.faimetfroid.be/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Section : Gilly. Le site ne mentionne pas explicitement de recherche de bénévoles : à vérifier."
+}

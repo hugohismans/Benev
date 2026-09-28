@@ -1,0 +1,22 @@
+{
+  "nom": "Maison Croix-Rouge de Chimay",
+  "actif": true,
+  "description": "Vous pourrez aider à la bouquinerie, à la brocante ou à la vestiboutique, ou rendre visite à des personnes seules avec le service Reliage.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Culture et loisirs",
+    "Personnes âgées",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Place Léopold 1",
+  "code_postal": "6460",
+  "commune": "Chimay",
+  "coordonnees": "50.04761, 4.31898",
+  "telephone": "060 21 54 48",
+  "email": "mcr.chimay@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/chimay/",
+  "horaires": "Permanence de 9h à 12h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/chimay/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Couvre aussi Momignies, Sivry-Rance, Froidchapelle."
+}

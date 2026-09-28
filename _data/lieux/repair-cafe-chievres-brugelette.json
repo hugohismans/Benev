@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Chièvres-Brugelette",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer des objets du quotidien avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue de Saint-Ghislain 16",
+  "code_postal": "7950",
+  "commune": "Chièvres",
+  "coordonnees": "50.58417, 3.80668",
+  "telephone": "+32 68 65 75 82",
+  "email": "repaircafe@cclenvol.be",
+  "site_web": "https://www.facebook.com/cclenvol",
+  "horaires": "3e mercredi du mois, 9h-12h",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 3e mercredi du mois, 9h-12h",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-chievres-brugelette-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil. Lieu en alternance entre Chièvres et Brugelette. Lancé en mars 2026."
+}

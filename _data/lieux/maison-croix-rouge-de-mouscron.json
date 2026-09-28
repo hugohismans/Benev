@@ -1,0 +1,20 @@
+{
+  "nom": "Maison Croix-Rouge de Mouscron",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique ou à la petite brocante, participer à l'atelier couture-tricot-crochet ou accompagner des personnes isolées.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité",
+    "Culture et loisirs"
+  ],
+  "adresse": "Place Emmanuel de Neckere 10",
+  "code_postal": "7700",
+  "commune": "Mouscron",
+  "coordonnees": "50.74444, 3.21480",
+  "telephone": "056/33 38 72",
+  "site_web": "https://maisons.croix-rouge.be/maisons/mouscron/",
+  "horaires": "Lundi 9h-11h45 ; mardi à jeudi 9h-11h45 et 14h-17h ; vendredi et samedi 9h-11h45",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/mouscron/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Email de contact sur la source = adresse nominative d'un volontaire, non reprise."
+}

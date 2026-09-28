@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café de Soignies",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer des objets du quotidien avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "La Cité des Jeunes, Rue Henry Leroy 15",
+  "code_postal": "7060",
+  "commune": "Soignies",
+  "coordonnees": "50.58029, 4.07104",
+  "email": "soigniesentransition@hotmail.fr",
+  "site_web": "http://soigniesentransition.overblog.com/tag/repair%20cafe/",
+  "horaires": "1er dimanche du mois, 14h-18h",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 1er dimanche du mois, 14h-18h",
+  "personne_reference": "Soignies en Transition",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-de-soignies-3/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

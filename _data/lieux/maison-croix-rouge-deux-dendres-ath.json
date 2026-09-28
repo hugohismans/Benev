@@ -1,0 +1,23 @@
+{
+  "nom": "Maison Croix-Rouge Deux Dendres (Ath)",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique, à la bouquinerie, à l'épicerie sociale ou à l'atelier cuisine, ou rendre visite à des résidents de maisons de repos.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Aide alimentaire",
+    "Personnes âgées",
+    "Accueil et convivialité",
+    "Culture et loisirs"
+  ],
+  "adresse": "Chaussée de Bruxelles 146",
+  "code_postal": "7800",
+  "commune": "Ath",
+  "coordonnees": "50.63476, 3.78995",
+  "telephone": "068/334838",
+  "email": "mcr.deuxdendres@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/deux-dendres/",
+  "horaires": "Du lundi au vendredi de 9h à 12h15 et de 13h30 à 16h45 ; le samedi de 9h à 12h15",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/deux-dendres/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Couvre aussi Brugelette. Propose aussi buanderie sociale, douche et salon de coiffure solidaires."
+}

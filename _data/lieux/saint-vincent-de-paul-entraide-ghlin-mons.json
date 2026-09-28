@@ -1,0 +1,18 @@
+{
+  "nom": "Saint-Vincent de Paul - Entraide Ghlin",
+  "actif": false,
+  "description": "Vous pourrez aider les bénévoles de la conférence Saint-Vincent de Paul à préparer et distribuer des colis alimentaires aux familles du quartier.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Place de Ghlin 19",
+  "code_postal": "7011",
+  "commune": "Mons",
+  "coordonnees": "50.47457, 3.90237",
+  "telephone": "065/31 60 16",
+  "email": "entraideg.secretariat@gmail.com",
+  "site_web": "https://www.vincentdepaul.be/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.vincentdepaul.be/bij-jou-in-de-buurt/henegouwen",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Adresse issue de la liste officielle des conférences Saint-Vincent de Paul (Hainaut). Les tâches bénévoles précises ne sont pas détaillées : à confirmer par téléphone. Section : Ghlin."
+}

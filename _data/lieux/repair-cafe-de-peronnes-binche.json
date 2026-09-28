@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café de Péronnes",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer de l'électroménager, des ordinateurs, des vêtements ou des vélos avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Centre Joseph Arman, Rue des Droits de l'Enfant 8, Péronnes",
+  "code_postal": "7134",
+  "commune": "Binche",
+  "coordonnees": "50.43845, 4.15972",
+  "telephone": "+32 64/33.56.87",
+  "email": "centrearman@gmail.com",
+  "horaires": "3e dimanche du mois (sauf avril)",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 3e dimanche du mois (sauf avril)",
+  "personne_reference": "Laurent Arman",
+  "pmr": "Non",
+  "source": "https://repairtogether.be/en/group/repair-cafe-de-peronnes-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil. La fiche précise : pas d'accès PMR."
+}

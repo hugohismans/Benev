@@ -1,0 +1,18 @@
+{
+  "nom": "Terre Boutique Gilly",
+  "actif": false,
+  "description": "Vous pourrez peut-être aider dans cette boutique de seconde main (vêtements, chaussures, livres, jouets, linge de maison) qui soutient l'emploi local.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Chaussée de Fleurus 1",
+  "code_postal": "6060",
+  "commune": "Gilly (Charleroi)",
+  "coordonnees": "50.42291, 4.48012",
+  "telephone": "071/48.91.46",
+  "site_web": "https://www.terre.be/boutiques/terre-boutique-gilly/",
+  "horaires": "Été (21/03-20/09) Lun-Sam 10h-18h ; hiver (21/09-20/03) Lun-Sam 9h-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.terre.be/boutiques/terre-boutique-gilly/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Terre asbl est surtout une entreprise d'économie sociale (insertion par le travail) : aucune mention de bénévolat trouvée sur le site. À vérifier impérativement avant publication ; à retirer si la boutique n'accueille pas de bénévoles."
+}

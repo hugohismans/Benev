@@ -1,0 +1,18 @@
+{
+  "nom": "Terre Factory Froyennes",
+  "actif": false,
+  "description": "Vous pourrez peut-être aider dans cette boutique de seconde main (vêtements, chaussures, livres, jouets, linge de maison) qui soutient l'emploi local.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue des Roselières 21",
+  "code_postal": "7503",
+  "commune": "Froyennes (Tournai)",
+  "coordonnees": "50.62800, 3.36663",
+  "telephone": "069/78.15.66",
+  "site_web": "https://www.terre.be/boutiques/terre-factory-froyennes/",
+  "horaires": "Lun-Sam 9h30-18h",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.terre.be/boutiques/terre-factory-froyennes/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Terre asbl est surtout une entreprise d'économie sociale (insertion par le travail) : aucune mention de bénévolat trouvée sur le site. À vérifier impérativement avant publication ; à retirer si la boutique n'accueille pas de bénévoles."
+}

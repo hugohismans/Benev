@@ -1,0 +1,19 @@
+{
+  "nom": "Epis - épicerie solidaire (Perspectiv')",
+  "actif": false,
+  "description": "Vous pourrez découvrir cette épicerie solidaire qui gère aussi des frigos solidaires et la distribution de colis à Comines.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue de Ten Brielen 160a",
+  "code_postal": "7780",
+  "commune": "Comines-Warneton",
+  "coordonnees": "50.77304, 2.99696",
+  "telephone": "056/58.93.47",
+  "email": "info@asblperspectiv.be",
+  "site_web": "https://www.asblperspectiv.be/about/epis/",
+  "horaires": "Du mardi au vendredi, 10h-12h et 13h30-15h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.asblperspectiv.be/about/epis/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page ne dit pas si Epis accueille des bénévoles : à vérifier. Le frigo solidaire de Perspectiv' se trouve Rue de France 11C, 7783 Comines-Warneton (répertoire FDSS)."
+}

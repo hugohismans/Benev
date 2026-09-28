@@ -1,0 +1,18 @@
+{
+  "nom": "Terre Factory Hornu",
+  "actif": false,
+  "description": "Vous pourrez peut-être aider dans cette boutique de seconde main (vêtements, chaussures, livres, jouets, linge de maison) qui soutient l'emploi local.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue de Mons 280",
+  "code_postal": "7301",
+  "commune": "Boussu (Hornu)",
+  "coordonnees": "50.44112, 3.83949",
+  "telephone": "065/31.99.81",
+  "site_web": "https://www.terre.be/boutiques/terre-factory-hornu/",
+  "horaires": "Lun-Sam 9h30-18h",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.terre.be/boutiques/terre-factory-hornu/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Terre asbl est surtout une entreprise d'économie sociale (insertion par le travail) : aucune mention de bénévolat trouvée sur le site. À vérifier impérativement avant publication ; à retirer si la boutique n'accueille pas de bénévoles. Boutique située dans le Shopping Hornu (ancienne Terre Factory Jemappes)."
+}

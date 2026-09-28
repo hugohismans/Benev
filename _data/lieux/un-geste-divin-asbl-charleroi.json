@@ -1,0 +1,18 @@
+{
+  "nom": "Un geste divin ASBL",
+  "actif": true,
+  "description": "Vous pourrez aider une petite équipe conviviale pour des tâches administratives (documents, e-mails, tableaux) et des actions sur le terrain.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue du Collège 25",
+  "code_postal": "6000",
+  "commune": "Charleroi",
+  "coordonnees": "50.40699, 4.43942",
+  "engagement": "Régulier",
+  "personne_reference": "Makamgue Marie Nicaise",
+  "pmr": "Je ne sais pas",
+  "transports": "Transports en commun",
+  "source": "https://www.giveaday.eu/fr-be/charleroi/volontariat/aide-administrative-et-action-sur-le-terrain/65484",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Adresse indiquée : « Rue du Collège 25 021 » (021 = boîte ?)."
+}

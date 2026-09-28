@@ -1,0 +1,24 @@
+{
+  "nom": "Repair Café Châtelet",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer des objets du quotidien avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Maison de la Cohésion Sociale, Rue de la Montagne 14",
+  "code_postal": "6200",
+  "commune": "Châtelet",
+  "coordonnees": "50.40471, 4.52242",
+  "telephone": "071/12.67.76 ou 0495/248.885",
+  "email": "carole.pcschatelet@gmail.com",
+  "site_web": "https://www.facebook.com/PlanDeCohesionSocialeDeChatelet",
+  "horaires": "1er jeudi du mois, 14h30-18h (sauf juillet-août)",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 1er jeudi du mois, 14h30-18h (sauf juillet-août)",
+  "personne_reference": "Carole (Plan de cohésion sociale)",
+  "pmr": "Je ne sais pas",
+  "transports": "Parkings gratuits Place de l'Hôtel de Ville et Place du Marché",
+  "source": "https://repairtogether.be/en/group/repair-cafe-chatelet-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

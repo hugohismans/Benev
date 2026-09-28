@@ -1,0 +1,23 @@
+{
+  "nom": "Repair Café Vezon",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer du petit électro, des vêtements ou des ordinateurs avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue des Prisonniers 36, Vezon",
+  "code_postal": "7538",
+  "commune": "Tournai",
+  "coordonnees": "50.56881, 3.50478",
+  "telephone": "0474 71 69 30",
+  "email": "repaircafe@vezonaccueille.be",
+  "site_web": "http://www.vezonaccueille.be",
+  "horaires": "Dernier vendredi du mois, 18h-21h",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : Dernier vendredi du mois, 18h-21h",
+  "personne_reference": "Antoine De Pauw (Vezon Accueille)",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-vezon-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

@@ -1,0 +1,23 @@
+{
+  "nom": "CoderDojo Ath",
+  "actif": true,
+  "description": "Vous pourrez aider des enfants à réaliser leurs petits projets de programmation lors des ateliers du club. Pas besoin d'être expert : l'envie d'encourager les jeunes suffit.",
+  "categories": [
+    "Enfants et jeunes",
+    "Culture et loisirs"
+  ],
+  "adresse": "Boulevard du Château 16",
+  "code_postal": "7800",
+  "commune": "Ath",
+  "coordonnees": "50.62929, 3.77327",
+  "telephone": "+32 468 12 81 53",
+  "site_web": "https://www.coderdojobelgium.be",
+  "horaires": "1 à 2 fois par mois, le week-end ou le mercredi après-midi",
+  "engagement": "Régulier",
+  "engagement_details": "Environ 3 h par mois",
+  "debut_en_douceur": true,
+  "personne_reference": "Verhoeven Melvin",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.giveaday.eu/fr-be/ath/volontariat/coderdojo-ath-recherche-des-benevoles/42487",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu.  Contact = coordinateur national CoderDojo Belgium."
+}

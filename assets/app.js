@@ -24,10 +24,13 @@
     lieux: [],
     origine: null,       // { lat, lng } : jamais enregistré ni envoyé à notre serveur
     categories: new Set(),
-    vue: 'list'
+    vue: 'list',
+    limite: 20         // nombre de lieux affichés dans la liste
   };
+  var PAR_PAGE = 20;
   var carte = null;
   var calqueMarqueurs = null;
+  var calqueOrigine = null;
 
   var $ = function (id) { return document.getElementById(id); };
 
@@ -185,14 +188,18 @@
     return h;
   }
 
-  function afficher() {
+  function afficher(garderLimite) {
+    if (!garderLimite) state.limite = PAR_PAGE;
     var res = lieuxFiltres();
     var n = res.length;
     $('results-title').textContent = state.origine ? 'Les lieux les plus proches' : 'Lieux de bénévolat';
     $('results-count').textContent = n === 0 ? '' :
       n + (n > 1 ? ' lieux trouvés' : ' lieu trouvé') + (state.origine ? ', du plus proche au plus loin.' : '.');
-    $('list').innerHTML = n ? res.map(carteHTML).join('') :
+    $('list').innerHTML = n ? res.slice(0, state.limite).map(carteHTML).join('') :
       '<li class="empty">Aucun lieu ne correspond à ces choix. Essayez d\'enlever un filtre.</li>';
+    var plus = $('more');
+    plus.hidden = state.vue !== 'list' || n <= state.limite;
+    plus.textContent = 'Voir plus de lieux (' + (n - Math.min(n, state.limite)) + ' autres)';
     if (state.vue === 'map') majCarte(res);
   }
 
@@ -206,14 +213,19 @@
         maxZoom: 18,
         attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
       }).addTo(carte);
-      calqueMarqueurs = L.layerGroup().addTo(carte);
+      // Regroupe les lieux proches en bulles numérotées (si le module est chargé).
+      calqueMarqueurs = (L.markerClusterGroup ?
+        L.markerClusterGroup({ showCoverageOnHover: false, maxClusterRadius: 45 }) : L.layerGroup()).addTo(carte);
+      calqueOrigine = L.layerGroup().addTo(carte);
     }
     carte.invalidateSize();
     calqueMarqueurs.clearLayers();
+    calqueOrigine.clearLayers();
     var points = [];
     res.forEach(function (l) {
       if (!l.position) return;
-      var m = L.marker([l.position.lat, l.position.lng]).addTo(calqueMarqueurs);
+      var m = L.marker([l.position.lat, l.position.lng]);
+      calqueMarqueurs.addLayer(m);
       var div = document.createElement('div');
       div.innerHTML = '<strong>' + echapper(l.nom) + '</strong><br>' + echapper(l.commune) +
         (l.distance != null ? ' – ' + formatDistance(l.distance) : '') + '<br>';
@@ -228,7 +240,10 @@
     if (state.origine) {
       L.circleMarker([state.origine.lat, state.origine.lng], {
         radius: 9, color: '#c8702e', fillColor: '#c8702e', fillOpacity: .9
-      }).bindTooltip('Vous êtes ici').addTo(calqueMarqueurs);
+      }).bindTooltip('Vous êtes ici').addTo(calqueOrigine);
+      // Zoom sur la personne et les 8 lieux les plus proches (la liste est déjà triée).
+      points = res.filter(function (l) { return l.position; }).slice(0, 8)
+        .map(function (l) { return [l.position.lat, l.position.lng]; });
       points.push([state.origine.lat, state.origine.lng]);
     }
     if (points.length) carte.fitBounds(points, { padding: [30, 30], maxZoom: 13 });
@@ -243,10 +258,12 @@
     });
     $('map').hidden = vue !== 'map';
     $('list').hidden = vue !== 'list';
-    if (vue === 'map') majCarte(lieuxFiltres());
+    afficher(true);
   }
 
   function montrerFiche(id) {
+    state.vue = 'list';
+    state.limite = Infinity;
     changerVue('list');
     var el = $(id);
     if (!el) return;
@@ -310,7 +327,7 @@
     chercherAdresse($('address').value);
   });
   $('locate').addEventListener('click', localiser);
-  ['f-douceur', 'f-accueil', 'f-pmr'].forEach(function (id) { $(id).addEventListener('change', afficher); });
+  ['f-douceur', 'f-accueil', 'f-pmr'].forEach(function (id) { $(id).addEventListener('change', function () { afficher(); }); });
   $('reset-filters').addEventListener('click', function () {
     state.categories.clear();
     document.querySelectorAll('#category-filters .chip').forEach(function (b) { b.setAttribute('aria-pressed', 'false'); });
@@ -319,6 +336,11 @@
   });
   document.querySelectorAll('.view-toggle button').forEach(function (b) {
     b.addEventListener('click', function () { changerVue(b.getAttribute('data-view')); });
+  });
+
+  $('more').addEventListener('click', function () {
+    state.limite += PAR_PAGE;
+    afficher(true);
   });
 
   charger();

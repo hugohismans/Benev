@@ -1,0 +1,19 @@
+{
+  "nom": "S.P.A. de Mouscron",
+  "actif": true,
+  "description": "Vous pourrez offrir un peu de votre temps aux chiens et chats qui attendent une famille au refuge.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Boulevard des Alliés 210",
+  "code_postal": "7700",
+  "commune": "Mouscron",
+  "coordonnees": "50.74165, 3.25002",
+  "telephone": "056 33 20 30",
+  "email": "info@spa-mouscron.be",
+  "site_web": "https://www.spa-mouscron.be/",
+  "horaires": "Mardi-jeudi 13h-17h ; vendredi 13h-17h30 ; samedi 13h-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.spa-mouscron.be/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Conditions du bénévolat à demander au refuge."
+}

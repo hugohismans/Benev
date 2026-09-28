@@ -1,0 +1,21 @@
+{
+  "nom": "Repair Café de Braine-le-Comte",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer des vélos, du petit électro, des vêtements, des ordinateurs ou des objets en bois avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Maison des Jeunes, Rue d'Horrues 53a",
+  "code_postal": "7090",
+  "commune": "Braine-le-Comte",
+  "coordonnees": "50.61091, 4.13175",
+  "email": "repair.cafe.blcomte@gmail.com",
+  "horaires": "4e dimanche du mois, 14h-17h (pas en décembre)",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 4e dimanche du mois, 14h-17h (pas en décembre)",
+  "personne_reference": "Joël Van Holder",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-de-braine-le-comte-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil. La fiche mentionne un 'coin des amis' pour la convivialité (projet d'ouverture sociale)."
+}

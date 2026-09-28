@@ -1,0 +1,19 @@
+{
+  "nom": "Repair Café Les Bons Villers",
+  "actif": false,
+  "description": "Vous pourrez aider à réparer des objets du quotidien avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rodava, Rue de Bruxelles 15, Rèves",
+  "code_postal": "6210",
+  "commune": "Les Bons Villers",
+  "coordonnees": "50.53894, 4.41239",
+  "telephone": "+32 470 873 540",
+  "email": "repaircafelesbonsvillers@gmail.com",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-les-bons-villers-reves-3/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil. La fiche annonce un 'premier Repair Café' : vérifier que l'activité continue."
+}

@@ -1,0 +1,17 @@
+{
+  "nom": "CREAVES de Dour (les Wallants)",
+  "actif": false,
+  "description": "Centre de soins pour oiseaux sauvages ; vous pourrez demander comment aider à leur rétablissement.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Chemin des Croix 3A",
+  "code_postal": "7370",
+  "commune": "Dour",
+  "coordonnees": "50.39407, 3.77696",
+  "telephone": "0495 82 31 15",
+  "email": "creavesdeswallants@gmail.com",
+  "pmr": "Je ne sais pas",
+  "source": "https://protectiondesoiseaux.be/les-centres-de-revalidation/belgique/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Uniquement les oiseaux. Besoin de bénévoles non vérifié."
+}

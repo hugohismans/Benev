@@ -1,0 +1,21 @@
+{
+  "nom": "École de devoirs de Bellecourt (Commune de Manage)",
+  "actif": true,
+  "description": "Vous pourrez aider des enfants du primaire à faire leurs devoirs et participer à des animations variées après l'école.",
+  "categories": [
+    "Enfants et jeunes"
+  ],
+  "adresse": "Cité Parc de Bellecourt 200/4",
+  "code_postal": "7170",
+  "commune": "Manage",
+  "coordonnees": "50.47832, 4.24458",
+  "telephone": "064/45 95 19",
+  "email": "lucie.cambier@manage-commune.be",
+  "site_web": "https://www.manage-commune.be/ma-commune/administration/accueil-extrascolaire/ecole-des-devoirs",
+  "horaires": "Lundi, mardi, jeudi 15h–17h ; mercredi 13h–16h",
+  "engagement": "Régulier",
+  "personne_reference": "Lucie Cambier (coordinatrice)",
+  "pmr": "Je ne sais pas",
+  "source": "https://volontariat.ecolesdedevoirs.be/edd-recherche-volontaires/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Section : La Hestre selon le site communal (Bellecourt). L'annonce de volontariat donne comme contact sheena.akajou@manage-commune.be ; le site communal donne Lucie Cambier."
+}

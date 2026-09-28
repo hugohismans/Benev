@@ -1,0 +1,19 @@
+{
+  "nom": "Ressourcerie Le Carré Tournai",
+  "actif": false,
+  "description": "Vous pourrez peut-être aider dans ce magasin qui donne une seconde vie aux objets (meubles, vaisselle, déco...) vendus à petit prix.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "61, Boulevard Eisenhower",
+  "code_postal": "7500",
+  "commune": "Tournai",
+  "coordonnees": "50.61541, 3.39192",
+  "telephone": "069 44 57 71",
+  "email": "tournai@lecarreasbl.be",
+  "site_web": "https://lecarreasbl.be/",
+  "horaires": "Magasins : Lun-Ven 10h-18h, Sam 10h-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://lecarreasbl.be/magasins/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Ressourcerie = entreprise d'insertion (emplois salariés) ; le bénévolat n'est pas mentionné sur le site. À vérifier avant publication. Siège : info@lecarreasbl.be / 078 05 02 25."
+}

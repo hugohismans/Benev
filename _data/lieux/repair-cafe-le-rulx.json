@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café Le Rœulx",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer des objets en bois, des vêtements ou des ordinateurs avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Centre culturel du Rœulx, Rue d'Houdeng 21",
+  "code_postal": "7070",
+  "commune": "Le Rœulx",
+  "coordonnees": "50.50190, 4.11159",
+  "site_web": "https://www.repaircafeleroeulx.be",
+  "horaires": "2e dimanche du mois, 15h-18h",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 2e dimanche du mois, 15h-18h",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-le-roeulx-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

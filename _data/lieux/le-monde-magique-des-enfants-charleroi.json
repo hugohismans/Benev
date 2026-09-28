@@ -1,0 +1,18 @@
+{
+  "nom": "Le monde magique des enfants",
+  "actif": true,
+  "description": "Vous pourrez encadrer des enfants de 3 à 12 ans pendant des stages : créer des activités, surveiller, répondre à leurs besoins.",
+  "categories": [
+    "Enfants et jeunes"
+  ],
+  "adresse": "Rue de la Seuwe",
+  "code_postal": "6061",
+  "commune": "Charleroi",
+  "coordonnees": "50.41703, 4.46249",
+  "engagement": "Ponctuel",
+  "engagement_details": "Pendant les stages",
+  "personne_reference": "Froment Stevens",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.giveaday.eu/fr-be/charleroi/volontariat/recherche-de-benevoles/63916",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Section : Montignies-sur-Sambre (6061). Numéro de rue non indiqué. Certificat de bonne vie et mœurs demandé."
+}

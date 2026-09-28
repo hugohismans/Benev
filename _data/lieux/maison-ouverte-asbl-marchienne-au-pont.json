@@ -1,0 +1,18 @@
+{
+  "nom": "Maison Ouverte asbl",
+  "actif": false,
+  "description": "Vous pourrez aider dans cette halte-accueil sociale qui reçoit de jeunes enfants (0-3 ans) et leurs parents.",
+  "categories": [
+    "Enfants et jeunes",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Jules Jaumet 159",
+  "code_postal": "6030",
+  "commune": "Marchienne-au-Pont",
+  "coordonnees": "50.42046, 4.41251",
+  "telephone": "071 30 51 70",
+  "email": "maisonouverteasbl@gmail.com",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.levolontariat.be/group/maison-ouverte",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Missions précises non détaillées ; à vérifier avec l'association."
+}

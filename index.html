@@ -6,6 +6,8 @@
   <title>Benev – Faire du bénévolat près de chez vous</title>
   <meta name="description" content="Trouvez un lieu de bénévolat près de chez vous, dans le Hainaut.">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.min.css">
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
@@ -59,6 +61,7 @@
       <p id="results-count" class="count"></p>
       <div id="map" class="map" hidden></div>
       <ul id="list" class="cards"></ul>
+      <button type="button" id="more" class="btn btn-more" hidden></button>
     </section>
   </main>
 
@@ -78,6 +81,7 @@
   </footer>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js"></script>
   <script src="assets/app.js"></script>
 </body>
 </html>

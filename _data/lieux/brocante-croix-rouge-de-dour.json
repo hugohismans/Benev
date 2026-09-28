@@ -1,0 +1,18 @@
+{
+  "nom": "Brocante Croix-Rouge de Dour",
+  "actif": true,
+  "description": "Vous pourrez aider à la brocante : ranger et présenter meubles, déco, vaisselle, livres, disques et jouets vendus à petits prix.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue Grande 62",
+  "code_postal": "7370",
+  "commune": "Dour",
+  "coordonnees": "50.39888, 3.78027",
+  "telephone": "065-679-610",
+  "site_web": "https://maisons.croix-rouge.be/maisons/haut-pays/",
+  "horaires": "Lundi 9h30-12h et 14h-16h ; mardi fermé ; mercredi 9h30-12h ; jeudi 10h-12h et 13h30-16h ; vendredi 9h30-12h et 14h-17h ; samedi 9h30-12h (après-midi : horaire à vérifier)",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/haut-pays/service/3728/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Service de la Maison Croix-Rouge Haut Pays. Téléphone = numéro général de la Maison. Horaire du samedi mal encodé sur la source (\"13h15h\")."
+}

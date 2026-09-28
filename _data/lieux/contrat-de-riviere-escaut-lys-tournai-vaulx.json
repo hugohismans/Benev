@@ -1,0 +1,19 @@
+{
+  "nom": "Contrat de Rivière Escaut-Lys",
+  "actif": false,
+  "description": "Vous pourrez vous renseigner sur les actions de terrain pour protéger les rivières du Tournaisis (berges, plantes invasives, sensibilisation).",
+  "categories": [
+    "Nature et jardinage"
+  ],
+  "adresse": "Rue Cheny 3A",
+  "code_postal": "7536",
+  "commune": "Tournai (Vaulx)",
+  "coordonnees": "50.59143, 3.42889",
+  "telephone": "0471 51 23 86",
+  "email": "contact@crescautlys.be",
+  "site_web": "https://www.crescautlys.be/",
+  "engagement": "Ponctuel",
+  "pmr": "Je ne sais pas",
+  "source": "http://www.crescautlys.be/presentation/lequipe/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas de programme de bénévolat explicite trouvé : à vérifier. E-mail trouvé via une page de la Province/lien de recherche."
+}

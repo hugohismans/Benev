@@ -1,0 +1,18 @@
+{
+  "nom": "Terre Factory Charleroi",
+  "actif": false,
+  "description": "Vous pourrez peut-être aider dans cette boutique de seconde main (vêtements, chaussures, livres, jouets, linge de maison) qui soutient l'emploi local.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue de la Régence 16",
+  "code_postal": "6000",
+  "commune": "Charleroi",
+  "coordonnees": "50.41282, 4.44555",
+  "telephone": "071/30.83.25",
+  "site_web": "https://www.terre.be/boutiques/terre-factory-charleroi/",
+  "horaires": "Lun-Ven 9h-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.terre.be/boutiques/terre-factory-charleroi/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Terre asbl est surtout une entreprise d'économie sociale (insertion par le travail) : aucune mention de bénévolat trouvée sur le site. À vérifier impérativement avant publication ; à retirer si la boutique n'accueille pas de bénévoles."
+}

@@ -53,9 +53,19 @@ Cliquez sur **Lieux de bénévolat → Add an entry** et remplissez le formulair
 - **Cacher temporairement** (ex. pendant les vacances) : décochez **« Afficher ce lieu sur le site »**.
 - **Supprimer** : ouvrez le lieu, puis utilisez le bouton de suppression.
 
-⚠️ Les 8 lieux fournis au départ sont **fictifs** (marqués « exemple »). Supprimez-les dès que vous avez encodé les vrais lieux.
+### 5. La base de départ : à vérifier petit à petit
 
-### 5. Ajouter un type d'activité
+Les lieux fournis au départ ont été **collectés automatiquement sur internet** en septembre 2026 : Croix-Rouge, Restos du Cœur, banques alimentaires, Oxfam, Repair Cafés, refuges, hôpitaux, Lire et Écrire, etc. Pour chaque lieu :
+
+- le champ **Source** indique la page où l'information a été trouvée ;
+- le champ **Notes** indique ce qui reste à vérifier (adresse incertaine, horaires, etc.) ;
+- les lieux dont on n'a **pas pu confirmer qu'ils accueillent des bénévoles** (ou qui affichaient « équipe complète ») sont **cachés** : leur note commence par « À VÉRIFIER ». Après un coup de fil, cochez « Afficher ce lieu sur le site » ou supprimez le lieu.
+
+Les coordonnées GPS ont été calculées automatiquement. Quand la note dit « coordonnées approximatives », corrigez-les avec Google Maps.
+
+Aucune fiche ne contient encore d'info sur l'**accueil des personnes fragilisées**, le **début en douceur** ou l'**accessibilité PMR** : ces infos ne se trouvent pas sur internet. Ce sont les plus précieuses pour les visiteurs, n'hésitez pas à les demander quand vous appelez un lieu.
+
+### 6. Ajouter un type d'activité
 
 Les types d'activité (Animaux, Nature et jardinage…) sont listés dans le fichier `.pages.yml`, sous `categories`. Pour en ajouter un, modifiez ce fichier directement sur GitHub (icône crayon) et ajoutez une ligne au même format, par exemple `- Bricolage`.
 
@@ -71,6 +81,12 @@ Pour lui donner une icône, ajoutez-la aussi en haut du fichier `assets/app.js`,
 | `lieux.json` | Regroupe tous les lieux (généré par Jekyll lors de la publication sur GitHub Pages) |
 | `index.html`, `assets/` | La page, le style et le JavaScript (sans framework, carte avec Leaflet) |
 | `.pages.yml` | Formulaire de l'administration Pages CMS |
+
+Importer des lieux en masse (les coordonnées GPS sont calculées automatiquement, les doublons d'adresse ignorés, et un lieu avec `"benevolat_confirme": false` est importé caché) :
+
+```sh
+python3 scripts/importer.py mes-lieux.json
+```
 
 Tester en local (Ruby requis) :
 

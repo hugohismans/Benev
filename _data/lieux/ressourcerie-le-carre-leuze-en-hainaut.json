@@ -1,0 +1,19 @@
+{
+  "nom": "Ressourcerie Le Carré Leuze-en-Hainaut",
+  "actif": false,
+  "description": "Vous pourrez peut-être aider dans ce magasin qui donne une seconde vie aux objets (meubles, vaisselle, déco...) vendus à petit prix.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "16 Bd Paul-Henri Spaak",
+  "code_postal": "7900",
+  "commune": "Leuze-en-Hainaut",
+  "coordonnees": "50.60033, 3.60788",
+  "telephone": "069 84 40 09",
+  "email": "leuze@lecarreasbl.be",
+  "site_web": "https://lecarreasbl.be/",
+  "horaires": "Magasins : Lun-Ven 10h-18h, Sam 10h-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://lecarreasbl.be/magasins/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Ressourcerie = entreprise d'insertion (emplois salariés) ; le bénévolat n'est pas mentionné sur le site. À vérifier avant publication. Siège : info@lecarreasbl.be / 078 05 02 25."
+}

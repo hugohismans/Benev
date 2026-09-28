@@ -1,0 +1,22 @@
+{
+  "nom": "Espace culturel de la Samme (Commune de Seneffe)",
+  "actif": true,
+  "description": "Vous pourrez donner un coup de main lors de concerts, spectacles et pièces de théâtre : installer la salle, accueillir le public ou les artistes, ranger. Pas besoin d'expérience, et pas besoin d'être là à chaque événement.",
+  "categories": [
+    "Culture et loisirs",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Place de Penne d'Agenais 12",
+  "code_postal": "7180",
+  "commune": "Seneffe",
+  "coordonnees": "50.53046, 4.25921",
+  "email": "lm.herregods@seneffe.be",
+  "horaires": "Surtout vendredi ou samedi soir",
+  "engagement": "Ponctuel",
+  "engagement_details": "Selon le calendrier des événements (saison 2027)",
+  "debut_en_douceur": true,
+  "personne_reference": "Herregods Liza-May",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.levolontariat.be/recherche-de-benevoles-pour-les-evenements-culturels-de-la-commune-de-seneffe",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Code postal déduit de la localité (non indiqué sur l'annonce)."
+}

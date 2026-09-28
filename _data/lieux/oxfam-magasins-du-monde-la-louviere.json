@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam-Magasins du monde La Louvière",
+  "actif": true,
+  "description": "Vous pourrez aider à trier des vêtements de seconde main, ranger l'épicerie équitable et accueillir les clients, avec une équipe de bénévoles.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue de la Loi, 54",
+  "code_postal": "7100",
+  "commune": "La Louvière",
+  "coordonnees": "50.47655, 4.18642",
+  "telephone": "064 22 54 04",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/la-louviere/",
+  "horaires": "Lun-Mar 10h-13h, Mer-Sam 10h-17h ; fermé dimanche et jours fériés",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/la-louviere/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Oxfam-Magasins du monde fonctionne avec des équipes locales de bénévoles ; contact général bénévolat : info@mdmoxfam.be / 010 43 79 50 (siège, Wavre). Vérifier auprès du magasin les besoins actuels en bénévoles."
+}

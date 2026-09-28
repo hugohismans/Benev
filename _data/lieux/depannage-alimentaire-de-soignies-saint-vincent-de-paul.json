@@ -1,0 +1,19 @@
+{
+  "nom": "Dépannage alimentaire de Soignies (Saint-Vincent de Paul)",
+  "actif": true,
+  "description": "Vous pourrez aider à ramasser et trier les invendus des magasins, ranger les vivres et préparer les colis.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue Général Henry 25",
+  "code_postal": "7060",
+  "commune": "Soignies",
+  "coordonnees": "50.56949, 4.07960",
+  "telephone": "0496/35.69.75",
+  "email": "svp020@vincentdepaul.be",
+  "site_web": "https://www.depannagealimentaire.be",
+  "horaires": "Distribution le jeudi 13h30-17h30 (répertoire FDSS)",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.depannagealimentaire.be",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Situé au sous-sol du presbytère de Soignies-Carrières. La liste Saint-Vincent de Paul indique 'Rue Général Henry 25 B'."
+}

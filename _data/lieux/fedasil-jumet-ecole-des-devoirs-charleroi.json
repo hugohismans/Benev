@@ -1,0 +1,19 @@
+{
+  "nom": "Fedasil Jumet – école des devoirs",
+  "actif": true,
+  "description": "Une fois par semaine, vous pourrez aider des enfants de primaire à faire leurs devoirs et à reprendre confiance, avec des exercices et des jeux.",
+  "categories": [
+    "Enfants et jeunes"
+  ],
+  "adresse": "Zoning Industriel, 2ème Rue 24",
+  "code_postal": "6040",
+  "commune": "Charleroi",
+  "coordonnees": "50.45509, 4.46157",
+  "telephone": "+32 71 34 90 80",
+  "engagement": "Régulier",
+  "engagement_details": "Environ 2 h par semaine",
+  "pmr": "Je ne sais pas",
+  "transports": "Voiture (parking gratuit), transports en commun",
+  "source": "https://www.giveaday.eu/fr-be/charleroi/volontariat/ecole-des-devoirs-pour-des-enfants-de-primaire/68109",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Section : Jumet. Centre d'accueil pour demandeurs d'asile."
+}

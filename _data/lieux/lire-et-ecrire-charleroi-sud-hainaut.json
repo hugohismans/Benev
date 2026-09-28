@@ -1,0 +1,17 @@
+{
+  "nom": "Lire et Écrire Charleroi – Sud-Hainaut",
+  "actif": false,
+  "description": "Vous pourrez soutenir des adultes qui apprennent à lire et à écrire le français.",
+  "categories": [
+    "Culture et loisirs"
+  ],
+  "adresse": "Rue de Marcinelle 42",
+  "code_postal": "6000",
+  "commune": "Charleroi",
+  "coordonnees": "50.40664, 4.44431",
+  "telephone": "071/30 36 19",
+  "site_web": "http://www.lire-et-ecrire.be/charleroisudhainaut",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.interfede.be/centre/lire-et-ecrire-charleroi-sud-hainaut/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Recherche de bénévoles non confirmée sur la page source : à vérifier."
+}

@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam Seconde Main Charleroi",
+  "actif": true,
+  "description": "Vous pourrez rejoindre l'équipe de bénévoles du magasin pour trier des vêtements et objets de déco, et aider les clients à trouver leur bonheur.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue de la Montagne 9",
+  "code_postal": "6000",
+  "commune": "Charleroi",
+  "coordonnees": "50.40915, 4.44248",
+  "telephone": "+32 483 38 03 72",
+  "site_web": "https://oxfambelgique.be/magasins/oxfam-seconde-main-charleroi",
+  "horaires": "Mar-Sam 10h-18h ; fermé lundi et dimanche",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfambelgique.be/magasins/oxfam-seconde-main-charleroi",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Magasin Oxfam Belgique (Oxfam-Solidarité) ; Oxfam indique que ses magasins fonctionnent grâce à des milliers de bénévoles. Vérifier les besoins actuels auprès du magasin. La page mentionne explicitement 'Notre équipe de bénévoles'."
+}

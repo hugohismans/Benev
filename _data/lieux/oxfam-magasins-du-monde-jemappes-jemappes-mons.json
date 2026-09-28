@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam-Magasins du monde Jemappes",
+  "actif": true,
+  "description": "Vous pourrez aider à trier des vêtements de seconde main, ranger l'épicerie équitable et accueillir les clients, avec une équipe de bénévoles.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Place de Jemappes, 10",
+  "code_postal": "7012",
+  "commune": "Jemappes (Mons)",
+  "coordonnees": "50.44836, 3.88891",
+  "telephone": "065 31 59 97",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/jemappes/",
+  "horaires": "Mar-Ven 9h-17h30, Sam 9h30-16h30 (uniquement 1er et 2e samedis du mois) ; fermé lundi et dimanche",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/jemappes/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Oxfam-Magasins du monde fonctionne avec des équipes locales de bénévoles ; contact général bénévolat : info@mdmoxfam.be / 010 43 79 50 (siège, Wavre). Vérifier auprès du magasin les besoins actuels en bénévoles."
+}

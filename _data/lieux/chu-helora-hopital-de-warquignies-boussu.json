@@ -1,0 +1,19 @@
+{
+  "nom": "CHU HELORA – Hôpital de Warquignies",
+  "actif": true,
+  "description": "Vous pourrez accueillir les patients et visiteurs, les accompagner dans l'hôpital et leur offrir un moment de compagnie.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue des Chaufours 27",
+  "code_postal": "7300",
+  "commune": "Boussu",
+  "coordonnees": "50.41778, 3.80669",
+  "telephone": "065 35 92 26",
+  "email": "sonia.benali@helora.be",
+  "site_web": "https://www.helora.be",
+  "personne_reference": "Sonia Ben Ali",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.helora.be/hopitaux/volontariat",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Adresse trouvée sur https://www.volontr.be/institutions-pour-benevoles/."
+}

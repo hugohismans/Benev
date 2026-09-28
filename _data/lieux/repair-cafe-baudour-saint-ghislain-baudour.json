@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Baudour",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer du petit électroménager, des vêtements ou des vélos avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Maison paroissiale de Baudour, Avenue Louis Goblet 267",
+  "code_postal": "7331",
+  "commune": "Saint-Ghislain (Baudour)",
+  "coordonnees": "50.48419, 3.83125",
+  "telephone": "0477 374 262",
+  "email": "repaircafebaudour@gmail.com",
+  "horaires": "2e samedi du mois, 10h-13h",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 2e samedi du mois, 10h-13h",
+  "personne_reference": "Michele Di Nanno",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-baudour-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

@@ -1,0 +1,18 @@
+{
+  "nom": "Les Petits Riens Mons",
+  "actif": false,
+  "description": "Vous pourrez aider dans une boutique de seconde main qui soutient l'aide aux personnes en difficulté : tri, mise en rayon, accueil des clients.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Grand-Rue 15/17",
+  "code_postal": "7000",
+  "commune": "Mons",
+  "coordonnees": "50.45193, 3.94981",
+  "telephone": "065/475 383",
+  "site_web": "https://petitsriens.be/liste-boutiques/mons/",
+  "horaires": "Lun-Jeu 10h-18h30, Ven-Sam 10h-19h ; fermé dimanche",
+  "pmr": "Je ne sais pas",
+  "source": "https://petitsriens.be/liste-boutiques/mons/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Seule boutique Petits Riens trouvée en Hainaut. Les Petits Riens ont une page Volontariat (https://petitsriens.be/volontariat/) : vérifier si du volontariat est possible dans la boutique de Mons."
+}

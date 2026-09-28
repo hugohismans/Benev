@@ -1,0 +1,18 @@
+{
+  "nom": "Épicerie du Cœur de Mons",
+  "actif": true,
+  "description": "Vous pourrez aider à préparer et distribuer des colis alimentaires aux familles, sur rendez-vous en semaine.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Avenue de Jemappes 96",
+  "code_postal": "7000",
+  "commune": "Mons",
+  "coordonnees": "50.45261, 3.93174",
+  "telephone": "065/75.54.24",
+  "site_web": "https://epicerieducoeurdemons.be/",
+  "horaires": "Du lundi au vendredi, de 8h30 à 16h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://restosducoeur.be/fr/nos-restos/resto-du-coeur-de-mons",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Candidature via le formulaire 'Devenir bénévole' des Restos du Cœur (choisir Mons). Une ancienne adresse (Sentier Malaquin 2B) circule encore sur d'autres sites."
+}

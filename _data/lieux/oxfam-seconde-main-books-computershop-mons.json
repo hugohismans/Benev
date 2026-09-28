@@ -1,0 +1,19 @@
+{
+  "nom": "Oxfam Seconde Main Books-Computershop Mons",
+  "actif": true,
+  "description": "Vous pourrez aider à trier et ranger des livres de seconde main (romans, livres pour enfants, livres d'art...) dans une boutique chaleureuse.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue de Houdain 5",
+  "code_postal": "7000",
+  "commune": "Mons",
+  "coordonnees": "50.45218, 3.95364",
+  "telephone": "065/84.75.04",
+  "email": "informatique.mons@oxfamsol.be",
+  "site_web": "https://oxfambelgique.be/magasins/mons-2M",
+  "horaires": "Lun-Sam 10h-18h ; fermé dimanche",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfambelgique.be/magasins/mons-2M",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Magasin Oxfam Belgique (Oxfam-Solidarité) ; Oxfam indique que ses magasins fonctionnent grâce à des milliers de bénévoles. Vérifier les besoins actuels auprès du magasin. Boutique livres + ordinateurs reconditionnés."
+}

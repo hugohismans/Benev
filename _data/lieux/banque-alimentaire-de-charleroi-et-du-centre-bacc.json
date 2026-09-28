@@ -1,0 +1,21 @@
+{
+  "nom": "Banque Alimentaire de Charleroi et du Centre (BACC)",
+  "actif": true,
+  "description": "Vous pourrez donner un coup de main à l'entrepôt : réception, rangement et préparation des vivres destinés aux associations.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue des Forgerons 102",
+  "code_postal": "6001",
+  "commune": "Charleroi",
+  "coordonnees": "50.39218, 4.45276",
+  "telephone": "071/77.76.72",
+  "email": "charleroi@foodbanks.be",
+  "site_web": "https://www.foodbank-charleroi.be/",
+  "horaires": "8h-15h",
+  "engagement": "Flexible",
+  "engagement_details": "Quelques heures ou plus",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.foodbank-charleroi.be/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Le site indique qu'on peut aider 'quelques heures ou plus' ; contact de 8h30 à 12h. Section : Marcinelle."
+}

@@ -1,0 +1,21 @@
+{
+  "nom": "Repair Café Mouscron",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer de l'électroménager, des vêtements, du tricot ou des ordinateurs avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Espace Citoyen « 2 l'Aut'Côté », Rue Saint-Pierre 10",
+  "code_postal": "7700",
+  "commune": "Mouscron",
+  "coordonnees": "50.74263, 3.21419",
+  "email": "repaircafemouscron@gmail.com",
+  "site_web": "https://www.facebook.com/repaircafemouscron",
+  "horaires": "2e jeudi du mois, 17h-20h",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 2e jeudi du mois, 17h-20h",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-mouscron-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

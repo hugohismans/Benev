@@ -1,0 +1,18 @@
+{
+  "nom": "CPAS de Courcelles – distribution de colis",
+  "actif": true,
+  "description": "Le mercredi, vous pourrez aider à préparer et distribuer des colis alimentaires et à remplir les armoires.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue Baudouin 1er 119",
+  "code_postal": "6180",
+  "commune": "Courcelles",
+  "coordonnees": "50.45625, 4.37381",
+  "telephone": "+32 71 46 95 01",
+  "horaires": "Mercredi",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.giveaday.eu/fr-be/courcelles/volontariat/benevole-aide-distribution-de-colis-alimentaires/61223",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

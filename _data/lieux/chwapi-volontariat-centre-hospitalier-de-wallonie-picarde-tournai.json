@@ -1,0 +1,19 @@
+{
+  "nom": "CHwapi – Volontariat (Centre Hospitalier de Wallonie picarde)",
+  "actif": true,
+  "description": "Vous pourrez tenir compagnie à des patients qui se sentent seuls, les soutenir et les aider dans leurs démarches, dans l'un des sites de l'hôpital.",
+  "categories": [
+    "Accueil et convivialité",
+    "Personnes âgées"
+  ],
+  "adresse": "Avenue Delmée 9",
+  "code_postal": "7500",
+  "commune": "Tournai",
+  "coordonnees": "50.61310, 3.38555",
+  "telephone": "+32 69 258 785",
+  "site_web": "https://www.chwapi.be",
+  "personne_reference": "Maïté Vintevogel (coordinatrice volontariat)",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.chwapi.be/patient-visiteur/services-aide-aux-patients/volontariat/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. E-mail masqué sur la page. Adresse postale du service : rue des Sports 51, 7500 Tournai. Un ancien contact (Bruno Landrieu) apparaît ailleurs."
+}

@@ -1,0 +1,18 @@
+{
+  "nom": "Banque Alimentaire du Hainaut Occidental et de Mons-Borinage",
+  "actif": true,
+  "description": "Vous pourrez aider à l'entrepôt : préparer les commandes, gérer le stock, livrer (permis B) ou donner un coup de main administratif.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue du Progrès 33",
+  "code_postal": "7503",
+  "commune": "Tournai",
+  "coordonnees": "50.61665, 3.33941",
+  "telephone": "069 60 94 00",
+  "email": "secretaire@banquealimentairebat.org",
+  "site_web": "https://www.banquealimentairebat.org/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.banquealimentairebat.org/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Section : Froyennes. Candidature via la rubrique 'Contact' du site. Le site mentionne aussi d'autres entrepôts (non détaillés ici)."
+}

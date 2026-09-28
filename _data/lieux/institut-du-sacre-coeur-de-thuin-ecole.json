@@ -1,0 +1,20 @@
+{
+  "nom": "Institut du Sacré-Cœur de Thuin (école)",
+  "actif": true,
+  "description": "Vous pourrez surveiller les enfants de 3 à 6 ans dans la cour de récréation pendant le temps de midi.",
+  "categories": [
+    "Enfants et jeunes"
+  ],
+  "adresse": "Place Albert 1er 26",
+  "code_postal": "6530",
+  "commune": "Thuin",
+  "coordonnees": "50.15112, 4.32853",
+  "telephone": "+32 71 59 14 65",
+  "horaires": "Temps de midi",
+  "engagement": "Régulier",
+  "engagement_details": "Environ 1 h par jour",
+  "personne_reference": "Scohier Sandrine",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.giveaday.eu/fr-be/thuin/volontariat/surveillances-d-enfants-dans-la-cour-de-recre/69014",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. CV et lettre de motivation demandés."
+}

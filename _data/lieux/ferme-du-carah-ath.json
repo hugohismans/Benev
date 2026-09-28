@@ -1,0 +1,18 @@
+{
+  "nom": "Ferme du CARAH",
+  "actif": false,
+  "description": "Ferme expérimentale et pédagogique de la Province de Hainaut, membre de la fédération des fermes d'animation ; renseignez-vous pour aider autour des animaux.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Rue de l'Agriculture 301",
+  "code_postal": "7800",
+  "commune": "Ath",
+  "coordonnees": "50.60893, 3.75838",
+  "telephone": "068 26 46 30",
+  "email": "info@carah.be",
+  "site_web": "https://www.carah.be/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.fermedanimation.be/index.php/les-membres/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Accueil de bénévoles NON confirmé : à vérifier avant publication."
+}

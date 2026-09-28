@@ -1,0 +1,20 @@
+{
+  "nom": "Maison Croix-Rouge Val de Lys (Warneton)",
+  "actif": true,
+  "description": "Vous pourrez aider dans une grande vestiboutique ou rendre visite à des personnes isolées en maison de repos.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Personnes âgées"
+  ],
+  "adresse": "Faubourg de Lille 57 A",
+  "code_postal": "7784",
+  "commune": "Comines-Warneton",
+  "coordonnees": "50.74888, 2.94243",
+  "telephone": "056/55 95 66",
+  "email": "MCR.Val-Lys@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/val-de-lys/",
+  "horaires": "Chaque vendredi de 13h30 à 16h30 ; 2e samedi du mois de 9h à 12h et de 13h30 à 16h ; fermé en août",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/val-de-lys/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Localité : Warneton."
+}

@@ -1,0 +1,19 @@
+{
+  "nom": "Oxfam Seconde Main Marcinelle",
+  "actif": true,
+  "description": "Vous pourrez aider à trier et mettre en rayon des vêtements, livres, meubles et objets de brocante dans un grand magasin de seconde main.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Avenue de Philippeville 290-292",
+  "code_postal": "6001",
+  "commune": "Marcinelle (Charleroi)",
+  "coordonnees": "50.39589, 4.45569",
+  "telephone": "071/37.65.05",
+  "email": "shop.marcinelle@oxfamsol.be",
+  "site_web": "https://oxfambelgique.be/magasins/marcinelle",
+  "horaires": "Mar-Sam 10h-18h ; fermé lundi et dimanche",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfambelgique.be/magasins/marcinelle",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Magasin Oxfam Belgique (Oxfam-Solidarité) ; Oxfam indique que ses magasins fonctionnent grâce à des milliers de bénévoles. Vérifier les besoins actuels auprès du magasin. Magasin géré en collaboration avec Trans'Form (CPAS de Charleroi)."
+}

@@ -1,0 +1,20 @@
+{
+  "nom": "Soleil Levant (ACIS) – transport vers un service d'accueil de jour",
+  "actif": true,
+  "description": "Vous pourrez conduire une camionnette pour emmener des personnes porteuses de handicap de chez elles à leur centre de jour, et les ramener. Même un seul jour par semaine est bienvenu.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue de Lodelinsart 97",
+  "code_postal": "6061",
+  "commune": "Charleroi",
+  "coordonnees": "50.41418, 4.46525",
+  "email": "frederic.berhin@acis-asbl.be",
+  "horaires": "Du lundi au vendredi 7h-9h et 15h-17h",
+  "engagement": "Flexible",
+  "engagement_details": "Toutes propositions bienvenues (1 jour, les matins, les après-midi…)",
+  "personne_reference": "Berhin Frédéric",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.levolontariat.be/chauffeur-benevole-pour-le-transport-collectif-de-personnes-porteuses-de-handicap",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Section : Montignies-sur-Sambre. Permis B requis (camionnette 8+1). Code postal déduit de la localité (non indiqué sur l'annonce)."
+}

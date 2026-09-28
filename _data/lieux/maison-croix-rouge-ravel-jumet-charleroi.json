@@ -1,0 +1,21 @@
+{
+  "nom": "Maison Croix-Rouge Ravel (Jumet)",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique, à l'épicerie sociale ou aux colis alimentaires, ou accompagner des personnes isolées.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Chaussée de Gilly 18",
+  "code_postal": "6040",
+  "commune": "Charleroi",
+  "coordonnees": "50.44202, 4.43896",
+  "telephone": "071/35 23 39",
+  "email": "antenne.ravel.mcr.charleroi@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/ravel/",
+  "horaires": "Mardi, jeudi et vendredi de 9h à 12h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/ravel/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Localité : Jumet (antenne de la Maison Croix-Rouge de Charleroi)."
+}

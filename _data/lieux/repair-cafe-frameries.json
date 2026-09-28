@@ -1,0 +1,19 @@
+{
+  "nom": "Repair Café Frameries",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer des objets du quotidien avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue des Alliés 41",
+  "code_postal": "7080",
+  "commune": "Frameries",
+  "coordonnees": "50.40933, 3.89464",
+  "horaires": "3e samedi du mois, 10h-13h",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 3e samedi du mois, 10h-13h",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-frameries-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil. La fiche dit que l'équipe 'cherche toujours à s'agrandir' ; porté par le Centre culturel de Frameries. Pas de contact direct sur la fiche."
+}

@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café Ath",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer des vélos, du petit électroménager, des ordinateurs, des vêtements ou des objets en bois avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue des Arquebusiers 27",
+  "code_postal": "7800",
+  "commune": "Ath",
+  "coordonnees": "50.61602, 3.77618",
+  "telephone": "0489 587 561",
+  "email": "repaircafeath@gmail.com",
+  "site_web": "http://www.athentransition.be/repaircafe/",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-ath-3/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil. Fréquence non précisée sur la fiche."
+}

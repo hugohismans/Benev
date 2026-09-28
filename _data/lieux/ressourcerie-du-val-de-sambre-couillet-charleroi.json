@@ -1,0 +1,18 @@
+{
+  "nom": "Ressourcerie du Val de Sambre",
+  "actif": false,
+  "description": "Vous pourrez peut-être aider cette ressourcerie qui collecte les objets encombrants pour leur donner une seconde vie.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue du Déversoir, 1",
+  "code_postal": "6010",
+  "commune": "Couillet (Charleroi)",
+  "coordonnees": "50.39524, 4.47918",
+  "telephone": "071-47.57.57",
+  "email": "info@revalsambre.be",
+  "site_web": "https://revalsambre.be/",
+  "pmr": "Je ne sais pas",
+  "source": "https://revalsambre.be/contact/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Ressourcerie = entreprise d'insertion (emplois salariés) ; le bénévolat n'est pas mentionné sur le site. À vérifier avant publication. Surtout un service de collecte à domicile ; point de vente = magasin Trans'Form/Oxfam à Marcinelle."
+}

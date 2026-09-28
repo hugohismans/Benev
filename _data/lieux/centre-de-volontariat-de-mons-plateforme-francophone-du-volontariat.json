@@ -1,0 +1,19 @@
+{
+  "nom": "Centre de Volontariat de Mons (Plateforme francophone du Volontariat)",
+  "actif": true,
+  "description": "Vous pourrez y être reçu·e pour parler de vos envies et trouver une mission de volontariat près de chez vous, qui vous convient.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Lamir 29-31 (Pôle d'accueil social)",
+  "code_postal": "7000",
+  "commune": "Mons",
+  "coordonnees": "50.45618, 3.96306",
+  "telephone": "0474 06 98 22",
+  "email": "mons@levolontariat.be",
+  "site_web": "https://www.levolontariat.be",
+  "horaires": "Sur rendez-vous ; sans rendez-vous les 1er et 3e vendredis du mois de 9h à 12h",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.levolontariat.be/centres-de-volontariat",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Lieu d'orientation vers le volontariat plutôt qu'un lieu de volontariat. Fermeture estivale annoncée (mi-juillet à mi-août). Coordonnées approximatives (centre de la commune) : à corriger."
+}

@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Montigny-le-Tilleul",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer du petit électroménager, des vêtements, des machines à coudre ou des objets en cuir avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Wilmet 5",
+  "code_postal": "6110",
+  "commune": "Montigny-le-Tilleul",
+  "coordonnees": "50.37643, 4.37905",
+  "telephone": "0499 35 90 96",
+  "email": "magguyvdweyd.2010@gmail.com",
+  "horaires": "3e mardi du mois, 14h-17h30",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 3e mardi du mois, 14h-17h30",
+  "personne_reference": "Marguerite Vanderweyden",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-montigny-le-tilleul-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

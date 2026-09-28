@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café de Gerpinnes",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer du petit électro, des vêtements, des vélos ou aiguiser des couteaux avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Centre culturel de Gerpinnes, Rue de Villers 61",
+  "code_postal": "6280",
+  "commune": "Gerpinnes",
+  "coordonnees": "50.36196, 4.51330",
+  "telephone": "0477 39 08 63",
+  "email": "lizinannesophie@gmail.com",
+  "engagement": "Régulier",
+  "personne_reference": "Anne-Sophie Lizin",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-de-gerpinnes-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

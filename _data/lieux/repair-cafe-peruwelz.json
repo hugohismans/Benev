@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Péruwelz",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer du petit électroménager, des vêtements, des objets en bois ou des jouets avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Neuve Chaussée 86 A",
+  "code_postal": "7600",
+  "commune": "Péruwelz",
+  "coordonnees": "50.52273, 3.60163",
+  "email": "repaircafeperuwelz@gmail.com",
+  "site_web": "https://fr-fr.facebook.com/repaircafeperuwelz/",
+  "horaires": "1er dimanche du mois, 14h-17h (sauf janvier)",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 1er dimanche du mois, 14h-17h (sauf janvier)",
+  "pmr": "Je ne sais pas",
+  "transports": "Entrée via la zone commerciale de l'Intermarché",
+  "source": "https://repairtogether.be/en/group/repair-cafe-peruwelz-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil. La fiche indique 86 A dans l'adresse carte et 80 A dans le texte : à vérifier."
+}

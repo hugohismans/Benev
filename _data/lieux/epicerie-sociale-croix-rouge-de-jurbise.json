@@ -1,0 +1,18 @@
+{
+  "nom": "Épicerie sociale Croix-Rouge de Jurbise",
+  "actif": true,
+  "description": "Une fois par mois, vous pourrez aider à préparer et tenir l'épicerie sociale qui propose des produits à tout petits prix.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue des Masnuy 220",
+  "code_postal": "7050",
+  "commune": "Jurbise",
+  "coordonnees": "50.53116, 3.94584",
+  "telephone": "065/354780",
+  "site_web": "https://maisons.croix-rouge.be/maisons/jurbise-lens/",
+  "horaires": "Une fois par mois, de 8h15 à 12h et de 13h15 à 18h15",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/jurbise-lens/service/3571/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Service de la Maison Croix-Rouge Jurbise-Lens. Email de contact sur la source = adresse privée, non reprise."
+}

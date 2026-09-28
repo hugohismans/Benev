@@ -1,0 +1,19 @@
+{
+  "nom": "Épicerie sociale écosolidaire - Promotion Services",
+  "actif": false,
+  "description": "Vous pourrez découvrir cette épicerie sociale de Monceau-sur-Sambre, ouverte chaque matin en semaine.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue Julien Durant 52",
+  "code_postal": "6031",
+  "commune": "Charleroi",
+  "coordonnees": "50.41002, 4.38423",
+  "telephone": "071/18.12.83",
+  "email": "asbl.promotionservices@gmail.com",
+  "site_web": "https://www.facebook.com/profile.php?id=61575712964323",
+  "horaires": "Du lundi au vendredi, 9h00-12h00",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.fdss.be/fr/caa/repertoire-de-l-aide-alimentaire/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Répertoire FDSS (destiné aux bénéficiaires) : l'accueil de bénévoles n'est pas confirmé."
+}

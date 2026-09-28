@@ -1,0 +1,21 @@
+{
+  "nom": "Repair Café Ellezelles",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer du petit électro, des vêtements, des petits meubles ou des vélos avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Ancienne cure de Lahamaide (Écomusée), Plada 6, Lahamaide",
+  "code_postal": "7890",
+  "commune": "Ellezelles",
+  "coordonnees": "50.69510, 3.72217",
+  "telephone": "0494 85 57 12",
+  "email": "repaircafeellezelles@gmail.com",
+  "horaires": "1er samedi du mois, 14h-17h",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 1er samedi du mois, 14h-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-ellezelles-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

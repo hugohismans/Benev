@@ -1,0 +1,20 @@
+{
+  "nom": "La Transfusion du Sang – collectes de sang (Charleroi)",
+  "actif": true,
+  "description": "Lors des collectes, vous pourrez accueillir les donneurs, leur servir une boisson et une collation, et aider à installer la salle. Un rôle simple et chaleureux.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Boulevard Zoé Drion 31",
+  "code_postal": "6000",
+  "commune": "Charleroi",
+  "coordonnees": "50.41485, 4.45203",
+  "telephone": "+32 474 36 66 08",
+  "engagement": "Régulier",
+  "engagement_details": "Environ 12 h par mois",
+  "personne_reference": "Leemans Leen",
+  "pmr": "Je ne sais pas",
+  "transports": "Voiture (parking gratuit), transports en commun",
+  "source": "https://www.giveaday.eu/fr-be/charleroi/volontariat/benevoles-recherches-pour-nos-collectes-de-sang/73432",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Les collectes ont lieu dans différentes communes ; l'adresse est celle de l'établissement."
+}

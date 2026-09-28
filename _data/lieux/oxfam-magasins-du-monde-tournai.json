@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam-Magasins du monde Tournai",
+  "actif": true,
+  "description": "Vous pourrez aider à accueillir les clients, conseiller et ranger les produits du commerce équitable (épicerie, artisanat) dans une équipe de bénévoles.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue du Curé Notre-Dame, 9",
+  "code_postal": "7500",
+  "commune": "Tournai",
+  "coordonnees": "50.60739, 3.38884",
+  "telephone": "069 23 56 84",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/tournai/",
+  "horaires": "Lun 14h-18h, Mar-Sam 10h-12h30 et 14h-18h ; fermé dimanche",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/tournai/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Oxfam-Magasins du monde fonctionne avec des équipes locales de bénévoles ; contact général bénévolat : info@mdmoxfam.be / 010 43 79 50 (siège, Wavre). Vérifier auprès du magasin les besoins actuels en bénévoles."
+}

@@ -1,0 +1,18 @@
+{
+  "nom": "Chantier d'épices (épicerie sociale de l'asbl Chantier)",
+  "actif": false,
+  "description": "Vous pourrez découvrir cette épicerie sociale de Marcinelle, portée par une entreprise de formation.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue de la Vieille Place 51",
+  "code_postal": "6001",
+  "commune": "Charleroi",
+  "coordonnees": "50.39679, 4.44160",
+  "telephone": "071/29.88.43",
+  "site_web": "https://www.eftchantier.be/epicerie-sociale/",
+  "horaires": "Mercredi 7h00-10h30, samedi 12h00-14h00",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.fdss.be/fr/caa/repertoire-de-l-aide-alimentaire/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Trouvé dans le répertoire de l'aide alimentaire FDSS (destiné aux bénéficiaires) : l'accueil de bénévoles n'est pas confirmé."
+}

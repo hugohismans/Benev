@@ -1,0 +1,19 @@
+{
+  "nom": "Repair Café de Fontaine-Valmont",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer de l'électroménager, de l'électronique ou des vêtements avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Place Desoil 3, Fontaine-Valmont",
+  "code_postal": "6567",
+  "commune": "Merbes-le-Château",
+  "coordonnees": "50.31828, 4.21576",
+  "telephone": "+32 468 38 73 58",
+  "email": "repaircafe.fontainevalmont@gmail.com",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-de-fontaine-valmont-3/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

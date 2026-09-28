@@ -1,0 +1,17 @@
+{
+  "nom": "Centre d'accueil Croix-Rouge de Tournai (demandeurs de protection internationale)",
+  "actif": false,
+  "description": "Vous pourrez aider à organiser des activités avec les résidents du centre (familles, adultes, jeunes) et partager des moments de rencontre.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Avenue Decraene 3",
+  "code_postal": "7500",
+  "commune": "Tournai",
+  "coordonnees": "50.60508, 3.40376",
+  "telephone": "069 34 33 20",
+  "site_web": "https://www.facebook.com/centreaccueilCR.Tournai/",
+  "pmr": "Je ne sais pas",
+  "source": "https://accueil-migration.croix-rouge.be/centres/centre-daccueil-de-tournai/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Adresse et téléphone repris d'un extrait de la page officielle (l'URL redirige désormais vers croix-rouge.be) et confirmés par des annuaires ; le centre est cité comme actif en avril 2026 (L'Avenir). Missions volontaires à confirmer avec le centre."
+}

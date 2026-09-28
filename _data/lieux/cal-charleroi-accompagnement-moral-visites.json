@@ -1,0 +1,21 @@
+{
+  "nom": "CAL Charleroi – Accompagnement moral (visites)",
+  "actif": true,
+  "description": "Vous pourrez rendre visite à des personnes âgées, chez elles ou en maison de repos, pour leur tenir compagnie et les écouter. Une formation de 4 jours et un suivi régulier sont prévus, et vos frais de déplacement sont remboursés.",
+  "categories": [
+    "Personnes âgées",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue de France 31",
+  "code_postal": "6000",
+  "commune": "Charleroi",
+  "coordonnees": "50.41095, 4.44175",
+  "telephone": "071/53.91.72",
+  "email": "info@cal-charleroi.be",
+  "site_web": "https://cal-charleroi.be/",
+  "engagement": "Régulier",
+  "engagement_details": "Formation initiale de 4 jours, supervisions avant, pendant et après les visites.",
+  "pmr": "Je ne sais pas",
+  "source": "https://cal-charleroi.be/benevolat/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Les visites concernent aussi des personnes hospitalisées et l'accompagnement de familles lors de funérailles."
+}

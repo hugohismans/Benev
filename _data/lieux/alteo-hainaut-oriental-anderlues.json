@@ -1,0 +1,20 @@
+{
+  "nom": "Altéo Hainaut Oriental",
+  "actif": true,
+  "description": "Vous pourrez accompagner des personnes malades ou handicapées lors de loisirs, d'excursions ou d'ateliers créatifs, ou leur offrir un peu de compagnie.",
+  "categories": [
+    "Culture et loisirs",
+    "Accueil et convivialité",
+    "Sport"
+  ],
+  "adresse": "Rue du Douaire 40",
+  "code_postal": "6150",
+  "commune": "Anderlues",
+  "coordonnees": "50.39857, 4.27420",
+  "telephone": "071/54 84 31",
+  "email": "MCHO.alteo@mc.be",
+  "site_web": "https://www.alteoasbl.be",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.levolontariat.be/group/alteo-hainaut-oriental",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Certaines missions se déroulent hors du bureau (excursions, séjours, transport)."
+}

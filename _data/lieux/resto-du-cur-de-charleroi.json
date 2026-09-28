@@ -1,0 +1,21 @@
+{
+  "nom": "Resto du Cœur de Charleroi",
+  "actif": false,
+  "description": "Vous pourrez aider l'équipe qui sert des repas chauds et accueille les personnes en difficulté, avec aussi un espace vestiaire.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Place Elie Delferrière 6/7",
+  "code_postal": "6000",
+  "commune": "Charleroi",
+  "coordonnees": "50.42157, 4.45252",
+  "telephone": "071/20 07 91",
+  "site_web": "https://restosducoeur.be/fr/nos-restos/resto-du-coeur-de-charleroi",
+  "horaires": "Du lundi au vendredi, de 7h30 à 15h30",
+  "engagement": "Régulier",
+  "engagement_details": "Créneaux bénévoles indiqués : lundi 8h-11h, jeudi 8h-15h, vendredi 8h-15h",
+  "pmr": "Je ne sais pas",
+  "source": "https://restosducoeur.be/fr/nos-restos/resto-du-coeur-de-charleroi",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page indique que l'équipe de bénévoles est au complet pour l'instant (formulaire 'Devenir bénévole' disponible pour se manifester)."
+}

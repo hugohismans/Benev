@@ -1,0 +1,22 @@
+{
+  "nom": "Point de Repair (Repair Café couture) Tournai",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer des vêtements avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Maison de la Laïcité, Rue des Clairisses 13",
+  "code_postal": "7500",
+  "commune": "Tournai",
+  "coordonnees": "50.60537, 3.39190",
+  "telephone": "069/84.72.01",
+  "email": "pointderepair.leep@gmail.com",
+  "site_web": "https://www.facebook.com/groups/531528045356259/",
+  "horaires": "4e vendredi du mois, 14h-17h30",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 4e vendredi du mois, 14h-17h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-point-de-repair-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

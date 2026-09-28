@@ -1,0 +1,20 @@
+{
+  "nom": "Maison Croix-Rouge Les Gilles (Binche)",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique, à la petite brocante ou à la bouquinerie, où l'on vend livres et vêtements à petits prix.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Culture et loisirs"
+  ],
+  "adresse": "Place Eugène Derbaix 9A",
+  "code_postal": "7130",
+  "commune": "Binche",
+  "coordonnees": "50.40939, 4.17202",
+  "telephone": "0494/38.37.10",
+  "email": "mcr.DesGilles@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/les-gilles/",
+  "horaires": "Du mardi au jeudi de 8h30 à 12h et de 13h à 17h ; vendredi et samedi de 8h30 à 12h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/les-gilles/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Couvre Binche, Anderlues, Estinnes, Erquelinnes. Les fiches de service indiquent « Place Eugène Derbaix 9 » et d'autres horaires pour le vendredi."
+}

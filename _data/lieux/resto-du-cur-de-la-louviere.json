@@ -1,0 +1,19 @@
+{
+  "nom": "Resto du Cœur de La Louvière",
+  "actif": false,
+  "description": "Vous pourrez aider à distribuer des colis alimentaires et à tenir l'espace vestiaire.",
+  "categories": [
+    "Aide alimentaire",
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue Hallez 4",
+  "code_postal": "7100",
+  "commune": "La Louvière",
+  "coordonnees": "50.44797, 4.14466",
+  "telephone": "0496/95 78 48",
+  "site_web": "https://restosducoeur.be/fr/nos-restos/resto-du-coeur-de-la-louviere",
+  "horaires": "Joignable par téléphone du lundi au vendredi ; distribution de colis le vendredi 8h-12h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://restosducoeur.be/fr/nos-restos/resto-du-coeur-de-la-louviere",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page indique que l'équipe de bénévoles est au complet pour l'instant (formulaire 'Devenir bénévole' disponible pour se manifester). La page mentionne Trivières (section de La Louvière)."
+}

@@ -1,0 +1,24 @@
+{
+  "nom": "Repair Café de Fontaine-l'Évêque à Leernes",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer des ordinateurs, des machines à coudre ou de l'électroménager avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Maison@Wespes, Rue Willy Van Assche 37A, Leernes",
+  "code_postal": "6142",
+  "commune": "Fontaine-l'Évêque",
+  "coordonnees": "50.38800, 4.33246",
+  "telephone": "0478 61 03 63",
+  "email": "repaircafe@edu.villedefontaine.be",
+  "site_web": "https://www.facebook.com/repaircafefontaineleveque/",
+  "horaires": "2e samedi du mois, 9h-12h (sauf juillet-août)",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 2e samedi du mois, 9h-12h (sauf juillet-août)",
+  "personne_reference": "Eric, Alain et Marguerite",
+  "pmr": "Je ne sais pas",
+  "transports": "Bus TEC 173 (Charleroi-Piéton Gare), arrêt « Leernes – Place des Wespes, rue Willy Van Assche »",
+  "source": "https://repairtogether.be/en/group/repair-cafe-de-fontaine-leveque-a-leernes-wespes-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

@@ -1,0 +1,23 @@
+{
+  "nom": "Repair Café Haute Sambre",
+  "actif": true,
+  "description": "Vous pourrez aider à réparer du petit électroménager, des vêtements, des petits meubles ou des vélos avec d'autres bénévoles, ou accueillir les visiteurs dans une ambiance conviviale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue de l'Abbaye 30A",
+  "code_postal": "6540",
+  "commune": "Lobbes",
+  "coordonnees": "50.34572, 4.26450",
+  "telephone": "0489 72 58 15",
+  "email": "sturbois.monique@gmail.com",
+  "site_web": "http://www.hautesambreentransition.be",
+  "horaires": "3e lundi du mois, 15h-19h",
+  "engagement": "Régulier",
+  "engagement_details": "Une séance par mois : 3e lundi du mois, 15h-19h",
+  "personne_reference": "Monique",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-haute-sambre-en/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas besoin d'être expert : les Repair Cafés accueillent aussi des bénévoles pour l'accueil."
+}

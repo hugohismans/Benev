@@ -1,0 +1,21 @@
+{
+  "nom": "Maison Croix-Rouge Mariemont (Morlanwelz)",
+  "actif": true,
+  "description": "Vous pourrez aider à l'épicerie-droguerie sociale ou à la vestiboutique (vêtements, jouets, objets pour la maison), ou accompagner des personnes isolées.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Chaussée de Mariemont 2",
+  "code_postal": "7140",
+  "commune": "Morlanwelz",
+  "coordonnees": "50.45337, 4.23530",
+  "telephone": "0498/70 39 01",
+  "email": "mcr.mariemont@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/mariemont/",
+  "horaires": "Du lundi au jeudi de 9h à 17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/mariemont/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Couvre Morlanwelz, Chapelle-lez-Herlaimont, Manage, Seneffe, Fontaine-l'Évêque."
+}

@@ -1,0 +1,20 @@
+{
+  "nom": "Bibliothèque communale Roger Foulon (Thuin)",
+  "actif": true,
+  "description": "Vous pourrez apporter des livres chez des lecteurs qui ne peuvent pas se déplacer et discuter avec eux, ou participer à la grainothèque (préparer des sachets de graines, activités de jardinage).",
+  "categories": [
+    "Culture et loisirs",
+    "Nature et jardinage",
+    "Personnes âgées"
+  ],
+  "adresse": "Quartier du Beffroi 10",
+  "code_postal": "6530",
+  "commune": "Thuin",
+  "coordonnees": "50.33973, 4.28601",
+  "telephone": "+32 71 59 50 29",
+  "engagement": "Flexible",
+  "engagement_details": "Visites mensuelles ; grainothèque à convenir (possible chez soi)",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.giveaday.eu/fr-be/thuin/volontariat/un-livre-un-sourire-portage-de-livres-a-domicile/56816",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Grainothèque : https://www.giveaday.eu/fr-be/thuin/volontariat/partageons-la-magie-du-jardinage-ensemble/56819"
+}

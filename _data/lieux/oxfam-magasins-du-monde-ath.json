@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam-Magasins du monde Ath",
+  "actif": true,
+  "description": "Vous pourrez aider à accueillir les clients, trier et mettre en rayon des vêtements de seconde main et des produits du commerce équitable, au sein d'une équipe de bénévoles.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue Hennepin 2",
+  "code_postal": "7800",
+  "commune": "Ath",
+  "coordonnees": "50.63019, 3.77979",
+  "telephone": "068 28 49 10",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/ath/",
+  "horaires": "Mar-Sam 10h-18h ; fermé lundi, dimanche et jours fériés",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/ath/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Oxfam-Magasins du monde fonctionne avec des équipes locales de bénévoles ; contact général bénévolat : info@mdmoxfam.be / 010 43 79 50 (siège, Wavre). Vérifier auprès du magasin les besoins actuels en bénévoles."
+}

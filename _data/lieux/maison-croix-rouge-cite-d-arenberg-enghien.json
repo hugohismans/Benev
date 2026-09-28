@@ -1,0 +1,20 @@
+{
+  "nom": "Maison Croix-Rouge Cité d'Arenberg (Enghien)",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique (vêtements adultes, enfants et bébés) ou accompagner des personnes isolées.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Place du Vieux Marché 11",
+  "code_postal": "7850",
+  "commune": "Enghien",
+  "coordonnees": "50.69475, 4.04321",
+  "telephone": "02 395 65 41",
+  "email": "MCR.Arenberg@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/cite-darenberg/",
+  "horaires": "Mercredi de 10h à 12h et de 14h à 16h ; jeudi et vendredi de 10h à 12h ; samedi de 10h à 12h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/cite-darenberg/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Couvre aussi Silly."
+}

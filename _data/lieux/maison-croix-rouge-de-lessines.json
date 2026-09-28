@@ -1,0 +1,21 @@
+{
+  "nom": "Maison Croix-Rouge de Lessines",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique (avec petite brocante et bouquinerie), aux colis alimentaires ou à l'accompagnement de personnes isolées.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue de l'Hôtellerie 53",
+  "code_postal": "7860",
+  "commune": "Lessines",
+  "coordonnees": "50.71036, 3.83864",
+  "telephone": "068/33.76.36",
+  "email": "mcr.lessines@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/lessines/",
+  "horaires": "Lundi et mercredi de 13h à 16h30 ; mardi, jeudi et vendredi de 10h à 16h30 ; 2e samedi du mois de 10h à 16h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/lessines/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison."
+}

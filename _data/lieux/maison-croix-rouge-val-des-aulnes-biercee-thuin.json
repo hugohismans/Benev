@@ -1,0 +1,22 @@
+{
+  "nom": "Maison Croix-Rouge Val des Aulnes (Biercée)",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique, aux colis alimentaires, aux courses collectives ou aux visites de personnes isolées.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Aide alimentaire",
+    "Personnes âgées",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Grignard 31",
+  "code_postal": "6533",
+  "commune": "Thuin",
+  "coordonnees": "50.32393, 4.25973",
+  "telephone": "071-812-645",
+  "email": "mcrvaldesaulnes@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/val-des-aulnes/",
+  "horaires": "Mercredi et vendredi de 9h30 à 13h et de 14h à 17h ; mardi de 9h30 à 14h (action sociale)",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/val-des-aulnes/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Localité : Biercée. Couvre Thuin, Montigny-le-Tilleul, Beaumont, Lobbes, Merbes-le-Château, Ham-sur-Heure-Nalinnes."
+}

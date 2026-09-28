@@ -1,0 +1,20 @@
+{
+  "nom": "École de devoirs L'Après Quatre Heures",
+  "actif": true,
+  "description": "Vous pourrez aider des enfants du primaire à faire leurs devoirs, le mardi et le jeudi, dans une ambiance qui mêle soutien scolaire et activités créatives.",
+  "categories": [
+    "Enfants et jeunes"
+  ],
+  "adresse": "Rue de la Culture 14 A",
+  "code_postal": "7011",
+  "commune": "Mons",
+  "coordonnees": "50.47367, 3.90793",
+  "telephone": "0488 35 89 63",
+  "site_web": "https://my.one.be/ecole-de-devoirs/2032685",
+  "horaires": "Lundi–vendredi 15h–17h15, mercredi 12h–17h",
+  "engagement": "Régulier",
+  "engagement_details": "Mardis et jeudis, minimum 1h30 par semaine (annonce 2026-2027).",
+  "pmr": "Je ne sais pas",
+  "source": "https://volontariat.ecolesdedevoirs.be/edd-recherche-volontaires/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. E-mail personnel retiré : passer par la source. Section : Ghlin. Adresse et horaires : https://my.one.be/ecole-de-devoirs/2032685"
+}

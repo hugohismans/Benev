@@ -1,0 +1,19 @@
+{
+  "nom": "Vestiboutique Croix-Rouge de Soignies",
+  "actif": true,
+  "description": "Vous pourrez aider à trier, ranger et vendre des vêtements de seconde main, dans une boutique qui fait aussi petite brocante.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue Grégoire Wincqz 1",
+  "code_postal": "7060",
+  "commune": "Soignies",
+  "coordonnees": "50.57720, 4.07219",
+  "telephone": "067/771484 (option 5)",
+  "email": "mcr.ht-senne@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/haute-senne/",
+  "horaires": "Mardi de 9h à 13h ; jeudi de 13h30 à 17h ; samedi de 9h à 13h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/haute-senne/service/4182/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Données issues de la fiche officielle Maisons Croix-Rouge (consultée le 28/09/2026). Les missions possibles pour un·e volontaire ne sont pas détaillées sur la page : à confirmer avec la Maison. Service de la Maison Croix-Rouge Haute Senne."
+}

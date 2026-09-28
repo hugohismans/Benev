@@ -1,0 +1,21 @@
+{
+  "nom": "Grand Hôpital de Charleroi – Volontariat",
+  "actif": true,
+  "description": "Vous pourrez accompagner des patients dans l'hôpital, offrir une présence et une écoute dans les unités de soins, et rendre de petits services qui adoucissent leur séjour.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Campus des Viviers 1",
+  "code_postal": "6060",
+  "commune": "Gilly",
+  "coordonnees": "50.41970, 4.49014",
+  "telephone": "060/11.02.02",
+  "email": "volontariat@ghdc.be",
+  "site_web": "https://www.ghdc.be",
+  "engagement": "Régulier",
+  "engagement_details": "1 à 2 permanences de 4 heures par semaine ; certificat de bonne vie et mœurs demandé. Formations continues proposées.",
+  "personne_reference": "Françoise Devilers (coordinatrice volontariat)",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.ghdc.be/volontariat",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Adresse (site Les Viviers) trouvée dans un résultat de recherche lié à levolontariat.be, pas sur la page source : à vérifier. Autre numéro : 060/11.08.04. Candidature via formulaire en ligne."
+}
