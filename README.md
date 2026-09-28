@@ -1,6 +1,6 @@
 # Benev
 
-Un site simple qui répertorie les lieux de bénévolat dans le Hainaut, pensé pour les personnes qui sortent d'une hospitalisation en psychiatrie.
+Un site simple qui répertorie les lieux de bénévolat dans le Hainaut et alentours (Brabant wallon, province de Namur, bordure flamande et française), pensé pour les personnes qui sortent d'une hospitalisation en psychiatrie.
 
 La personne indique sa commune, son code postal ou son adresse (ou se localise), et le site lui montre les lieux les plus proches, en liste ou sur une carte.
 
@@ -55,13 +55,15 @@ Cliquez sur **Lieux de bénévolat → Add an entry** et remplissez le formulair
 
 ### 5. La base de départ : à vérifier petit à petit
 
-Les lieux fournis au départ ont été **collectés automatiquement sur internet** en septembre 2026 : Croix-Rouge, Restos du Cœur, banques alimentaires, Oxfam, Repair Cafés, refuges, hôpitaux, Lire et Écrire, etc. Pour chaque lieu :
+Les lieux fournis au départ ont été **collectés automatiquement sur internet** en septembre 2026, dans le Hainaut et les régions voisines : Croix-Rouge, Restos du Cœur, banques alimentaires, Oxfam, Repair Cafés, refuges, hôpitaux, Lire et Écrire, etc. Pour chaque lieu :
 
 - le champ **Source** indique la page où l'information a été trouvée ;
 - le champ **Notes** indique ce qui reste à vérifier (adresse incertaine, horaires, etc.) ;
 - les lieux dont on n'a **pas pu confirmer qu'ils accueillent des bénévoles** (ou qui affichaient « équipe complète ») sont **cachés** : leur note commence par « À VÉRIFIER ». Après un coup de fil, cochez « Afficher ce lieu sur le site » ou supprimez le lieu.
 
 Les coordonnées GPS ont été calculées automatiquement. Quand la note dit « coordonnées approximatives », corrigez-les avec Google Maps.
+
+Pour les lieux en Flandre, le champ **Langue parlée sur place** indique si les francophones sont bienvenus (à confirmer par téléphone). Les lieux en France portent la mention « (France) » dans la commune.
 
 Aucune fiche ne contient encore d'info sur l'**accueil des personnes fragilisées**, le **début en douceur** ou l'**accessibilité PMR** : ces infos ne se trouvent pas sur internet. Ce sont les plus précieuses pour les visiteurs, n'hésitez pas à les demander quand vous appelez un lieu.
 

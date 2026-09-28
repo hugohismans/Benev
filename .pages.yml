@@ -112,6 +112,15 @@ content:
             - En partie
             - Non
             - Je ne sais pas
+      - name: langue
+        label: Langue parlée sur place
+        description: Laisser vide si on y parle français.
+        type: select
+        options:
+          values:
+            - Néerlandais, francophones bienvenus
+            - Néerlandais
+            - Néerlandais (à vérifier)
       - name: transports
         label: Transports en commun
         description: Ex. « Bus TEC 1 et 2, arrêt Grand-Place (2 minutes à pied). Gare de Mons à 10 minutes à pied. »

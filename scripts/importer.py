@@ -20,12 +20,12 @@ import urllib.parse
 import urllib.request
 
 DOSSIER = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '_data', 'lieux')
-# Hainaut, avec un peu de marge
-LAT_MIN, LAT_MAX, LNG_MIN, LNG_MAX = 49.9, 50.85, 2.8, 4.9
+# Hainaut et régions voisines (Brabant wallon, Namur, bordure flamande et française)
+LAT_MIN, LAT_MAX, LNG_MIN, LNG_MAX = 49.8, 51.0, 2.5, 5.6
 CHAMPS = ['nom', 'actif', 'description', 'categories', 'adresse', 'code_postal', 'commune',
           'coordonnees', 'telephone', 'email', 'site_web', 'horaires', 'engagement',
           'engagement_details', 'debut_en_douceur', 'accueil_adapte', 'personne_reference',
-          'pmr', 'transports', 'source', 'notes']
+          'pmr', 'langue', 'transports', 'source', 'notes']
 
 
 NOTE_APPROX = 'Coordonnées approximatives (centre de la commune) : à corriger.'
@@ -38,7 +38,7 @@ def slug(texte):
 
 
 def nominatim(params):
-    params = dict(params, format='jsonv2', limit=1, countrycodes='be')
+    params = dict(params, format='jsonv2', limit=1, countrycodes='be,fr')
     url = 'https://nominatim.openstreetmap.org/search?' + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={'User-Agent': 'benev-importer/1.0 (site de bénévolat, Hainaut)'})
     for essai in range(3):
@@ -71,8 +71,12 @@ def cle_adresse(lieu):
 def geocoder(lieu):
     """Renvoie ((lat, lng), précision) ou (None, None)."""
     rue, cp = lieu.get('adresse', ''), lieu.get('code_postal', '')
-    # « Gilly (Charleroi) » → « Gilly »
-    commune = re.sub(r'\s*\(.*?\)', '', lieu.get('commune', '')).strip()
+    # « Gilly (Charleroi) » → « Gilly » ; « Renaix (Ronse) » → « Renaix », puis « Ronse »
+    brut = lieu.get('commune', '')
+    commune = re.sub(r'\s*\(.*?\)', '', brut).strip()
+    entre = re.findall(r'\((.*?)\)', brut)
+    communes = [commune] + [c for c in entre if c != 'France']
+    pays = 'France' if 'France' in entre or cp.startswith('59') and len(cp) == 5 else 'Belgique'
     essais = []
     rues = [rue] if rue else []
     # « Maison du Peuple, Place Émile Vandervelde 28 » → « Place Émile Vandervelde 28 »
@@ -80,10 +84,12 @@ def geocoder(lieu):
     if morceaux and morceaux[-1] != rue:
         rues.append(morceaux[-1])
     for r in rues:
-        essais.append(({'street': r, 'postalcode': cp, 'city': commune}, 'adresse'))
-        essais.append(({'q': ', '.join(x for x in [r, cp, commune] if x)}, 'adresse'))
+        for c in communes:
+            essais.append(({'street': r, 'postalcode': cp, 'city': c}, 'adresse'))
+            essais.append(({'q': ', '.join(x for x in [r, cp, c, pays] if x)}, 'adresse'))
     if cp or commune:
-        essais.append(({'q': ', '.join(x for x in [cp, commune, 'Belgique'] if x)}, 'commune'))
+        for c in communes:
+            essais.append(({'q': ', '.join(x for x in [cp, c, pays] if x)}, 'commune'))
     for params, precision in essais:
         params = {k: v for k, v in params.items() if v}
         try:
@@ -139,6 +145,10 @@ def main(fichiers):
                 lieu['coordonnees'] = '%.5f, %.5f' % pos
                 if precision == 'commune':
                     notes.append(NOTE_APPROX)
+            if 'accueil_francophone' in lieu and not lieu.get('langue'):
+                lieu['langue'] = {True: 'Néerlandais, francophones bienvenus',
+                                  False: 'Néerlandais'}.get(lieu['accueil_francophone'],
+                                                            'Néerlandais (à vérifier)')
             lieu['notes'] = ' '.join(notes)
             lieu['actif'] = lieu.get('actif', True)
             propre = {}

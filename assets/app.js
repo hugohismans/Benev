@@ -164,6 +164,7 @@
     if (l.accueil_adapte) badges.push('🤗 Habitué à accueillir des personnes fragilisées');
     if (l.engagement) badges.push('🗓️ ' + echapper(ENGAGEMENT[l.engagement] || l.engagement) +
       (l.engagement_details ? ' – ' + echapper(l.engagement_details) : ''));
+    if (l.langue) badges.push('🗣️ ' + echapper(l.langue));
     if (l.pmr === 'Oui') badges.push('♿ Accessible en fauteuil roulant');
     else if (l.pmr === 'En partie') badges.push('♿ Accessible en partie aux personnes à mobilité réduite');
     if (badges.length) h += '<ul class="badges">' + badges.map(function (b) { return '<li>' + b + '</li>'; }).join('') + '</ul>';
@@ -293,8 +294,8 @@
     if (!texte) { statut('Écrivez votre commune ou votre adresse.', true); return; }
     statut('Recherche en cours…');
     var q = /^\d{4}$/.test(texte) ? texte + ', Belgique' : texte;
-    var url = 'https://nominatim.openstreetmap.org/search?format=jsonv2&limit=1&countrycodes=be' +
-      '&accept-language=fr&viewbox=2.8,50.85,4.9,49.9&q=' + encodeURIComponent(q);
+    var url = 'https://nominatim.openstreetmap.org/search?format=jsonv2&limit=1&countrycodes=be,fr' +
+      '&accept-language=fr&viewbox=2.8,50.85,4.9,49.9&bounded=0&q=' + encodeURIComponent(q);
     fetch(url, { headers: { 'Accept': 'application/json' } })
       .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
       .then(function (res) {
