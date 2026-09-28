@@ -116,3 +116,12 @@ content:
         label: Transports en commun
         description: Ex. « Bus TEC 1 et 2, arrêt Grand-Place (2 minutes à pied). Gare de Mons à 10 minutes à pied. »
         type: text
+
+      - name: source
+        label: Source de l'information (non affichée)
+        description: Page web où l'information a été trouvée, pour pouvoir la revérifier.
+        type: string
+      - name: notes
+        label: Notes pour le webmaster (non affichées)
+        description: Ce qui reste à vérifier, la date du dernier contact avec le lieu, etc.
+        type: text

@@ -181,7 +181,7 @@
         '&amp;travelmode=transit" target="_blank" rel="noopener">🚌 Itinéraire en bus/train</a>';
     }
     if (l.site_web) h += '<a href="' + echapper(lienWeb(l.site_web)) + '" target="_blank" rel="noopener">🌐 Site web</a>';
-    h += '</div></details></li>';
+    h += '</div><p class="tip">💬 Les infos peuvent changer : n\'hésitez pas à appeler avant de venir.</p></details></li>';
     return h;
   }
 

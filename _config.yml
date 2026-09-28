@@ -4,3 +4,4 @@ title: Benev
 lang: fr
 exclude:
   - README.md
+  - scripts

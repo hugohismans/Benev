@@ -155,6 +155,8 @@ a { color: var(--primary); }
 }
 .actions a.main { background: var(--primary); color: #fff; }
 
+.tip { margin: 12px 0 0; font-size: .85rem; color: var(--muted); }
+
 .empty { background: var(--surface); border: 1px dashed var(--border); border-radius: var(--radius); padding: 20px; text-align: center; color: var(--muted); }
 
 /* Pied de page */
