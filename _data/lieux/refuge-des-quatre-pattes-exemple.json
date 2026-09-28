@@ -1,0 +1,23 @@
+{
+  "nom": "Refuge des Quatre Pattes (exemple)",
+  "actif": true,
+  "description": "Vous aiderez à promener les chiens, nourrir les chats et nettoyer les enclos. Le contact avec les animaux fait beaucoup de bien, et l'équipe est très accueillante.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Rue des Tilleuls 12",
+  "code_postal": "7000",
+  "commune": "Mons",
+  "coordonnees": "50.4620, 3.9380",
+  "telephone": "065 00 00 01",
+  "email": "benevoles@exemple.org",
+  "site_web": "",
+  "horaires": "Tous les jours, de 9 h à 12 h et de 14 h à 17 h",
+  "engagement": "Flexible",
+  "engagement_details": "Vous venez quand vous voulez, même une heure",
+  "debut_en_douceur": true,
+  "accueil_adapte": true,
+  "personne_reference": "Sophie, responsable des bénévoles",
+  "pmr": "En partie",
+  "transports": "Bus TEC 6, arrêt Tilleuls (3 minutes à pied)."
+}

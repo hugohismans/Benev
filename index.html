@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Benev – Faire du bénévolat près de chez vous</title>
+  <meta name="description" content="Trouvez un lieu de bénévolat près de chez vous, dans le Hainaut.">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="logo" href="./">Benev</a>
+      <p class="tagline">Des lieux de bénévolat près de chez vous, dans le Hainaut</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="search" aria-labelledby="search-title">
+      <h1 id="search-title">Où habitez-vous&nbsp;?</h1>
+      <p class="hint">Indiquez votre commune, votre code postal ou votre adresse.</p>
+      <form id="search-form" class="search-form" autocomplete="off">
+        <label for="address" class="visually-hidden">Votre adresse</label>
+        <input id="address" name="address" type="text" inputmode="search"
+               placeholder="Ex. Mons, 7000 ou Rue de la Station 10, La Louvière">
+        <button type="submit" class="btn btn-primary">Chercher</button>
+      </form>
+      <button type="button" id="locate" class="btn btn-link">📍 Utiliser ma position actuelle</button>
+      <p id="search-status" class="status" role="status" aria-live="polite"></p>
+      <p class="privacy">🔒 Votre adresse n'est jamais enregistrée. Elle sert seulement à calculer les distances.</p>
+    </section>
+
+    <section class="filters" aria-label="Filtres">
+      <details id="filters-panel">
+        <summary>Affiner la recherche</summary>
+        <fieldset>
+          <legend>Ce qui m'intéresse</legend>
+          <div id="category-filters" class="chips"></div>
+        </fieldset>
+        <fieldset>
+          <legend>Ce qui compte pour moi</legend>
+          <label class="check"><input type="checkbox" id="f-douceur"> Je peux commencer en douceur</label>
+          <label class="check"><input type="checkbox" id="f-accueil"> Le lieu a l'habitude d'accueillir des personnes fragilisées</label>
+          <label class="check"><input type="checkbox" id="f-pmr"> Accessible en fauteuil roulant</label>
+        </fieldset>
+        <button type="button" id="reset-filters" class="btn btn-link">Tout effacer</button>
+      </details>
+    </section>
+
+    <section class="results" aria-labelledby="results-title">
+      <div class="results-head">
+        <h2 id="results-title">Lieux de bénévolat</h2>
+        <div class="view-toggle" role="group" aria-label="Affichage">
+          <button type="button" data-view="list" class="active" aria-pressed="true">Liste</button>
+          <button type="button" data-view="map" aria-pressed="false">Carte</button>
+        </div>
+      </div>
+      <p id="results-count" class="count"></p>
+      <div id="map" class="map" hidden></div>
+      <ul id="list" class="cards"></ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="help">
+        <h2>Besoin de parler&nbsp;?</h2>
+        <p>Si ça ne va pas, vous n'êtes pas seul·e. Ces lignes sont gratuites et anonymes&nbsp;:</p>
+        <ul>
+          <li><a href="tel:080032123">Centre de Prévention du Suicide&nbsp;: <strong>0800 32 123</strong></a> (24 h/24)</li>
+          <li><a href="tel:107">Télé-Accueil&nbsp;: <strong>107</strong></a> (24 h/24)</li>
+          <li>En cas d'urgence&nbsp;: <a href="tel:112"><strong>112</strong></a></li>
+        </ul>
+      </div>
+      <p class="small">Les distances sont calculées à vol d'oiseau. Carte&nbsp;: © les contributeurs d'OpenStreetMap.</p>
+    </div>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

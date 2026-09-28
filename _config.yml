@@ -1,0 +1,6 @@
+# Configuration Jekyll (utilisée automatiquement par GitHub Pages).
+# Normalement, il n'y a rien à modifier ici.
+title: Benev
+lang: fr
+exclude:
+  - README.md

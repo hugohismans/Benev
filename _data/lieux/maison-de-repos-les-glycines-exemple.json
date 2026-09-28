@@ -1,0 +1,24 @@
+{
+  "nom": "Maison de repos Les Glycines (exemple)",
+  "actif": true,
+  "description": "Vous passerez du temps avec les résidents : discuter, jouer aux cartes, les accompagner en promenade dans le jardin.",
+  "categories": [
+    "Personnes âgées",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Avenue des Glycines 20",
+  "code_postal": "6000",
+  "commune": "Charleroi",
+  "coordonnees": "50.4108, 4.4446",
+  "telephone": "071 00 00 04",
+  "email": "animation@exemple.org",
+  "site_web": "",
+  "horaires": "Du lundi au vendredi, de 14 h à 17 h",
+  "engagement": "Régulier",
+  "engagement_details": "Au moins une après-midi toutes les deux semaines",
+  "debut_en_douceur": true,
+  "accueil_adapte": true,
+  "personne_reference": "Nathalie, animatrice",
+  "pmr": "Oui",
+  "transports": "Métro de Charleroi, station Janson (5 minutes à pied). Gare de Charleroi-Central à 15 minutes."
+}

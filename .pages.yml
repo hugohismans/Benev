@@ -1,0 +1,118 @@
+# Configuration de l'interface d'administration Pages CMS (https://app.pagescms.org).
+# Chaque lieu de bénévolat est un petit fichier dans _data/lieux/.
+
+content:
+  - name: lieux
+    label: Lieux de bénévolat
+    type: collection
+    path: _data/lieux
+    format: json
+    filename: "{nom}.json"
+    view:
+      fields: [nom, commune, actif]
+      primary: nom
+      sort: [nom, commune]
+      search: [nom, commune, description]
+    fields:
+      - name: nom
+        label: Nom du lieu
+        type: string
+        required: true
+      - name: actif
+        label: Afficher ce lieu sur le site
+        description: Décochez pour cacher temporairement le lieu sans le supprimer.
+        type: boolean
+        default: true
+      - name: description
+        label: Ce que la personne fera
+        description: Quelques phrases simples et rassurantes. Ex. « Vous aiderez à trier et ranger les colis alimentaires, en petite équipe. »
+        type: text
+        required: true
+      - name: categories
+        label: Types d'activité
+        type: select
+        options:
+          multiple: true
+          values:
+            - Animaux
+            - Nature et jardinage
+            - Aide alimentaire
+            - Personnes âgées
+            - Enfants et jeunes
+            - Culture et loisirs
+            - Seconde main et recyclage
+            - Sport
+            - Accueil et convivialité
+
+      - name: adresse
+        label: Adresse (rue et numéro)
+        type: string
+        required: true
+      - name: code_postal
+        label: Code postal
+        type: string
+      - name: commune
+        label: Commune
+        type: string
+        required: true
+      - name: coordonnees
+        label: Coordonnées GPS
+        description: "Sur Google Maps, faites un clic droit sur le lieu puis cliquez sur les chiffres pour les copier (ex. 50.4542, 3.9523). Collez-les ici."
+        type: string
+        required: true
+        pattern:
+          regex: "^\\s*-?\\d{1,3}\\.\\d+\\s*,\\s*-?\\d{1,3}\\.\\d+\\s*$"
+          message: "Format attendu : 50.4542, 3.9523"
+
+      - name: telephone
+        label: Téléphone
+        type: string
+      - name: email
+        label: E-mail
+        type: string
+      - name: site_web
+        label: Site web
+        description: Adresse complète, commençant par https://
+        type: string
+      - name: horaires
+        label: Jours et horaires
+        description: Ex. « Du lundi au vendredi, de 9 h à 12 h »
+        type: text
+
+      - name: engagement
+        label: Type d'engagement
+        type: select
+        options:
+          values:
+            - Ponctuel
+            - Régulier
+            - Flexible
+      - name: engagement_details
+        label: Précisions sur l'engagement
+        description: Ex. « 2 heures par semaine minimum »
+        type: string
+      - name: debut_en_douceur
+        label: Possible de commencer en douceur
+        description: La personne peut venir d'abord pour voir, ou commencer avec très peu d'heures.
+        type: boolean
+      - name: accueil_adapte
+        label: Habitué à accueillir des personnes fragilisées
+        type: boolean
+      - name: personne_reference
+        label: Personne de référence sur place
+        description: Ex. « Marie, responsable des bénévoles »
+        type: string
+
+      - name: pmr
+        label: Accessible aux personnes à mobilité réduite
+        type: select
+        options:
+          values:
+            - Oui
+            - En partie
+            - Non
+            - Je ne sais pas
+      - name: transports
+        label: Transports en commun
+        description: Ex. « Bus TEC 1 et 2, arrêt Grand-Place (2 minutes à pied). Gare de Mons à 10 minutes à pied. »
+        type: text

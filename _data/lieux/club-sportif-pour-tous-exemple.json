@@ -1,0 +1,24 @@
+{
+  "nom": "Club sportif Pour Tous (exemple)",
+  "actif": true,
+  "description": "Vous aiderez à installer le matériel et à accueillir les participants lors des activités sportives adaptées.",
+  "categories": [
+    "Sport",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue du Stade 1",
+  "code_postal": "7130",
+  "commune": "Binche",
+  "coordonnees": "50.4113, 4.1650",
+  "telephone": "064 00 00 07",
+  "email": "",
+  "site_web": "",
+  "horaires": "Samedi, de 9 h à 12 h",
+  "engagement": "Ponctuel",
+  "engagement_details": "Lors des événements (environ une fois par mois)",
+  "debut_en_douceur": true,
+  "accueil_adapte": false,
+  "personne_reference": "",
+  "pmr": "Oui",
+  "transports": "Gare de Binche à 12 minutes à pied. Bus TEC 30."
+}

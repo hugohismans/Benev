@@ -1,0 +1,25 @@
+{
+  "nom": "Ferme pédagogique du Bocage (exemple)",
+  "actif": true,
+  "description": "Soins aux animaux de la ferme, petits travaux au jardin et accueil des groupes d'enfants.",
+  "categories": [
+    "Animaux",
+    "Nature et jardinage",
+    "Enfants et jeunes"
+  ],
+  "adresse": "Rue de la Ferme 17",
+  "code_postal": "6460",
+  "commune": "Chimay",
+  "coordonnees": "50.0480, 4.3170",
+  "telephone": "060 00 00 08",
+  "email": "ferme@exemple.org",
+  "site_web": "",
+  "horaires": "Du lundi au samedi, de 8 h à 16 h",
+  "engagement": "Flexible",
+  "engagement_details": "",
+  "debut_en_douceur": true,
+  "accueil_adapte": true,
+  "personne_reference": "Pierre, fermier",
+  "pmr": "Je ne sais pas",
+  "transports": "Bus TEC 60, arrêt Chimay Centre, puis 15 minutes à pied."
+}

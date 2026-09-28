@@ -1,0 +1,5 @@
+---
+# Ce fichier est généré automatiquement par GitHub Pages à partir des
+# fichiers du dossier _data/lieux/. Ne pas le modifier.
+---
+{{ site.data.lieux | jsonify }}

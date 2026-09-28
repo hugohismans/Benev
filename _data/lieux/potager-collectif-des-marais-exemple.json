@@ -1,0 +1,23 @@
+{
+  "nom": "Potager collectif des Marais (exemple)",
+  "actif": true,
+  "description": "Semer, arroser, récolter : vous jardinerez en plein air avec d'autres habitants du quartier. Aucune expérience nécessaire.",
+  "categories": [
+    "Nature et jardinage"
+  ],
+  "adresse": "Chemin des Marais 3",
+  "code_postal": "7500",
+  "commune": "Tournai",
+  "coordonnees": "50.6056, 3.3878",
+  "telephone": "069 00 00 03",
+  "email": "",
+  "site_web": "",
+  "horaires": "Mercredi et samedi matin, de 9 h à 12 h (d'avril à octobre)",
+  "engagement": "Ponctuel",
+  "engagement_details": "Venez quand vous le souhaitez",
+  "debut_en_douceur": true,
+  "accueil_adapte": false,
+  "personne_reference": "",
+  "pmr": "Non",
+  "transports": "Bus TEC W, arrêt Marais (5 minutes à pied)."
+}
