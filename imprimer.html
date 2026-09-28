@@ -1,0 +1,84 @@
+---
+# Page traitée par Jekyll pour ajouter un numéro de version aux fichiers (évite les vieux caches).
+---
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Imprimer une liste – Benev</title>
+  <link rel="stylesheet" href="assets/style.css?v={{ site.time | date: '%s' }}">
+</head>
+<body data-page="imprimer">
+  <header class="site-header">
+    <div class="wrap">
+      <a class="logo" href="./">Benev</a>
+      <p class="tagline">Imprimer une liste de lieux</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <a id="retour" class="retour" href="./">← Retour à la recherche</a>
+
+    <section class="search print-options" aria-labelledby="print-title">
+      <h1 id="print-title">Imprimer une liste</h1>
+
+      <fieldset>
+        <legend>Autour de quelle adresse&nbsp;?</legend>
+        <p id="print-origine" class="print-origine"></p>
+        <form id="search-form" class="search-form" autocomplete="off">
+          <label for="address" class="visually-hidden">Adresse</label>
+          <input id="address" name="address" type="text" inputmode="search"
+                 placeholder="Ex. Mons, 7000 ou Rue de la Station 10, La Louvière">
+          <button type="submit" class="btn btn-primary">OK</button>
+        </form>
+        <p id="search-status" class="status" role="status" aria-live="polite"></p>
+      </fieldset>
+
+      <fieldset>
+        <legend>Quels lieux&nbsp;?</legend>
+        <label class="check">
+          <input type="radio" name="quoi" value="proches" id="print-proches">
+          <span>Les <select id="print-nombre" aria-label="Nombre de lieux">
+            <option>5</option><option selected>10</option><option>20</option><option>30</option>
+          </select> lieux les plus proches
+          <small id="print-proches-aide" class="print-aide"></small></span>
+        </label>
+        <label class="check">
+          <input type="radio" name="quoi" value="filtres">
+          <span>Tous les lieux de ma recherche <small id="print-filtres-aide" class="print-aide"></small></span>
+        </label>
+        <label class="check">
+          <input type="radio" name="quoi" value="tout">
+          <span>Tout le répertoire, classé par région <small id="print-tout-aide" class="print-aide"></small></span>
+        </label>
+      </fieldset>
+
+      <fieldset>
+        <legend>Quel format&nbsp;?</legend>
+        <label class="check">
+          <input type="radio" name="format" value="resume">
+          <span>Résumé <small class="print-aide">Un tableau : une ligne par lieu, avec le téléphone et les horaires.</small></span>
+        </label>
+        <label class="check">
+          <input type="radio" name="format" value="detail">
+          <span>Détaillé <small class="print-aide">Une fiche complète par lieu : description, adresse, contact, transports…</small></span>
+        </label>
+      </fieldset>
+
+      <label class="check"><input type="checkbox" id="print-aide" checked> Ajouter les numéros d'aide («&nbsp;Besoin de parler&nbsp;?&nbsp;»)</label>
+    </section>
+
+    <h2 class="apercu-titre">Aperçu</h2>
+    <div class="apercu">
+      <div id="print-area" class="print-area"><p>Chargement…</p></div>
+    </div>
+  </main>
+
+  <div class="print-bar">
+    <button type="button" id="print-go" class="btn btn-primary">🖨️ Imprimer</button>
+  </div>
+
+  <script src="assets/app.js?v={{ site.time | date: '%s' }}"></script>
+</body>
+</html>

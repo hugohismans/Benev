@@ -20,12 +20,16 @@
     'Flexible': 'Quand vous voulez'
   };
 
+  // Page courante : « accueil » (recherche) ou « imprimer » (page d'impression).
+  var PAGE = document.body.getAttribute('data-page') || 'accueil';
+
   var state = {
     lieux: [],
     origine: null,       // { lat, lng, texte } : jamais enregistré ni envoyé à notre serveur
     categories: new Set(),
     vue: 'list',
-    limite: 20         // nombre de lieux affichés dans la liste
+    limite: 20,        // nombre de lieux affichés dans la liste
+    criteres: null     // filtres transmis à la page d'impression
   };
   var PAR_PAGE = 20;
   var carte = null;
@@ -99,11 +103,17 @@
             l.id = 'lieu-' + slug(l.nom) + '-' + i;
             return l;
           });
-        construireFiltres();
-        afficher();
+        if (PAGE === 'imprimer') {
+          majApercu();
+        } else {
+          construireFiltres();
+          afficher();
+        }
       })
       .catch(function () {
-        $('list').innerHTML = '<li class="empty">Désolé, la liste des lieux n\'a pas pu être chargée. Réessayez dans quelques instants.</li>';
+        var msg = 'Désolé, la liste des lieux n\'a pas pu être chargée. Réessayez dans quelques instants.';
+        if (PAGE === 'imprimer') $('print-area').textContent = msg;
+        else $('list').innerHTML = '<li class="empty">' + msg + '</li>';
       });
   }
 
@@ -118,7 +128,7 @@
       var b = document.createElement('button');
       b.type = 'button';
       b.className = 'chip';
-      b.setAttribute('aria-pressed', 'false');
+      b.setAttribute('aria-pressed', String(state.categories.has(c)));
       b.textContent = icone(c) + ' ' + c;
       b.addEventListener('click', function () {
         if (state.categories.has(c)) state.categories.delete(c); else state.categories.add(c);
@@ -129,13 +139,24 @@
     });
   }
 
+  // Filtres en cours : lus dans la page de recherche, ou transmis à la page d'impression.
+  function criteres() {
+    if (state.criteres) return state.criteres;
+    return {
+      categories: state.categories,
+      douceur: $('f-douceur').checked,
+      accueil: $('f-accueil').checked,
+      pmr: $('f-pmr').checked
+    };
+  }
+
   function lieuxFiltres() {
-    var douceur = $('f-douceur').checked, accueil = $('f-accueil').checked, pmr = $('f-pmr').checked;
+    var c = criteres();
     var res = state.lieux.filter(function (l) {
-      if (state.categories.size && !l.categories.some(function (c) { return state.categories.has(c); })) return false;
-      if (douceur && !l.debut_en_douceur) return false;
-      if (accueil && !l.accueil_adapte) return false;
-      if (pmr && l.pmr !== 'Oui') return false;
+      if (c.categories.size && !l.categories.some(function (x) { return c.categories.has(x); })) return false;
+      if (c.douceur && !l.debut_en_douceur) return false;
+      if (c.accueil && !l.accueil_adapte) return false;
+      if (c.pmr && l.pmr !== 'Oui') return false;
       return true;
     });
     res.forEach(function (l) {
@@ -209,6 +230,25 @@
     plus.hidden = state.vue !== 'list' || n <= state.limite;
     plus.textContent = 'Voir plus de lieux (' + (n - Math.min(n, state.limite)) + ' autres)';
     if (state.vue === 'map') majCarte(res);
+    majLienImpression();
+  }
+
+  // Le lien « Imprimer » emporte l'adresse et les filtres après le « # » :
+  // cette partie de l'adresse n'est jamais envoyée au serveur.
+  function majLienImpression() {
+    var c = criteres(), p = new URLSearchParams();
+    if (state.origine) {
+      p.set('lat', state.origine.lat.toFixed(5));
+      p.set('lng', state.origine.lng.toFixed(5));
+      if (state.origine.texte) p.set('q', state.origine.texte);
+      if (state.origineLibelle) p.set('lib', state.origineLibelle);
+    }
+    if (c.categories.size) p.set('cat', Array.from(c.categories).join('|'));
+    if (c.douceur) p.set('d', '1');
+    if (c.accueil) p.set('a', '1');
+    if (c.pmr) p.set('p', '1');
+    var h = p.toString();
+    $('print-link').href = 'imprimer.html' + (h ? '#' + h : '');
   }
 
   // ---------- Carte ----------
@@ -293,6 +333,11 @@
     state.origine = pos;
     state.origineLibelle = libelle;
     statut(libelle ? '✔ Recherche autour de : ' + libelle : '');
+    if (PAGE === 'imprimer') {
+      $('print-proches').checked = true;
+      majApercu();
+      return;
+    }
     afficher();
     $('results-title').scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
@@ -340,10 +385,10 @@
   }
 
   function descriptionFiltres() {
-    var f = Array.from(state.categories);
-    if ($('f-douceur').checked) f.push('début en douceur');
-    if ($('f-accueil').checked) f.push('accueil des personnes fragilisées');
-    if ($('f-pmr').checked) f.push('accessible en fauteuil roulant');
+    var c = criteres(), f = Array.from(c.categories);
+    if (c.douceur) f.push('début en douceur');
+    if (c.accueil) f.push('accueil des personnes fragilisées');
+    if (c.pmr) f.push('accessible en fauteuil roulant');
     return f.join(', ');
   }
 
@@ -404,7 +449,7 @@
     return h;
   }
 
-  function imprimer(quoi, format, nombre, avecAide) {
+  function rendreImpression(quoi, format, nombre, avecAide) {
     var liste = lieuxAImprimer(quoi, nombre);
     var titres = {
       proches: 'Les ' + liste.length + ' lieux de bénévolat les plus proches',
@@ -429,7 +474,7 @@
       h += rendu(liste);
     }
     h += '<div class="p-pied"><p>Les informations peuvent changer : appelez le lieu avant de vous y rendre. ' +
-      'Liste complète et à jour : ' + echapper(location.origin + location.pathname) + '</p>';
+      'Liste complète et à jour : ' + echapper(location.origin + location.pathname.replace(/imprimer\.html$/, '')) + '</p>';
     if (avecAide) {
       h += '<p><strong>Besoin de parler ?</strong> Lignes gratuites et anonymes :</p><ul>' +
         '<li>Centre de Prévention du Suicide : 0800 32 123 (24 h/24)</li>' +
@@ -437,59 +482,103 @@
     }
     h += '</div>';
     $('print-area').innerHTML = h;
-    window.print();
   }
 
-  function ouvrirImpression() {
-    var dlg = $('print-dialog');
-    var proches = dlg.querySelector('input[value="proches"]');
-    var nFiltres = lieuxFiltres().length;
+  function choix(nom) {
+    var el = document.querySelector('input[name="' + nom + '"]:checked');
+    return el ? el.value : null;
+  }
+
+  // Page d'impression : met à jour les explications et l'aperçu.
+  function majApercu() {
+    var proches = $('print-proches');
     proches.disabled = !state.origine;
-    $('print-proches-aide').textContent = state.origine ?
-      'Autour de : ' + (state.origineLibelle || 'votre adresse') :
-      'Indiquez d\'abord votre adresse en haut de la page.';
-    $('print-filtres-aide').textContent = nFiltres + ' lieux' + (descriptionFiltres() ? ', avec vos choix : ' + descriptionFiltres() : '') + '.';
+    if (!state.origine && proches.checked) document.querySelector('input[value="filtres"]').checked = true;
+    $('print-origine').textContent = state.origine ?
+      '📍 ' + (state.origineLibelle || state.origine.texte || 'votre adresse') :
+      'Aucune adresse : indiquez-en une pour classer les lieux du plus proche au plus loin.';
+    $('print-proches-aide').textContent = state.origine ? '' : 'Indiquez d\'abord une adresse ci-dessus.';
+    var f = descriptionFiltres();
+    $('print-filtres-aide').textContent = lieuxFiltres().length + ' lieux' + (f ? ', avec vos choix : ' + f : '') + '.';
     $('print-tout-aide').textContent = state.lieux.length + ' lieux, sans filtre.';
-    dlg.querySelector('input[value="' + (state.origine ? 'proches' : 'filtres') + '"]').checked = true;
-    dlg.querySelector('input[value="' + (state.origine ? 'detail' : 'resume') + '"]').checked = true;
-    dlg.returnValue = '';
-    if (dlg.showModal) dlg.showModal(); else dlg.setAttribute('open', '');
+    rendreImpression(choix('quoi'), choix('format'), parseInt($('print-nombre').value, 10), $('print-aide').checked);
   }
 
-  $('print-open').addEventListener('click', ouvrirImpression);
-  $('print-nombre').addEventListener('change', function () {
-    if (state.origine) $('print-dialog').querySelector('input[value="proches"]').checked = true;
-  });
-  $('print-dialog').addEventListener('close', function () {
-    var dlg = $('print-dialog');
-    if (dlg.returnValue !== 'imprimer') return;
-    var quoi = dlg.querySelector('input[name="quoi"]:checked').value;
-    var format = dlg.querySelector('input[name="format"]:checked').value;
-    imprimer(quoi, format, parseInt($('print-nombre').value, 10), $('print-aide').checked);
-  });
+  // Lit l'adresse et les filtres transmis après le « # » (entre les deux pages).
+  function lireHash() {
+    var p = new URLSearchParams(location.hash.slice(1));
+    var lat = parseFloat(p.get('lat')), lng = parseFloat(p.get('lng'));
+    if (!isNaN(lat) && !isNaN(lng)) {
+      state.origine = { lat: lat, lng: lng, texte: p.get('q') || '' };
+      state.origineLibelle = p.get('lib') || p.get('q') || '';
+    }
+    return {
+      categories: new Set((p.get('cat') || '').split('|').filter(Boolean)),
+      douceur: p.get('d') === '1',
+      accueil: p.get('a') === '1',
+      pmr: p.get('p') === '1'
+    };
+  }
+
+  function initImpression() {
+    state.criteres = lireHash();
+    // Choix par défaut : les 10 plus proches en détaillé, sinon la recherche en résumé.
+    document.querySelector('input[name="quoi"][value="' + (state.origine ? 'proches' : 'filtres') + '"]').checked = true;
+    document.querySelector('input[name="format"][value="' + (state.origine ? 'detail' : 'resume') + '"]').checked = true;
+
+    document.querySelectorAll('.print-options input, .print-options select').forEach(function (el) {
+      if (el.id !== 'address') el.addEventListener('change', majApercu);
+    });
+    $('print-nombre').addEventListener('change', function () {
+      if (state.origine) $('print-proches').checked = true;
+      majApercu();
+    });
+    $('search-form').addEventListener('submit', function (e) {
+      e.preventDefault();
+      chercherAdresse($('address').value);
+    });
+    $('print-go').addEventListener('click', function () { window.print(); });
+    // « Retour » rouvre la recherche avec la même adresse et les mêmes filtres.
+    $('retour').href = './' + location.hash;
+    charger();
+  }
 
   // ---------- Démarrage ----------
 
-  $('search-form').addEventListener('submit', function (e) {
-    e.preventDefault();
-    chercherAdresse($('address').value);
-  });
-  $('locate').addEventListener('click', localiser);
-  ['f-douceur', 'f-accueil', 'f-pmr'].forEach(function (id) { $(id).addEventListener('change', function () { afficher(); }); });
-  $('reset-filters').addEventListener('click', function () {
-    state.categories.clear();
-    document.querySelectorAll('#category-filters .chip').forEach(function (b) { b.setAttribute('aria-pressed', 'false'); });
-    ['f-douceur', 'f-accueil', 'f-pmr'].forEach(function (id) { $(id).checked = false; });
-    afficher();
-  });
-  document.querySelectorAll('.view-toggle button').forEach(function (b) {
-    b.addEventListener('click', function () { changerVue(b.getAttribute('data-view')); });
-  });
+  function initAccueil() {
+    var c = lireHash();
+    state.categories = c.categories;
+    $('f-douceur').checked = c.douceur;
+    $('f-accueil').checked = c.accueil;
+    $('f-pmr').checked = c.pmr;
+    if (state.origine) {
+      statut('✔ Recherche autour de : ' + state.origineLibelle);
+      if (state.origine.texte) $('address').value = state.origine.texte;
+    }
+    if (c.categories.size || c.douceur || c.accueil || c.pmr) $('filters-panel').open = true;
+    $('search-form').addEventListener('submit', function (e) {
+      e.preventDefault();
+      chercherAdresse($('address').value);
+    });
+    $('locate').addEventListener('click', localiser);
+    ['f-douceur', 'f-accueil', 'f-pmr'].forEach(function (id) { $(id).addEventListener('change', function () { afficher(); }); });
+    $('reset-filters').addEventListener('click', function () {
+      state.categories.clear();
+      document.querySelectorAll('#category-filters .chip').forEach(function (b) { b.setAttribute('aria-pressed', 'false'); });
+      ['f-douceur', 'f-accueil', 'f-pmr'].forEach(function (id) { $(id).checked = false; });
+      afficher();
+    });
+    document.querySelectorAll('.view-toggle button').forEach(function (b) {
+      b.addEventListener('click', function () { changerVue(b.getAttribute('data-view')); });
+    });
 
-  $('more').addEventListener('click', function () {
-    state.limite += PAR_PAGE;
-    afficher(true);
-  });
+    $('more').addEventListener('click', function () {
+      state.limite += PAR_PAGE;
+      afficher(true);
+    });
 
-  charger();
+    charger();
+  }
+
+  if (PAGE === 'imprimer') initImpression(); else initAccueil();
 })();
