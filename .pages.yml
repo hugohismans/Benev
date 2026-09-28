@@ -8,6 +8,7 @@ content:
     path: _data/lieux
     format: json
     filename: "{nom}.json"
+    subfolders: false
     view:
       fields: [nom, commune, actif]
       primary: nom
