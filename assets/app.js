@@ -22,7 +22,7 @@
 
   var state = {
     lieux: [],
-    origine: null,       // { lat, lng } : jamais enregistré ni envoyé à notre serveur
+    origine: null,       // { lat, lng, texte } : jamais enregistré ni envoyé à notre serveur
     categories: new Set(),
     vue: 'list',
     limite: 20         // nombre de lieux affichés dans la liste
@@ -67,6 +67,16 @@
   function slug(texte) {
     return String(texte).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
       .replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  }
+
+  // Itinéraire Google Maps en transports en commun. Le départ est l'adresse
+  // tapée par la personne ; sans elle (géolocalisation), Google part de sa position.
+  function lienItineraire(l, adresse) {
+    var approx = /approximatives/.test(l.notes || '');
+    var arrivee = (approx && adresse) ? adresse : l.position.lat + ',' + l.position.lng;
+    var url = 'https://www.google.com/maps/dir/?api=1&destination=' + encodeURIComponent(arrivee) + '&travelmode=transit';
+    if (state.origine && state.origine.texte) url += '&origin=' + encodeURIComponent(state.origine.texte);
+    return url;
   }
 
   function lienWeb(url) {
@@ -180,10 +190,7 @@
     h += '</dl><div class="actions">';
     if (l.telephone) h += '<a class="main" href="tel:' + echapper(l.telephone.replace(/[^\d+]/g, '')) + '">📞 Appeler</a>';
     if (l.email) h += '<a href="mailto:' + echapper(l.email) + '">✉️ Écrire</a>';
-    if (l.position) {
-      h += '<a href="https://www.google.com/maps/dir/?api=1&amp;destination=' + l.position.lat + ',' + l.position.lng +
-        '&amp;travelmode=transit" target="_blank" rel="noopener">🚌 Itinéraire en bus/train</a>';
-    }
+    if (l.position) h += '<a href="' + echapper(lienItineraire(l, adresse)) + '" target="_blank" rel="noopener">🚌 Itinéraire en bus/train</a>';
     if (l.site_web) h += '<a href="' + echapper(lienWeb(l.site_web)) + '" target="_blank" rel="noopener">🌐 Site web</a>';
     h += '</div><p class="tip">💬 Les infos peuvent changer : n\'hésitez pas à appeler avant de venir.</p></details></li>';
     return h;
@@ -304,7 +311,7 @@
           return;
         }
         var nom = res[0].display_name.split(',').slice(0, 3).join(',');
-        definirOrigine({ lat: parseFloat(res[0].lat), lng: parseFloat(res[0].lon) }, nom);
+        definirOrigine({ lat: parseFloat(res[0].lat), lng: parseFloat(res[0].lon), texte: q }, nom);
       })
       .catch(function () {
         statut('La recherche ne fonctionne pas pour le moment. Réessayez dans un instant.', true);
