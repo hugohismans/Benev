@@ -1,0 +1,20 @@
+{
+  "nom": "Maison Croix-Rouge des Ardennes brabançonnes",
+  "actif": true,
+  "description": "Vous pourrez rendre visite à des aînés isolés, animer des activités en maison de repos ou aider à la distribution de colis alimentaires.",
+  "categories": [
+    "Personnes âgées",
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue Zaine 9 boîte B",
+  "code_postal": "1325",
+  "commune": "Chaumont-Gistoux",
+  "coordonnees": "50.68273, 4.69805",
+  "telephone": "010 23 38 29",
+  "email": "MCR.Ardennes-BW@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/ardennes-brabanconnes/",
+  "horaires": "Sur rendez-vous",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/ardennes-brabanconnes/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Couvre Walhain, Grez-Doiceau, Perwez, Beauvechain, Incourt, Chaumont-Gistoux. Offre 'Chauffeur·euse aide alimentaire – Chaumont-Gistoux, Grez-Doiceau' sur https://volontariat.croix-rouge.be/offres/"
+}

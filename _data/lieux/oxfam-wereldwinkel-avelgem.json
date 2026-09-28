@@ -1,0 +1,20 @@
+{
+  "nom": "Oxfam-Wereldwinkel Avelgem",
+  "actif": false,
+  "description": "Vous pourrez aider à accueillir les clients et à tenir la boutique de commerce équitable, aux côtés d'une équipe de bénévoles.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Doorniksesteenweg 185",
+  "code_postal": "8580",
+  "commune": "Avelgem",
+  "coordonnees": "50.76719, 3.44152",
+  "telephone": "0491 87 88 53",
+  "email": "avelgem@oww.be",
+  "site_web": "https://oxfambelgie.be/winkels/avelgem",
+  "horaires": "Mar-sam 9h30-17h30",
+  "pmr": "Je ne sais pas",
+  "langue": "Néerlandais (à vérifier)",
+  "source": "https://oxfambelgie.be/winkels/avelgem",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Caché : accueil des francophones non confirmé (lieu en Flandre). Magasin tenu par des bénévoles selon la source. Lieu en néerlandais ; tâches de rangement/réassort accessibles avec peu de néerlandais (à confirmer). Candidature via oxfambelgie.be (« Word vrijwilliger »)."
+}

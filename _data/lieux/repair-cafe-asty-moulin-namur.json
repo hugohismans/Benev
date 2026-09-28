@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Asty-Moulin",
+  "actif": true,
+  "description": "Des bénévoles réparent avec les habitants appareils, vêtements et petits objets, lors de sessions conviviales. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Maison de Quartier Germinal, Cité Germinal d'Asty-Moulin",
+  "code_postal": "5002",
+  "commune": "Namur",
+  "coordonnees": "50.47277, 4.85862",
+  "email": "repaircafe@site.asty-moulin.be",
+  "site_web": "https://repaircafe-asty-moulin.be/",
+  "horaires": "Dates à l'agenda, préinscription obligatoire",
+  "engagement": "Ponctuel",
+  "engagement_details": "Sessions ponctuelles de quelques heures, selon l'agenda.",
+  "personne_reference": "Guy Brunin",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-asty-moulin/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Organisé par les élèves du Centre Asty-Moulin, à Saint-Servais."
+}

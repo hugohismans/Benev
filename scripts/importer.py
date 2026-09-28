@@ -79,10 +79,16 @@ def geocoder(lieu):
     pays = 'France' if 'France' in entre or cp.startswith('59') and len(cp) == 5 else 'Belgique'
     essais = []
     rues = [rue] if rue else []
+    # Nettoyage : parenthèses, boîtes (« bte 3 », « bus 001 », « /19 »)
+    propre = re.sub(r'\s*\(.*?\)', '', rue)
+    propre = re.sub(r'\s+(bte|boîte|boite|bus|b\.)\s*\w+', '', propre, flags=re.I)
+    propre = re.sub(r'(\d+)\s*/\s*\w+', r'\1', propre).strip(' ,')
     # « Maison du Peuple, Place Émile Vandervelde 28 » → « Place Émile Vandervelde 28 »
-    morceaux = [m.strip() for m in rue.split(',') if re.search(r'\d', m)]
-    if morceaux and morceaux[-1] != rue:
-        rues.append(morceaux[-1])
+    morceaux = [m.strip() for m in propre.split(',') if m.strip()]
+    avec_numero = [m for m in morceaux if re.search(r'\d', m)]
+    for candidat in [propre] + avec_numero[-1:] + morceaux[-1:]:
+        if candidat and candidat not in rues:
+            rues.append(candidat)
     for r in rues:
         for c in communes:
             essais.append(({'street': r, 'postalcode': cp, 'city': c}, 'adresse'))

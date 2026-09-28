@@ -1,0 +1,20 @@
+{
+  "nom": "Tu Peux Compter Sur Moi (CCCA La Bruyère)",
+  "actif": true,
+  "description": "Vous pourrez rendre visite à une personne âgée isolée et lui offrir un moment d'échange, notamment à la résidence La Méridienne de Meux.",
+  "categories": [
+    "Personnes âgées",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue du Village 13",
+  "code_postal": "5081",
+  "commune": "La Bruyère",
+  "coordonnees": "50.55084, 4.80005",
+  "telephone": "0476 89 01 64",
+  "engagement": "Régulier",
+  "engagement_details": "Selon vos disponibilités ; formations proposées.",
+  "personne_reference": "Peggy Robert",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.giveaday.eu/fr-be/la-bruyere/volontariat/offrez-un-peu-de-votre-temps-a-une-personne-isolee/42242",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

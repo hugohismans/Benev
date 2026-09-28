@@ -1,0 +1,20 @@
+{
+  "nom": "Oxfam Seconde Main Ciney",
+  "actif": true,
+  "description": "Vous pourrez rejoindre la sympathique équipe de bénévoles qui trie et vend vêtements, livres, meubles et ordinateurs de seconde main.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Saint-Gilles 61",
+  "code_postal": "5590",
+  "commune": "Ciney",
+  "coordonnees": "50.26949, 5.12261",
+  "telephone": "083 67 85 04",
+  "email": "shop.ciney@oxfamsol.be",
+  "site_web": "https://oxfambelgique.be/magasins/ciney-2M",
+  "horaires": "Lundi 13h-18h ; mardi à samedi 10h-18h",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfambelgique.be/magasins/ciney-2M",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page mentionne « notre sympathique équipe de bénévoles vous y accueille ». Rubrique « Devenir bénévole » sur oxfambelgique.be. Coordonnées approximatives (centre de la commune) : à corriger."
+}

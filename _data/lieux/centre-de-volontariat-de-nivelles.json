@@ -1,0 +1,19 @@
+{
+  "nom": "Centre de Volontariat de Nivelles",
+  "actif": true,
+  "description": "Vous pourrez y être reçu·e sur rendez-vous pour trouver, sans pression, une mission de volontariat qui vous correspond près de chez vous.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Allée du Sablon 2",
+  "code_postal": "1400",
+  "commune": "Nivelles",
+  "coordonnees": "50.59332, 4.31672",
+  "telephone": "0495 34 52 46",
+  "email": "nivelles@levolontariat.be",
+  "site_web": "https://www.levolontariat.be/centres-de-volontariat",
+  "horaires": "Sur rendez-vous",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.levolontariat.be/centres-de-volontariat",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Service d'orientation vers le volontariat (Plateforme francophone du Volontariat), pas une mission en soi. Situé derrière un muret, escalier vers le Service de Prévention et Cohésion sociale. Wavre a aussi un espace volontariat : https://www.levolontariat.be/wavre (cohesionsociale@wavre.be, 010 23 04 54)."
+}

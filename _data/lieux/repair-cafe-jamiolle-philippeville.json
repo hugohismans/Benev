@@ -1,0 +1,21 @@
+{
+  "nom": "Repair Café Jamiolle",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Maison de Village de Jamiolle, Rue des Barrages 5b",
+  "code_postal": "5600",
+  "commune": "Philippeville",
+  "coordonnees": "50.20986, 4.50652",
+  "telephone": "0473 837 835",
+  "horaires": "Un jeudi par mois",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "personne_reference": "Thibaud Sibille ; Christian Malburny (0473 45 71 97)",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-jamiolle/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

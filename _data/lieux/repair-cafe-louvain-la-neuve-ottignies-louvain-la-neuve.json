@@ -1,0 +1,21 @@
+{
+  "nom": "Repair Café – Louvain-la-Neuve",
+  "actif": true,
+  "description": "Des sessions régulières en semaine où l'on apprend à réparer ensemble, dans un esprit d'entraide. Vous pourrez accueillir, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Maison du développement durable, Agora",
+  "code_postal": "1348",
+  "commune": "Ottignies-Louvain-la-Neuve",
+  "coordonnees": "50.66911, 4.61229",
+  "email": "rc@maisondd.be",
+  "site_web": "http://rc.maisondd.be/",
+  "horaires": "Chaque mercredi à 16h30, et le 2e mercredi du mois de 18h30 à 21h",
+  "engagement": "Ponctuel",
+  "engagement_details": "Plusieurs sessions par mois en soirée ou fin d'après-midi ; vous venez quand vous pouvez.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-louvain-la-neuve/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Lieu : Maison du développement durable ou Hall Montesquieu."
+}

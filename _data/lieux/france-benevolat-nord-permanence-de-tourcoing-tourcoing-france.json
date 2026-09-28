@@ -1,0 +1,19 @@
+{
+  "nom": "France Bénévolat Nord – Permanence de Tourcoing",
+  "actif": false,
+  "description": "Vous pourrez y être accueilli·e et conseillé·e pour trouver une mission de bénévolat qui vous correspond, près de chez vous.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Maison des Associations, 100 rue de Lille",
+  "code_postal": "59200",
+  "commune": "Tourcoing (France)",
+  "coordonnees": "50.72273, 3.15205",
+  "telephone": "06 49 60 28 22",
+  "email": "fb.tourcoing@francebenevolat.org",
+  "site_web": "https://nord.francebenevolat.org/",
+  "horaires": "Mardi et jeudi 14h30-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://nord.francebenevolat.org/nous-rencontrer/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Centre d'orientation vers le bénévolat (on y trouve une mission, on n'y fait pas forcément du bénévolat sur place)."
+}

@@ -1,0 +1,18 @@
+{
+  "nom": "Secours populaire français – Comité de Villeneuve-d'Ascq",
+  "actif": true,
+  "description": "Vous pourrez aider à l'accueil des familles, à l'aide alimentaire ou à l'organisation d'actions solidaires près de chez vous.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "3 allée Chantecler",
+  "code_postal": "59650",
+  "commune": "Villeneuve-d'Ascq (France)",
+  "coordonnees": "50.63644, 3.13708",
+  "telephone": "03 20 59 85 37",
+  "site_web": "https://www.secourspopulaire.fr/59-villeneuve-dascq/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.secourspopulaire.fr/59-villeneuve-dascq/nous-contacter/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page du comité propose un lien « Je deviens bénévole »."
+}

@@ -1,0 +1,19 @@
+{
+  "nom": "Oxfam-Magasins du monde Rochefort",
+  "actif": true,
+  "description": "Vous pourrez tenir la caisse, conseiller les clients sur le commerce équitable et trier les vêtements de seconde main.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Avenue de Forest 5",
+  "code_postal": "5580",
+  "commune": "Rochefort",
+  "coordonnees": "50.15820, 5.22255",
+  "telephone": "084 37 79 71",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/rochefort/",
+  "horaires": "Mardi à samedi 10h-12h et 14h-17h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/rochefort/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Magasin présenté comme « Espace bénévole ». Contact national : info@mdmoxfam.be / 010 43 79 50."
+}

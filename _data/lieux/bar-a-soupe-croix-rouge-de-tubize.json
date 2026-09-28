@@ -1,0 +1,20 @@
+{
+  "nom": "Bar à soupe Croix-Rouge de Tubize",
+  "actif": true,
+  "description": "Vous pourrez servir un bol de soupe ou un café et offrir un moment chaleureux à celles et ceux qui passent.",
+  "categories": [
+    "Accueil et convivialité",
+    "Aide alimentaire"
+  ],
+  "adresse": "Avenue de Mirande 13",
+  "code_postal": "1480",
+  "commune": "Tubize",
+  "coordonnees": "50.68327, 4.20697",
+  "telephone": "0476 23 15 35",
+  "email": "Presidence.MCR.Bassin-Senne@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/bassin-de-la-senne/",
+  "horaires": "Tous les lundis 16h-18h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/bassin-de-la-senne/service/3715/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La maison fait aussi des visites de courtoisie à domicile et en maison de repos (service/3822)."
+}

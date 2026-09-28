@@ -1,0 +1,18 @@
+{
+  "nom": "Épicerie de la Gare de Dinant (Fondation Cyrys)",
+  "actif": true,
+  "description": "Vous pourrez accueillir les clients et aider à faire vivre cette épicerie solidaire à prix différenciés, installée dans la gare.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Gare de Dinant (bâtiment de la gare)",
+  "code_postal": "5500",
+  "commune": "Dinant",
+  "coordonnees": "50.21074, 4.96513",
+  "site_web": "https://www.cyrys.be/",
+  "pmr": "Je ne sais pas",
+  "transports": "Dans la gare SNCB de Dinant",
+  "source": "https://www.matele.be/une-epicerie-solidaire-ouvre-ses-portes-dans-la-gare-de-dinant",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Ouverte en novembre 2025. Matélé : « l'épicerie de la gare cherche encore quelques bénévoles pour compléter son équipe ». Fondation Cyrys : Rue du Moulin 15, 5500 Dinant, 082 61 07 10 (selon résultats de recherche)."
+}

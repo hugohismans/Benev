@@ -1,0 +1,17 @@
+{
+  "nom": "Communauté Emmaüs de Tourcoing",
+  "actif": false,
+  "description": "Vous pourrez aider au tri, à la remise en état et à la vente d'objets de seconde main.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "71 rue du Touquet",
+  "code_postal": "59200",
+  "commune": "Tourcoing (France)",
+  "coordonnees": "50.72306, 3.17662",
+  "telephone": "03 20 70 90 00",
+  "site_web": "https://emmaus-france.org/groupe/communaute-emmaus-de-tourcoing/",
+  "pmr": "Je ne sais pas",
+  "source": "https://alternativi.fr/annuaire/emmaus/wattrelos-59150",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Adresse issue d'un annuaire (alternativi.fr) ; boutique « Emma » au 53 rue du Tilleul. Recherche de bénévoles non confirmée par la source."
+}

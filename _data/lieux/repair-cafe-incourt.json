@@ -1,0 +1,23 @@
+{
+  "nom": "Repair Café Incourt",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue de la Liberté 11",
+  "code_postal": "1315",
+  "commune": "Incourt",
+  "coordonnees": "50.69177, 4.79578",
+  "telephone": "0496.292336",
+  "email": "repaircafeincourt@gmail.com",
+  "site_web": "https://www.facebook.com/profile.php?id=61570508670211",
+  "horaires": "Le 1er samedi du mois, de 14h à 17h",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "personne_reference": "Colette et Bernard",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-incourt/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

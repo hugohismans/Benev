@@ -1,0 +1,19 @@
+{
+  "nom": "Maison Croix-Rouge d'Ottignies – visites aux personnes isolées",
+  "actif": true,
+  "description": "Vous pourrez rendre des visites de courtoisie à des personnes âgées isolées, à domicile ou en maison de repos, pour partager un café et un moment d'échange.",
+  "categories": [
+    "Personnes âgées",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue de Franquenies 10/3",
+  "code_postal": "1341",
+  "commune": "Ottignies-Louvain-la-Neuve",
+  "coordonnees": "50.65833, 4.57381",
+  "telephone": "010 41 88 66",
+  "email": "mcr.ottignies@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/ottignies-louvain-la-neuve-court-st-etienne/",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/ottignies-louvain-la-neuve-court-st-etienne/service/4016/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Offres 'Lutte contre l'isolement social et la solitude – Ottignies' et 'Bouquinerie en Maison Croix-Rouge – Ottignies' sur https://volontariat.croix-rouge.be/offres/"
+}

@@ -1,0 +1,22 @@
+{
+  "nom": "Sociale kruidenier Kaboes (épicerie sociale)",
+  "actif": false,
+  "description": "Épicerie sociale où les clients font leurs courses à prix réduit et trouvent une oreille attentive. Vous pourrez aider à la boutique ou à l'accueil autour d'un café.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Spinstersstraat 36 (Den Botaniek)",
+  "code_postal": "9600",
+  "commune": "Renaix (Ronse)",
+  "coordonnees": "50.75040, 3.59410",
+  "telephone": "055 23 24 56",
+  "site_web": "https://www.grijkoort.be/diensten/sociale-kruidenier-kaboes",
+  "horaires": "Vendredi 8h30-11h30 et 13h30-16h30",
+  "engagement": "Régulier",
+  "personne_reference": "Fabienne Vandecasteele (responsable)",
+  "pmr": "Je ne sais pas",
+  "langue": "Néerlandais (à vérifier)",
+  "source": "https://www.grijkoort.be/diensten/sociale-kruidenier-kaboes",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Caché : accueil des francophones non confirmé (lieu en Flandre). La source dit que le bénévolat joue un rôle crucial chez Kaboes. Page en néerlandais ; accueil francophone non précisé (Renaix est commune à facilités, à confirmer)."
+}

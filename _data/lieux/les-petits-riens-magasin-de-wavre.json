@@ -1,0 +1,18 @@
+{
+  "nom": "Les Petits Riens – magasin de Wavre",
+  "actif": false,
+  "description": "Vous pourrez peut-être aider dans ce grand magasin de seconde main (vêtements, livres, jouets, meubles) qui soutient l'action sociale des Petits Riens.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue du Pont Saint-Jean 12",
+  "code_postal": "1300",
+  "commune": "Wavre",
+  "coordonnees": "50.71318, 4.60739",
+  "telephone": "010 22 78 75",
+  "site_web": "https://petitsriens.be/liste-boutiques/wavre/",
+  "horaires": "Lu-je et sa 10h-18h ; ve 10h-18h30 ; dépôt des dons lu-sa 10h30-17h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://petitsriens.be/liste-boutiques/wavre/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Les Petits Riens ont une page volontariat générale (https://petitsriens.be/volontariat/) mais aucune source ne confirme l'accueil de bénévoles dans ce magasin."
+}

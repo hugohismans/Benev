@@ -1,0 +1,20 @@
+{
+  "nom": "Alpha 5000",
+  "actif": true,
+  "description": "Vous pourrez accompagner des adultes qui apprennent à lire, écrire et parler le français, en individuel ou en petit groupe, avec le soutien de l'équipe.",
+  "categories": [
+    "Culture et loisirs",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Avenue Reine Astrid 18",
+  "code_postal": "5000",
+  "commune": "Namur",
+  "coordonnees": "50.46209, 4.85685",
+  "telephone": "0494 41 74 07",
+  "engagement": "Flexible",
+  "engagement_details": "Engagement ponctuel ou régulier selon vos disponibilités, sans obligation rigide.",
+  "personne_reference": "Nastasia Laruelle",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.giveaday.eu/fr-be/namur/volontariat/benevolat-alphabetisation-et-fle/28842",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Aucune formation exigée ; accompagnement pédagogique fourni. Autre annonce : cours de numérique (https://www.giveaday.eu/fr-be/namur/volontariat/benevolat-cours-de-numerique/65284)."
+}

@@ -1,0 +1,17 @@
+{
+  "nom": "Rode Kruis Halle (Croix-Rouge)",
+  "actif": false,
+  "description": "Vous pourrez rejoindre les bénévoles de la section locale : collectes de sang, événements, bibliothèque de matériel de soins.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Brusselsesteenweg 183",
+  "code_postal": "1500",
+  "commune": "Hal (Halle)",
+  "coordonnees": "50.74330, 4.24031",
+  "site_web": "https://www.rodekruis.be/afdeling/halle/",
+  "pmr": "Je ne sais pas",
+  "langue": "Néerlandais (à vérifier)",
+  "source": "https://www.rodekruis.be/afdeling/halle/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Caché : accueil des francophones non confirmé (lieu en Flandre). La section recrute activement des bénévoles selon la page. Site en néerlandais ; accueil francophone non précisé."
+}

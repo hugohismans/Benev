@@ -1,0 +1,23 @@
+{
+  "nom": "Repair Café de Somme-Leuze",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Salle Les Rabottis, Rue du Centre 1A",
+  "code_postal": "5377",
+  "commune": "Somme-Leuze",
+  "coordonnees": "50.28909, 5.34052",
+  "telephone": "0473/577.477",
+  "email": "repaircafe.sommeleuze@gmail.com",
+  "site_web": "https://www.facebook.com/profile.php?id=61582297557040",
+  "horaires": "Le 2e samedi du mois, de 9h30 à 12h30",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "personne_reference": "Thomas Alexandre",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-de-somme-leuze/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. À Baillonville. La page indique rechercher des bénévoles."
+}

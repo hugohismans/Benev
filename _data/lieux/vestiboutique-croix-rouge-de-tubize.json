@@ -1,0 +1,19 @@
+{
+  "nom": "Vestiboutique Croix-Rouge de Tubize",
+  "actif": true,
+  "description": "Vous pourrez aider à trier et vendre vêtements, livres et jouets de seconde main à petits prix.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue de la Déportation 56",
+  "code_postal": "1480",
+  "commune": "Tubize",
+  "coordonnees": "50.69234, 4.20850",
+  "telephone": "0499 92 28 68",
+  "email": "Presidence.MCR.Bassin-Senne@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/bassin-de-la-senne/",
+  "horaires": "Ma 9h30-17h ; me 13h-17h ; je-sa 9h30-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/bassin-de-la-senne/service/3887/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Maison Croix-Rouge Bassin de la Senne (Tubize, Rebecq, Ittre, Braine-le-Château). Offre 'Référent(e) volontariat des jeunes' pour cette maison sur https://volontariat.croix-rouge.be/offres/ ; demander directement pour la vestiboutique."
+}

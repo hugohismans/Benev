@@ -1,0 +1,19 @@
+{
+  "nom": "Vestiboutique Croix-Rouge d'Ottignies",
+  "actif": true,
+  "description": "Vous pourrez aider à trier les dons de vêtements, les mettre en rayon et accueillir les clients dans cette boutique de seconde main.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Boulevard Martin 3",
+  "code_postal": "1340",
+  "commune": "Ottignies-Louvain-la-Neuve",
+  "coordonnees": "50.66564, 4.56862",
+  "telephone": "010 41 60 08",
+  "email": "mcr.ottignies@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/ottignies-louvain-la-neuve-court-st-etienne/",
+  "horaires": "Lu 10h-18h ; ma 10h-17h ; me-sa 9h30-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/ottignies-louvain-la-neuve-court-st-etienne/service/4362/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Offre 'Volontaire en Vestiboutique – Ottignies' listée sur https://volontariat.croix-rouge.be/offres/"
+}

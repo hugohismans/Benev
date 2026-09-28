@@ -1,0 +1,19 @@
+{
+  "nom": "Oxfam-Wereldwinkel Zottegem",
+  "actif": false,
+  "description": "Vous pourrez aider à accueillir les clients et à tenir la boutique de commerce équitable, aux côtés d'une équipe de bénévoles.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Hoogstraat 28 bus 001",
+  "code_postal": "9620",
+  "commune": "Zottegem",
+  "coordonnees": "50.86849, 3.80969",
+  "telephone": "09 360 54 73",
+  "site_web": "https://oxfambelgie.be/winkels/zottegem",
+  "horaires": "Mar, mer, ven, sam 9h30-12h30 et 14h-18h",
+  "pmr": "Je ne sais pas",
+  "langue": "Néerlandais (à vérifier)",
+  "source": "https://oxfambelgie.be/winkels/zottegem",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. E-mail personnel retiré de la fiche : passer par la source. Caché : accueil des francophones non confirmé (lieu en Flandre). Magasin « gerund door vrijwilligers » (géré par des bénévoles). Lieu en néerlandais ; accueil francophone non précisé."
+}

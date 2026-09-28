@@ -1,0 +1,20 @@
+{
+  "nom": "Croix-Rouge française – Unité locale de Valenciennes",
+  "actif": true,
+  "description": "Vous pourrez aider à la boutique solidaire, aux maraudes, aux appels de convivialité ou aux visites auprès de personnes âgées.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Personnes âgées",
+    "Accueil et convivialité"
+  ],
+  "adresse": "104 avenue de Reims",
+  "code_postal": "59300",
+  "commune": "Valenciennes (France)",
+  "coordonnees": "50.34698, 3.52478",
+  "telephone": "03 27 14 77 92",
+  "site_web": "https://www.croix-rouge.fr/unite-locale-de-valenciennes",
+  "engagement": "Flexible",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.croix-rouge.fr/unite-locale-de-valenciennes",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Missions bénévoles de cette unité publiées sur JeVeuxAider.gouv.fr (ex. https://www.jeveuxaider.gouv.fr/missions-benevolat/61879/benevolat-croix-rouge-francaise-unite-locale-de-valenciennes)."
+}

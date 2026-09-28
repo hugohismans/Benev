@@ -1,0 +1,21 @@
+{
+  "nom": "Maison Croix-Rouge Eaux Vives",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique, à la bouquinerie de la Ferme Walkens, au bar à soupe ou à l'accueil des donneurs de sang.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue du Bercet 10",
+  "code_postal": "5660",
+  "commune": "Couvin",
+  "coordonnees": "50.05265, 4.49544",
+  "telephone": "+32 60 37 80 85",
+  "email": "Presidence.MCR.Les-Eaux-Vives@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/eaux-vives/",
+  "horaires": "Lundi et vendredi 13h30-17h ; mercredi 10h-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/eaux-vives/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Couvre Couvin, Mariembourg, Viroinval. Services : vestiboutique, brocante, bouquinerie, bar à soupe, colis alimentaires, jeunesse, Itinérances. La page précise que « les volontaires contribuent » aux collectes de sang. Maison Croix-Rouge gérée par des volontaires ; pour s'engager, contacter la maison ou le 105."
+}

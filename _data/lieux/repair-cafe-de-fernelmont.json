@@ -1,0 +1,21 @@
+{
+  "nom": "Repair Café de Fernelmont",
+  "actif": true,
+  "description": "Tous les deux mois, bénévoles et habitants se retrouvent pour réparer ensemble plutôt que jeter, autour d'un café. Vous pourrez accueillir les visiteurs, tenir le bar ou mettre la main à la pâte si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Salle du Tennis de Table, Rue de Branchon 114",
+  "code_postal": "5380",
+  "commune": "Fernelmont",
+  "coordonnees": "50.58515, 5.00246",
+  "telephone": "081/72.80.53",
+  "site_web": "http://www.gefentransition.be",
+  "horaires": "Le 3e dimanche des mois impairs, de 9h30 à 12h30",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session tous les deux mois, quelques heures.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-de-fernelmont/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

@@ -1,0 +1,22 @@
+{
+  "nom": "Maison Croix-Rouge Cerwal",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique, à la distribution de colis alimentaires ou rendre visite à des personnes isolées avec le service Reliage.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Aide alimentaire",
+    "Personnes âgées",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue de Froidchapelle 2",
+  "code_postal": "5630",
+  "commune": "Cerfontaine",
+  "coordonnees": "50.16924, 4.40459",
+  "telephone": "+32 494 33 76 37",
+  "email": "MCR.Cerwal@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/cerwal/",
+  "horaires": "Mardi, jeudi et vendredi 9h30-11h30 et 13h30-16h30 ; mercredi 13h30-16h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/cerwal/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Couvre Cerfontaine et Walcourt. La page indique qu'« un(e) volontaire viendra passer un moment » avec les personnes isolées (service Reliage) et que des bénévoles accompagnent les enfants (Itinérances). Maison Croix-Rouge gérée par des volontaires ; pour s'engager, contacter la maison ou le 105."
+}

@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Mont-Saint-Guibert",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Salle de la Houssière, Rue de la Houssière 6",
+  "code_postal": "1435",
+  "commune": "Mont-Saint-Guibert",
+  "coordonnees": "50.61999, 4.61574",
+  "email": "repaircafe.msg@gmail.com",
+  "site_web": "http://www.msg-transition.be/",
+  "horaires": "Sauf exception, le 1er samedi du mois, de 10h à 13h",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "personne_reference": "Etienne Loute",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-mont-saint-guibert/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Spontin",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Salle des Masuirs, Chaussée de Dinant 16",
+  "code_postal": "5530",
+  "commune": "Yvoir",
+  "coordonnees": "50.32216, 5.00697",
+  "telephone": "082 61 03 40",
+  "site_web": "https://www.yvoir.be/fr",
+  "horaires": "Un samedi par mois, de 9h à 12h30",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "personne_reference": "Joëlle Melot",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-spontin/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

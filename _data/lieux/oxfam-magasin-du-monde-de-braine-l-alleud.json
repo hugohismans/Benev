@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam-Magasin du monde de Braine-l'Alleud",
+  "actif": true,
+  "description": "Vous pourrez tenir la caisse, conseiller les clients et achalander les rayons de produits équitables, au sein d'une équipe locale de bénévoles.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue des Trois Apôtres 7",
+  "code_postal": "1420",
+  "commune": "Braine-l'Alleud",
+  "coordonnees": "50.68295, 4.37059",
+  "email": "infobenevoles@mdmoxfam.be",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/braine-lalleud/",
+  "horaires": "Ma-sa 10h-12h30 et 14h30-17h30 ; di 10h-12h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/braine-lalleud/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Les magasins sont animés par des équipes de bénévoles ; pour rejoindre une équipe : infobenevoles@mdmoxfam.be (https://benevoles.oxfammagasinsdumonde.be/notre-offre-de-benevolat/dans-une-equipe-locale/)."
+}

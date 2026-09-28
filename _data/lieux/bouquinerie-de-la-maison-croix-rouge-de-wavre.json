@@ -1,0 +1,21 @@
+{
+  "nom": "Bouquinerie de la Maison Croix-Rouge de Wavre",
+  "actif": true,
+  "description": "Vous pourrez aider à trier et vendre des livres et BD à petits prix, dans une Maison Croix-Rouge qui organise aussi des visites en maison de repos et des colis alimentaires.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Personnes âgées",
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue de Bruxelles 9",
+  "code_postal": "1300",
+  "commune": "Wavre",
+  "coordonnees": "50.71760, 4.61119",
+  "telephone": "010 22 85 73",
+  "email": "mcr.wavre@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/wavre/",
+  "horaires": "Lu, ma, je, ve 9h-12h30 ; me 9h-12h30 et 13h30-16h ; sa 9h-12h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/wavre/service/4873/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Maison Croix-Rouge couvrant Wavre et Rixensart. Offre de volontariat 'Appui à l'activité Reliage' (lutte contre l'isolement) à Wavre listée sur https://volontariat.croix-rouge.be/offres/"
+}

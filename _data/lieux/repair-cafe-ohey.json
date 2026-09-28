@@ -1,0 +1,21 @@
+{
+  "nom": "Repair Café Ohey",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Maison des Générations, Place Roi Baudouin 98",
+  "code_postal": "5350",
+  "commune": "Ohey",
+  "coordonnees": "50.43617, 5.12061",
+  "telephone": "0491 199 086",
+  "site_web": "https://www.facebook.com/groups/857509232777210",
+  "horaires": "Le 3e samedi du mois, de 14h à 18h",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-ohey/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

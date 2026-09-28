@@ -1,0 +1,21 @@
+{
+  "nom": "Maison Croix-Rouge Nivelles-Genappe-Villers-la-Ville (buanderie sociale, bar à soupe)",
+  "actif": true,
+  "description": "Vous pourrez rejoindre les bénévoles qui font tourner la buanderie sociale, accompagnent des personnes isolées ou servent la soupe dans une ambiance chaleureuse.",
+  "categories": [
+    "Accueil et convivialité",
+    "Personnes âgées",
+    "Aide alimentaire"
+  ],
+  "adresse": "Chaussée de Namur 42A",
+  "code_postal": "1400",
+  "commune": "Nivelles",
+  "coordonnees": "50.59541, 4.36481",
+  "telephone": "0478 88 42 99",
+  "email": "mcr.nivelles@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/nivelles-genappe-villers-la-ville/",
+  "horaires": "Buanderie sociale : lundi, mercredi et vendredi 10h-15h ; bar à soupe le mercredi 16h30-19h (en alternance, quartier Sainte-Barbe)",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/nivelles-genappe-villers-la-ville/service/4002/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Services : lutte contre l'isolement, buanderie sociale, douche sociale, bar à soupe, collectes de sang (la page précise que des volontaires accueillent les donneurs). Offre 'référent volontariat des jeunes' à Nivelles sur https://volontariat.croix-rouge.be/offres/"
+}

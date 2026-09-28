@@ -1,0 +1,18 @@
+{
+  "nom": "Lire et Écrire Namur",
+  "actif": false,
+  "description": "Association d'alphabétisation pour adultes en province de Namur.",
+  "categories": [
+    "Culture et loisirs"
+  ],
+  "adresse": "Rue des Rèlis Namurwès 1",
+  "code_postal": "5000",
+  "commune": "Namur",
+  "coordonnees": "50.47112, 4.85551",
+  "telephone": "081 74 10 04",
+  "site_web": "https://lire-et-ecrire.be/namur",
+  "horaires": "Lundi au vendredi 8h30-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.namur.be/fr/annuaire/lire-et-ecrire-namur",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Le site évoque des « formations pour travailleurs et bénévoles » mais aucun appel explicite à bénévoles trouvé : à demander."
+}

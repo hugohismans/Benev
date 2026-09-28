@@ -1,0 +1,20 @@
+{
+  "nom": "CHU UCL Namur – site Dinant (volontariat hospitalier)",
+  "actif": true,
+  "description": "Vous pourrez contribuer au confort des patients et de leurs familles : accueil, accompagnement, transport de patients ou soutien à l'espace Bulle d'être.",
+  "categories": [
+    "Accueil et convivialité",
+    "Personnes âgées"
+  ],
+  "adresse": "Rue Saint-Jacques 501",
+  "code_postal": "5500",
+  "commune": "Dinant",
+  "coordonnees": "50.26457, 4.94533",
+  "telephone": "081 42 27 40",
+  "email": "jacques.gerardy@chuuclnamur.uclouvain.be",
+  "site_web": "https://emploi.chuuclnamur.be/volontariat/",
+  "personne_reference": "Jacques Gerardy",
+  "pmr": "Je ne sais pas",
+  "source": "https://emploi.chuuclnamur.be/volontariat/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Volontariat géré par l'ASBL Participation et Solidarité (sites Dinant, Godinne, Ste-Elisabeth) : ~250 volontaires dans 22 secteurs. Formation gratuite obligatoire (écoute, communication, hygiène, confidentialité). Adresse du site de Dinant via l'annuaire Guide Social."
+}

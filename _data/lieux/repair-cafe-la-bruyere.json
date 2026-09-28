@@ -1,0 +1,21 @@
+{
+  "nom": "Repair Café La Bruyère",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Place Communale 6",
+  "code_postal": "5080",
+  "commune": "La Bruyère",
+  "coordonnees": "50.78115, 4.77276",
+  "telephone": "081236547",
+  "site_web": "https://www.facebook.com/profile.php?id=61551533134561",
+  "horaires": "Le 1er samedi du mois, de 13h à 16h",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-la-bruyere/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

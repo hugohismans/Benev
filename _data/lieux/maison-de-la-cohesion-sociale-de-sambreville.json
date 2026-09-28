@@ -1,0 +1,19 @@
+{
+  "nom": "Maison de la Cohésion Sociale de Sambreville",
+  "actif": true,
+  "description": "Vous pourrez aider à l'accueil, servir le café et les collations, préparer les locaux ou aider des habitants à utiliser leur smartphone. Un entretien permet de choisir ensemble la mission qui vous convient.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Place de la Gare 8",
+  "code_postal": "5060",
+  "commune": "Sambreville",
+  "coordonnees": "50.44882, 4.63111",
+  "email": "pcs@commune.sambreville.be",
+  "engagement": "Flexible",
+  "engagement_details": "Missions adaptées à vos disponibilités et envies ; convention de volontariat ; défraiement forfaitaire possible.",
+  "personne_reference": "Clémentine Robinet (référente)",
+  "pmr": "Oui",
+  "source": "https://www.levolontariat.be/benevole-polyvalente-service-de-cohesion-sociale",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Aucun diplôme requis. Autre annonce : accompagnement numérique EPN mobile (https://www.levolontariat.be/volontaire-accompagnement-et-inclusion-numerique-epn-mobile)."
+}

@@ -1,0 +1,23 @@
+{
+  "nom": "Maison Croix-Rouge Val de Sambre (Tamines)",
+  "actif": true,
+  "description": "Vous pourrez donner un coup de main à la vestiboutique, à la brocante, au bar à soupe ou aux colis alimentaires, ou rendre visite aux aînés en maison de repos.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Aide alimentaire",
+    "Personnes âgées",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue des Bachères 18 A",
+  "code_postal": "5060",
+  "commune": "Sambreville",
+  "coordonnees": "50.43351, 4.59669",
+  "telephone": "071 74 41 51",
+  "email": "Presidence.MCR.Val-De-Sambre@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/val-de-sambre/",
+  "horaires": "Mardi au vendredi 10h-16h (fermetures annuelles indiquées sur le site)",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/val-de-sambre/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Village : Tamines. Couvre Sambreville et Jemeppe-sur-Sambre. Nombreuses annonces actives sur levolontariat.be (vestiboutique https://www.levolontariat.be/volontariat-vestiboutique-hfd-4, colis alimentaires, Reliage, animation jeunesse, accompagnement numérique)."
+}

@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Gedinne",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "La Fourmilière, Rue de Robio 11",
+  "code_postal": "5575",
+  "commune": "Gedinne",
+  "coordonnees": "49.98225, 4.93742",
+  "telephone": "0478 90 68 87",
+  "email": "repaircafegedinne@gmail.com",
+  "site_web": "https://www.facebook.com/RepairCafeGedinne",
+  "horaires": "Le 1er samedi du mois, de 9h30 à 13h",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-gedinne/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

@@ -1,0 +1,22 @@
+{
+  "nom": "Solidarités Plurielles de l'Entre-Sambre-et-Meuse",
+  "actif": true,
+  "description": "Vous pourrez aider à l'épicerie sociale « Epicéa », aux colis alimentaires, au restaurant solidaire ou à la boutique de seconde main de cette association de Mariembourg.",
+  "categories": [
+    "Aide alimentaire",
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Boulevard du Fort 52",
+  "code_postal": "5660",
+  "commune": "Couvin",
+  "coordonnees": "50.09625, 4.52221",
+  "telephone": "060 31 34 80",
+  "email": "info@solidaritesplurielles.be",
+  "site_web": "https://solidaritesplurielles.be/",
+  "horaires": "Aide alimentaire lundi, mercredi, vendredi 8h-12h30 (sur RDV)",
+  "pmr": "Je ne sais pas",
+  "transports": "Gare de Mariembourg à 100 m, accessible en bus et train",
+  "source": "https://www.levolontariat.be/group/solidarites-plurielles-de-lentre-sambre-et-meuse",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Village : Mariembourg. Membre de la Plateforme francophone du Volontariat. Selon L'Avenir (15/09/2023), le restaurant « L'Assiette du cœur » (réseau Restos du Cœur) tourne avec une équipe de bénévoles et un appel à l'aide a été relancé ; ce resto n'apparaît plus dans la liste actuelle de restosducoeur.be. Autres activités : entrepôt de meubles (Couvin), jardin communautaire. Email de coordination : coordination@solidaritesplurielles.be."
+}

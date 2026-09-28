@@ -1,0 +1,18 @@
+{
+  "nom": "Secours populaire français – Comité de Fourmies",
+  "actif": true,
+  "description": "Vous pourrez aider à l'accueil des familles, à l'aide alimentaire ou à l'organisation d'actions solidaires près de chez vous.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "35 rue Jules Guesde",
+  "code_postal": "59610",
+  "commune": "Fourmies (France)",
+  "coordonnees": "50.01954, 4.06180",
+  "telephone": "03 27 60 63 15",
+  "site_web": "https://www.secourspopulaire.fr/59-fourmies/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.secourspopulaire.fr/59-fourmies/nous-contacter/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page du comité propose un lien « Je deviens bénévole »."
+}

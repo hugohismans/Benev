@@ -1,0 +1,18 @@
+{
+  "nom": "Conférence Saint-Vincent de Paul de Ciney",
+  "actif": true,
+  "description": "Vous pourrez soutenir les familles en difficulté de Ciney aux côtés des bénévoles de la conférence (aide matérielle, factures d'énergie).",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Sainte-Barbe 27",
+  "code_postal": "5590",
+  "commune": "Ciney",
+  "coordonnees": "50.29325, 5.09537",
+  "telephone": "+32 479 41 35 16",
+  "site_web": "https://www.ciney.be/annuaire/saint-vincent-de-paul",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.ciney.be/annuaire/saint-vincent-de-paul",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Coordonnées de l'annuaire communal. L'Avenir (08/12/2022, « Saint-Vincent de Paul rejoint les Fééries ») indique que les bénévoles y sont les bienvenus ; à reconfirmer."
+}

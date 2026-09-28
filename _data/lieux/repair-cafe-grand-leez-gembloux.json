@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café Grand-Leez",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Ancienne maison communale, Rue de la Place 2",
+  "code_postal": "5031",
+  "commune": "Gembloux",
+  "coordonnees": "50.58200, 4.76727",
+  "site_web": "http://grand-leez.be/",
+  "horaires": "Le 2e mardi du mois, de 20h à 22h (sauf avril)",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-grand-leez/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam-Magasins du monde – Namur Centre (seconde main)",
+  "actif": false,
+  "description": "Vous pourrez aider dans cette boutique de vêtements de seconde main : accueil, tri, mise en rayon.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue des Carmes 36-38",
+  "code_postal": "5000",
+  "commune": "Namur",
+  "coordonnees": "50.46641, 4.86396",
+  "telephone": "081 22 95 45",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/namur-centre/",
+  "horaires": "Lu 13h-17h ; ma-ve 10h-17h ; sa 10h-18h",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/namur-centre/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La fiche du magasin ne mentionne pas explicitement de recherche de bénévoles ; se renseigner auprès du point de contact bénévolat rue Haute Marcelle 36 (081 22 33 40)."
+}

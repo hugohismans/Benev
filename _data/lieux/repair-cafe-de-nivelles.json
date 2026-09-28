@@ -1,0 +1,21 @@
+{
+  "nom": "Repair Café de Nivelles",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Samiette 72",
+  "code_postal": "1400",
+  "commune": "Nivelles",
+  "coordonnees": "50.59578, 4.31484",
+  "email": "repaircafenivelles@nubo.coop",
+  "site_web": "https://www.facebook.com/profile.php?id=100089747523845",
+  "horaires": "Le 1er dimanche du mois, de 14h à 17h",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-de-nivelles/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

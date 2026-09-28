@@ -1,0 +1,18 @@
+{
+  "nom": "Lire et Écrire Namur – Florennes (bibliothèque communale)",
+  "actif": false,
+  "description": "Lieu de formation en alphabétisation pour adultes à la bibliothèque de Florennes.",
+  "categories": [
+    "Culture et loisirs"
+  ],
+  "adresse": "Avenue Jules Lahaye 4",
+  "code_postal": "5620",
+  "commune": "Florennes",
+  "coordonnees": "50.24873, 4.60680",
+  "telephone": "081 74 10 04",
+  "email": "namur@lire-ecrire.be",
+  "site_web": "https://lire-et-ecrire.be/",
+  "pmr": "Je ne sais pas",
+  "source": "https://lire-et-ecrire.be/L-offre-de-formation-en-alphabetisation-en-Province-de-Namur",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas d'appel à bénévoles trouvé ; à demander."
+}

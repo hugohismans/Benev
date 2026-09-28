@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café Doische",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Salle du Foyer Jean XXIII, Rue des Ruelles",
+  "code_postal": "5680",
+  "commune": "Doische",
+  "coordonnees": "50.13516, 4.74716",
+  "telephone": "082 699 049",
+  "horaires": "Le 2e jeudi du mois, de 15h à 18h30",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-doische/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

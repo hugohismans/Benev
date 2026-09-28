@@ -1,0 +1,18 @@
+{
+  "nom": "Secours populaire français – Comité de Aulnoye-Aymeries",
+  "actif": true,
+  "description": "Vous pourrez aider à l'accueil des familles, à l'aide alimentaire ou à l'organisation d'actions solidaires près de chez vous.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "64 rue de la Victoire",
+  "code_postal": "59620",
+  "commune": "Aulnoye-Aymeries (France)",
+  "coordonnees": "50.19533, 3.84639",
+  "telephone": "03 27 67 67 01",
+  "site_web": "https://www.secourspopulaire.fr/59-aulnoye-aymeries/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.secourspopulaire.fr/59-aulnoye-aymeries/nous-contacter/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page du comité propose un lien « Je deviens bénévole »."
+}

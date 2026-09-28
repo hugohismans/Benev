@@ -1,0 +1,20 @@
+{
+  "nom": "Banque Alimentaire Namur-Luxembourg",
+  "actif": true,
+  "description": "Vous pourrez, en équipe et le matin, répartir et préparer les denrées destinées aux associations et CPAS qui aident les familles.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Parc Ecolys, Rue des Entrepreneurs 9",
+  "code_postal": "5020",
+  "commune": "Namur",
+  "coordonnees": "50.48687, 4.80546",
+  "telephone": "081 73 22 37",
+  "site_web": "https://www.banl.be/",
+  "horaires": "En matinée, quelques jours par semaine",
+  "engagement": "Régulier",
+  "engagement_details": "Planning choisi par chaque bénévole.",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.giveaday.eu/fr-be/la-bruyere/volontariat/repartition-et-transformation-de-produits-alimentaires-frais/46190",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Annonce relayée par la plateforme bénévolat de la commune de La Bruyère sur Give a Day ; fiche association : https://www.giveaday.eu/fr-be/association/banque-alimentaire-namur-luxembourg/7929 (localité indiquée : Rhisnes/Namur)."
+}

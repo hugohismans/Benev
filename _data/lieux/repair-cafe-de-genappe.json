@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café de Genappe",
+  "actif": true,
+  "description": "Des bénévoles réparent avec les habitants appareils, vêtements et petits objets, lors de sessions conviviales. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Le Monty, Rue de Charleroi 58",
+  "code_postal": "1470",
+  "commune": "Genappe",
+  "coordonnees": "50.60887, 4.45017",
+  "site_web": "https://www.facebook.com/repaircafegenappe",
+  "engagement": "Ponctuel",
+  "engagement_details": "Sessions ponctuelles de quelques heures, selon l'agenda.",
+  "personne_reference": "Vincent",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-de-genappe/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Horaire non précisé sur la page."
+}

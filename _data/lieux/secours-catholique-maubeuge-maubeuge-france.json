@@ -1,0 +1,16 @@
+{
+  "nom": "Secours Catholique – Maubeuge",
+  "actif": false,
+  "description": "Vous pourrez aider à l'accueil et à l'accompagnement de personnes en difficulté.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "132 route de Mons",
+  "code_postal": "59600",
+  "commune": "Maubeuge (France)",
+  "coordonnees": "50.28318, 3.97493",
+  "site_web": "https://n-cambrai.secours-catholique.org/",
+  "pmr": "Je ne sais pas",
+  "source": "https://fr.mappy.com/poi/59cc85ad0351d1368fb2631f",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Adresse issue d'un annuaire (Mappy). Recherche de bénévoles non confirmée par la source."
+}

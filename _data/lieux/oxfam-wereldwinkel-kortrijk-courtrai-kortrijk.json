@@ -1,0 +1,20 @@
+{
+  "nom": "Oxfam-Wereldwinkel Kortrijk",
+  "actif": false,
+  "description": "Vous pourrez aider à accueillir les clients et à tenir la boutique de commerce équitable, aux côtés d'une équipe de bénévoles.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Groeningelaan 12",
+  "code_postal": "8500",
+  "commune": "Courtrai (Kortrijk)",
+  "coordonnees": "50.82681, 3.27606",
+  "telephone": "056 22 32 44",
+  "email": "kortrijk@oww.be",
+  "site_web": "https://oxfambelgie.be/winkels/kortrijk",
+  "horaires": "Lun-sam 10h-18h",
+  "pmr": "Je ne sais pas",
+  "langue": "Néerlandais (à vérifier)",
+  "source": "https://oxfambelgie.be/winkels/kortrijk",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page du magasin ne parle pas explicitement de bénévoles (Oxfam en général recrute des bénévoles). Lieu en néerlandais ; Courtrai est proche de la frontière, clientèle francophone possible (à confirmer)."
+}

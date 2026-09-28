@@ -1,0 +1,21 @@
+{
+  "nom": "Groupe Alpha Gembloux (GAGx)",
+  "actif": true,
+  "description": "Vous pourrez animer des tables de conversation en français pour ados, donner du soutien scolaire ou former un duo d'échange avec une personne d'origine étrangère.",
+  "categories": [
+    "Enfants et jeunes",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Chaussée de Charleroi 65",
+  "code_postal": "5030",
+  "commune": "Gembloux",
+  "coordonnees": "50.56488, 4.68835",
+  "telephone": "081 60 06 09",
+  "site_web": "https://groupe.alpha-gembloux.be/",
+  "engagement": "Régulier",
+  "engagement_details": "Projet Duos : 2 fois 2h par mois pendant 6 à 9 mois ; encadrement-formation avant de commencer.",
+  "personne_reference": "Natalie Van Wetter (coordinatrice)",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.gembloux.be/ma-commune/services-communaux/cohesion-sociale/gembloux-solidaire/liste-des-benevolats-ouverts/liste-des-benevolats-ouverts",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Adresse et téléphone repris du site groupe.alpha-gembloux.be. Projet Duos mené avec le Service Entraide Migrants."
+}

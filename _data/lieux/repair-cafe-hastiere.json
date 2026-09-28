@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café Hastière",
+  "actif": true,
+  "description": "Des bénévoles réparent avec les habitants appareils, vêtements et petits objets, lors de sessions conviviales. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Ancienne gare, Avenue Guy Stinglhamber 6",
+  "code_postal": "5540",
+  "commune": "Hastière",
+  "coordonnees": "50.21283, 4.82069",
+  "telephone": "082 64 32 55",
+  "engagement": "Ponctuel",
+  "engagement_details": "Sessions ponctuelles de quelques heures, selon l'agenda.",
+  "personne_reference": "Alisson Dirick ; Véronique Hamer (082 64 32 54)",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-hastiere/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Horaire non précisé sur la page."
+}

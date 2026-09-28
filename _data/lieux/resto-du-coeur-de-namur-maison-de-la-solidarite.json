@@ -1,0 +1,23 @@
+{
+  "nom": "Resto du Cœur de Namur – Maison de la Solidarité",
+  "actif": true,
+  "description": "Vous pourrez aider au restaurant social, aux colis alimentaires ou à l'école de devoirs, quelques heures ou plusieurs jours par semaine.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité",
+    "Enfants et jeunes"
+  ],
+  "adresse": "Rue de Bomel 8-12",
+  "code_postal": "5000",
+  "commune": "Namur",
+  "coordonnees": "50.47221, 4.86595",
+  "telephone": "081 22 53 23",
+  "email": "info@rdcn.be",
+  "site_web": "https://restosducoeur.be/fr/nos-restos/resto-du-coeur-de-namur",
+  "horaires": "Lundi au vendredi 9h-16h (repas chauds 12h-13h30)",
+  "engagement": "Flexible",
+  "engagement_details": "Quelques heures ou plusieurs jours par semaine.",
+  "pmr": "Je ne sais pas",
+  "source": "https://restoducoeurdenamur.wordpress.com/devenir-benevole/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. L'école de devoirs « Les Cracks-en-Tout » et l'administratif sont rue d'Arquet 3-7, 5000 Namur."
+}

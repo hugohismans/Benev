@@ -1,0 +1,19 @@
+{
+  "nom": "SPA Refuge du Beaussart",
+  "actif": false,
+  "description": "Refuge pour animaux perdus et abandonnés près de Couvin, qui organise aussi des balades, un bar à chats et des événements.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Chemin de Senzeille 1/2",
+  "code_postal": "5660",
+  "commune": "Couvin",
+  "coordonnees": "50.09200, 4.47273",
+  "telephone": "060 31 32 22",
+  "email": "info@refugedubeaussart.be",
+  "site_web": "https://www.refugedubeaussart.be/",
+  "horaires": "Lundi, mercredi, vendredi 13h-17h ; samedi 13h-17h sur RDV",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.refugedubeaussart.be/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Village : Boussu-en-Fagne. La page d'accueil ne mentionne pas explicitement de recrutement de bénévoles : à demander par téléphone."
+}

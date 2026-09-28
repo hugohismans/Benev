@@ -1,0 +1,22 @@
+{
+  "nom": "Electrokot",
+  "actif": true,
+  "description": "Des sessions régulières en semaine où l'on apprend à réparer ensemble, dans un esprit d'entraide. Vous pourrez accueillir, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Makilab / Openhub, Avenue Georges Lemaître 2",
+  "code_postal": "1348",
+  "commune": "Ottignies-Louvain-la-Neuve",
+  "coordonnees": "50.66983, 4.62306",
+  "telephone": "+32 486 09 30 50",
+  "email": "electrokot@kapuclouvain.be",
+  "site_web": "https://www.facebook.com/KAPElectrokot/",
+  "horaires": "Les 1er, 3e et 4e mercredis du mois, de 18h30 à 20h30",
+  "engagement": "Ponctuel",
+  "engagement_details": "Plusieurs sessions par mois en soirée ou fin d'après-midi ; vous venez quand vous pouvez.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/electrokot/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Repair Café porté par un kot-à-projet étudiant (UCLouvain)."
+}

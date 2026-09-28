@@ -1,0 +1,19 @@
+{
+  "nom": "Croix-Rouge française – Unité locale de Maubeuge",
+  "actif": false,
+  "description": "Vous pourrez donner un coup de main à la distribution alimentaire, à la boutique ou au vestiaire solidaire.",
+  "categories": [
+    "Aide alimentaire",
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Espace Victor-Hugo, 61 rue Jeanne d'Arc",
+  "code_postal": "59600",
+  "commune": "Maubeuge (France)",
+  "coordonnees": "50.27770, 3.94108",
+  "telephone": "03 27 65 30 00",
+  "site_web": "https://www.croix-rouge.fr/unite-locale-de-maubeuge",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.croix-rouge.fr/unite-locale-de-maubeuge",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page liste les activités mais ne mentionne pas explicitement une recherche de bénévoles."
+}

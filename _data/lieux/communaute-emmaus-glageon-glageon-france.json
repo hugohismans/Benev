@@ -1,0 +1,17 @@
+{
+  "nom": "Communauté Emmaüs Glageon",
+  "actif": false,
+  "description": "Vous pourrez aider au tri et à la vente d'objets de seconde main, près de Fourmies et Trélon.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "2 rue du Moulin",
+  "code_postal": "59132",
+  "commune": "Glageon (France)",
+  "coordonnees": "50.05795, 4.08010",
+  "telephone": "03 27 57 02 00",
+  "horaires": "Mer.-jeu. 13h30-17h30, sam. 10h-12h et 13h30-17h30 (selon l'annuaire)",
+  "pmr": "Je ne sais pas",
+  "source": "https://alternativi.fr/annuaire/emmaus/fourmies-59610",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. À 4 km de Fourmies. Adresse issue d'un annuaire (alternativi.fr). Recherche de bénévoles non confirmée."
+}

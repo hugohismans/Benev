@@ -1,0 +1,20 @@
+{
+  "nom": "Le Fouillis Saint-François asbl",
+  "actif": true,
+  "description": "Vous pourrez conduire la camionnette ou accompagner le chauffeur pour transporter meubles donnés et vivres destinés aux personnes précarisées.",
+  "categories": [
+    "Aide alimentaire",
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue Adolphe Damseaux 1",
+  "code_postal": "5030",
+  "commune": "Gembloux",
+  "coordonnees": "50.56156, 4.69119",
+  "horaires": "Du lundi au vendredi, 8h30-12h",
+  "engagement": "Régulier",
+  "engagement_details": "Un matin par semaine ou plus ; permis de conduire souhaité ; bonne condition physique.",
+  "personne_reference": "Marie-Joëlle Monseu",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.giveaday.eu/fr-be/gembloux/volontariat/conducteur-convoyeur/56629",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

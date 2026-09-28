@@ -1,0 +1,19 @@
+{
+  "nom": "Vestiboutique Croix-Rouge de Jodoigne",
+  "actif": true,
+  "description": "Vous pourrez trier et présenter vêtements, livres et jouets de seconde main, et accueillir les clients de la boutique.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue du Château 5",
+  "code_postal": "1370",
+  "commune": "Jodoigne",
+  "coordonnees": "50.72449, 4.86775",
+  "telephone": "010 45 05 24",
+  "email": "MCR.Deux-Gette@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/deux-gette/",
+  "horaires": "Ma 10h-17h ; me 13h-17h ; je 9h30-17h ; ve 13h-17h ; sa 10h-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/deux-gette/service/3871/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Maison Croix-Rouge Deux Gette (Hélécine, Jodoigne, Orp-Jauche, Ramillies). Offres 'Volontariat – Vestiboutique' et 'Responsable – Vestiboutique' (Jodoigne, Hélécine, Ramillies, Orp-Jauche) sur https://volontariat.croix-rouge.be/offres/"
+}

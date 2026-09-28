@@ -1,0 +1,19 @@
+{
+  "nom": "Maison Croix-Rouge Gedinne",
+  "actif": false,
+  "description": "Vous pourrez aider au prêt de matériel paramédical, aux transports de personnes ou aux formations premiers secours pour les habitants de Gedinne, Bièvre et Vresse.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue du Centre 2",
+  "code_postal": "5575",
+  "commune": "Gedinne",
+  "coordonnees": "49.95975, 4.92673",
+  "telephone": "+32 61 58 79 70",
+  "email": "MCR.Gedinne@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/gedinne/",
+  "horaires": "Sur rendez-vous",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/gedinne/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Village : Louette-Saint-Pierre. Couvre Bièvre, Gedinne, Vresse-sur-Semois. Pas de vestiboutique listée. Page sans mention explicite de recherche de volontaires. Maison Croix-Rouge gérée par des volontaires ; pour s'engager, contacter la maison ou le 105."
+}

@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café d'Annevoie",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue de l'Église 3",
+  "code_postal": "5537",
+  "commune": "Anhée",
+  "coordonnees": "50.34328, 4.84023",
+  "telephone": "0477 221 211",
+  "email": "repaircafeannevoie@gmail.com",
+  "site_web": "https://www.facebook.com/Repair-cafe-annevoie-108790438380078",
+  "horaires": "Le 1er samedi du mois, de 14h à 17h (dernière inscription à 16h15)",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-dannevoie/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

@@ -1,0 +1,17 @@
+{
+  "nom": "Secours populaire français – Comité de Fresnes-sur-Escaut",
+  "actif": true,
+  "description": "Vous pourrez aider à l'accueil des familles, à l'aide alimentaire ou à l'organisation d'actions solidaires près de chez vous.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "99 rue du Bois",
+  "code_postal": "59970",
+  "commune": "Fresnes-sur-Escaut (France)",
+  "coordonnees": "50.43585, 3.55623",
+  "site_web": "https://www.secourspopulaire.fr/59-fresnes-sur-escaut/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.secourspopulaire.fr/59-fresnes-sur-escaut/nous-contacter/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page du comité propose un lien « Je deviens bénévole »."
+}

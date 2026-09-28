@@ -1,0 +1,20 @@
+{
+  "nom": "Oxybulle asbl – soutien scolaire à Profondeville",
+  "actif": true,
+  "description": "Une fois par semaine, vous pourrez aider un·e jeune de secondaire à faire ses devoirs et reprendre confiance en lui/elle, au sein de sa maison d'accueil.",
+  "categories": [
+    "Enfants et jeunes"
+  ],
+  "adresse": "Route de Floreffe",
+  "code_postal": "5170",
+  "commune": "Profondeville",
+  "coordonnees": "50.36428, 4.84347",
+  "email": "oxy@oxybulle.org",
+  "horaires": "En semaine après l'école, entre 16h30 et 18h30",
+  "engagement": "Régulier",
+  "engagement_details": "1 heure par semaine durant l'année scolaire ; formation, accompagnement et défraiement kilométrique.",
+  "personne_reference": "Stéphanie van Steenberghe",
+  "pmr": "Oui",
+  "source": "https://www.levolontariat.be/soutien-scolaire-profondeville",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Numéro de rue non communiqué (lieu = maison d'accueil). 5 jeunes en demande : méthodologie, néerlandais, soutien général."
+}

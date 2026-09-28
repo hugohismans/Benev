@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café Flawinne",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Salle Al' Volée, Rue Emile Vandervelde 8",
+  "code_postal": "5020",
+  "commune": "Namur",
+  "coordonnees": "50.45885, 4.80717",
+  "telephone": "0496/43.01.06",
+  "horaires": "Sur rendez-vous, de 13h30 à 17h30 (dernier rendez-vous à 16h30)",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-flawinne/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

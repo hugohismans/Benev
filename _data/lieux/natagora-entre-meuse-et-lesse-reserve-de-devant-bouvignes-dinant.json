@@ -1,0 +1,22 @@
+{
+  "nom": "Natagora Entre-Meuse-et-Lesse – réserve de Devant-Bouvignes",
+  "actif": true,
+  "description": "Vous pourrez participer à des chantiers nature : ratisser les prairies, dégager les clôtures des ronces, couper les petits ligneux. Les novices sont particulièrement bienvenus et le repas est offert.",
+  "categories": [
+    "Nature et jardinage"
+  ],
+  "adresse": "Rue du Moulin 14",
+  "code_postal": "5500",
+  "commune": "Dinant",
+  "coordonnees": "50.32659, 4.88288",
+  "email": "damien.sevrin@natagora.be",
+  "site_web": "https://entremeuseetlesse.natagora.be/",
+  "engagement": "Ponctuel",
+  "engagement_details": "Journées de chantier (ex. dimanche 29/03/2026 10h-16h30), inscription préalable",
+  "debut_en_douceur": true,
+  "personne_reference": "Damien Sevrin",
+  "pmr": "Je ne sais pas",
+  "transports": "Près de la gare de Dinant ; parking gratuit à l'Abbaye de Leffe",
+  "source": "https://www.natagora.be/agenda/chantier-nature-inter-regionales-devant-bouvignes",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Adresse = lieu de rendez-vous du chantier (la page indique par erreur « 5500 Namur »). La régionale couvre Anhée, Ciney, Dinant, Hamois, Hastière, Onhaye, Yvoir. Voir l'agenda Natagora pour les prochaines dates."
+}

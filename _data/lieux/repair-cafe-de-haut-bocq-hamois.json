@@ -1,0 +1,23 @@
+{
+  "nom": "Repair Café de Haut Bocq",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "La Spirale, Chaussée de Namur 22",
+  "code_postal": "5360",
+  "commune": "Hamois",
+  "coordonnees": "50.33912, 5.06515",
+  "telephone": "0495 44 42 04",
+  "email": "repaircafe.hautbocq@gmail.com",
+  "site_web": "https://www.facebook.com/repaircafehautbocq",
+  "horaires": "Le 3e dimanche du mois, de 10h à 13h",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "personne_reference": "Lucien Lemoine ; Yves Watterman (083 69 07 90)",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-de-haut-bocq/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. À Natoye (Hamois)."
+}

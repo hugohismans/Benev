@@ -1,0 +1,19 @@
+{
+  "nom": "Maison Croix-Rouge de La Hulpe",
+  "actif": true,
+  "description": "Vous pourrez rompre la solitude de personnes isolées, ponctuellement ou régulièrement, ou aider des personnes à se débrouiller avec le numérique.",
+  "categories": [
+    "Personnes âgées",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue des Combattants 133",
+  "code_postal": "1310",
+  "commune": "La Hulpe",
+  "coordonnees": "50.73041, 4.48517",
+  "telephone": "02 653 85 94",
+  "email": "mcr.La-Hulpe@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/la-hulpe/",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/la-hulpe/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Offres 'Volontariat ponctuel – Lutte contre l'isolement social', 'Accompagnement numérique' et 'Lutte contre l'isolement' à La Hulpe sur https://volontariat.croix-rouge.be/offres/"
+}

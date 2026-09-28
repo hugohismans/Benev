@@ -1,0 +1,19 @@
+{
+  "nom": "Oxfam-Magasin du monde de Jodoigne (seconde main)",
+  "actif": true,
+  "description": "Vous pourrez trier des vêtements de seconde main, aménager la vitrine et accueillir les clients, au sein d'une équipe locale de bénévoles.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Grand-Place 33",
+  "code_postal": "1370",
+  "commune": "Jodoigne",
+  "coordonnees": "50.72464, 4.86787",
+  "email": "infobenevoles@mdmoxfam.be",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/jodoigne-seconde-main/",
+  "horaires": "Ma-me 10h-17h ; je 9h-17h ; ve 10h-17h ; sa 10h-12h30 et 14h-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/jodoigne-seconde-main/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Les magasins sont animés par des équipes de bénévoles ; pour rejoindre une équipe : infobenevoles@mdmoxfam.be (https://benevoles.oxfammagasinsdumonde.be/notre-offre-de-benevolat/dans-une-equipe-locale/)."
+}

@@ -1,0 +1,18 @@
+{
+  "nom": "Secours populaire français – Comité de Condé-sur-l'Escaut",
+  "actif": true,
+  "description": "Vous pourrez aider à l'accueil des familles, à l'aide alimentaire ou à l'organisation d'actions solidaires près de chez vous.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "11 cité Saint-Pierre",
+  "code_postal": "59163",
+  "commune": "Condé-sur-l'Escaut (France)",
+  "coordonnees": "50.44391, 3.59649",
+  "telephone": "03 20 34 41 41",
+  "site_web": "https://www.secourspopulaire.fr/59-conde-sur-lescaut/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.secourspopulaire.fr/59-conde-sur-lescaut/nous-contacter/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page du comité propose un lien « Je deviens bénévole » ; le 03 20 34 41 41 est le numéro de la fédération du Nord."
+}

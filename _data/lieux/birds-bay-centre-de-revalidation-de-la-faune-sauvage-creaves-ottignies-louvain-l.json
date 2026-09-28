@@ -1,0 +1,19 @@
+{
+  "nom": "Birds Bay – centre de revalidation de la faune sauvage (CREAVES)",
+  "actif": true,
+  "description": "Vous pourrez aider, avec une équipe d'environ 70 bénévoles encadrés par une vétérinaire, à soigner oiseaux, hérissons et écureuils blessés avant leur retour dans la nature.",
+  "categories": [
+    "Animaux",
+    "Nature et jardinage"
+  ],
+  "adresse": "Allée du Bois des Rêves 1",
+  "code_postal": "1340",
+  "commune": "Ottignies-Louvain-la-Neuve",
+  "coordonnees": "50.65955, 4.57934",
+  "telephone": "0495 31 14 21",
+  "site_web": "https://www.birdsbay.net/",
+  "horaires": "Présence de bénévoles 365 jours par an",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.birdsbay.net/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. E-mail personnel retiré de la fiche : passer par la source. Adresse et email du centre selon https://protectiondesoiseaux.be/les-centres-de-revalidation/belgique/ (adresse gmail propre au centre). La page d'accueil indique que les soigneuses forment les bénévoles."
+}

@@ -1,0 +1,17 @@
+{
+  "nom": "Secours populaire français – Comité de Halluin Vallée de la Lys",
+  "actif": true,
+  "description": "Vous pourrez aider à l'accueil des familles, à l'aide alimentaire ou à l'organisation d'actions solidaires près de chez vous.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "6 rue Jules Gratry",
+  "code_postal": "59250",
+  "commune": "Halluin (France)",
+  "coordonnees": "50.77477, 3.12649",
+  "site_web": "https://www.secourspopulaire.fr/59-halluin/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.secourspopulaire.fr/59-halluin/nous-contacter/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page du comité propose un lien « Je deviens bénévole ». Coordonnées approximatives (centre de la commune) : à corriger."
+}

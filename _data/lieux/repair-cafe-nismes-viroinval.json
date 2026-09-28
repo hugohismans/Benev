@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café Nismes",
+  "actif": false,
+  "description": "Des bénévoles réparent avec les habitants appareils, vêtements et petits objets, lors de sessions conviviales. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Centre culturel Action Sud (salle Cabaret), Rue Vieille-Église 10",
+  "code_postal": "5670",
+  "commune": "Viroinval",
+  "coordonnees": "50.07445, 4.54744",
+  "telephone": "0475/46.52.74",
+  "horaires": "Dates publiées : 18/04/2024, 23/05/2024, 13/06/2024, de 9h30 à 14h30",
+  "engagement": "Ponctuel",
+  "engagement_details": "Sessions ponctuelles de quelques heures, selon l'agenda.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-nismes/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Seules des dates de 2024 figurent sur la page : activité actuelle à confirmer."
+}

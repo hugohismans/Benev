@@ -1,0 +1,17 @@
+{
+  "nom": "SPA de Marly (refuge-fourrière)",
+  "actif": false,
+  "description": "Vous pourrez peut-être aider au refuge auprès des chiens et chats en attente d'adoption.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "34 route de Préseau",
+  "code_postal": "59770",
+  "commune": "Marly (France)",
+  "coordonnees": "50.33846, 3.55230",
+  "site_web": "https://www.spamarly.fr/",
+  "horaires": "Visites lun.-ven. 13h45-16h30, sam. 13h45-15h45",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.spamarly.fr/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Commune voisine de Valenciennes. Le site dit « Ils ont besoin de vous ! » mais ne détaille pas le bénévolat : à demander. Adresse vue dans le résultat de recherche du site."
+}

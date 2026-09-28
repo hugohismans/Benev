@@ -1,0 +1,22 @@
+{
+  "nom": "La Maison de l'Écologie",
+  "actif": true,
+  "description": "Vous pourrez servir à la cantine citoyenne « La Salle à Manger » ou tenir une permanence à la ludothèque (plus de 800 jeux), dans un cadre chaleureux.",
+  "categories": [
+    "Accueil et convivialité",
+    "Culture et loisirs",
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue Basse Marcelle 26",
+  "code_postal": "5000",
+  "commune": "Namur",
+  "coordonnees": "50.46460, 4.86153",
+  "telephone": "081 22 76 47",
+  "horaires": "Cantine : lundi-jeudi 11h30-14h ; ludothèque : mercredi et jeudi 11h-17h, samedi 10h-12h",
+  "engagement": "Régulier",
+  "engagement_details": "Cantine : environ 4h par semaine ; repas de midi offert.",
+  "personne_reference": "Emilie Faure",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.giveaday.eu/fr-be/namur/volontariat/soutien-a-la-cantine-citoyenne/41587",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Annonce ludothèque : https://www.giveaday.eu/fr-be/namur/volontariat/permanence-au-sein-de-notre-ludotheque/55577 (recherche notamment pour le dimanche 10h-12h)."
+}

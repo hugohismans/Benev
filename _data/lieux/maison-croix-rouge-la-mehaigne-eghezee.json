@@ -1,0 +1,22 @@
+{
+  "nom": "Maison Croix-Rouge La Mehaigne (Eghezée)",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique, au prêt de matériel paramédical ou aux animations jeunesse, dans une petite équipe locale.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité",
+    "Enfants et jeunes"
+  ],
+  "adresse": "Route de la Bruyère 2",
+  "code_postal": "5310",
+  "commune": "Éghezée",
+  "coordonnees": "50.58584, 4.91111",
+  "telephone": "081 81 10 96",
+  "email": "Presidence.MCR.La-Mehaigne@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/la-mehaigne/",
+  "horaires": "Lu 15h-17h ; ma 10h-18h ; me 9h30-12h et 14h-18h ; je 10h-18h ; ve 14h-18h ; sa 9h30-12h",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/la-mehaigne/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Couvre La Bruyère, Éghezée, Fernelmont. Annonces levolontariat.be : service matériel paramédical (https://www.levolontariat.be/volontaire-au-sein-dun-service-de-location-de-materiel-paramedical-1), animation jeunesse, accompagnement numérique."
+}

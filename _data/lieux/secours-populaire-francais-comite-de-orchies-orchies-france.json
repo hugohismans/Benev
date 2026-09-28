@@ -1,0 +1,18 @@
+{
+  "nom": "Secours populaire français – Comité de Orchies",
+  "actif": true,
+  "description": "Vous pourrez aider à l'accueil des familles, à l'aide alimentaire ou à l'organisation d'actions solidaires près de chez vous.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "12 avenue du Maréchal Leclerc",
+  "code_postal": "59310",
+  "commune": "Orchies (France)",
+  "coordonnees": "50.47570, 3.24731",
+  "telephone": "08 06 11 04 59",
+  "site_web": "https://www.secourspopulaire.fr/59-orchies/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.secourspopulaire.fr/59-orchies/nous-contacter/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page du comité propose un lien « Je deviens bénévole »."
+}

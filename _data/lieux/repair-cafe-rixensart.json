@@ -1,0 +1,21 @@
+{
+  "nom": "Repair Café Rixensart",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Notre Maison asbl, Fond Tasnier 24/1",
+  "code_postal": "1332",
+  "commune": "Rixensart",
+  "coordonnees": "50.72768, 4.50113",
+  "telephone": "02/324.72.78",
+  "horaires": "Le 2e mercredi du mois, de 15h30 à 18h30",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "personne_reference": "Mathieu Wery",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-rixensart/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. À Genval (Rixensart)."
+}

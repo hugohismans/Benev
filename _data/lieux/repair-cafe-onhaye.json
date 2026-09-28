@@ -1,0 +1,21 @@
+{
+  "nom": "Repair Café Onhaye",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Su l'Wez 4",
+  "code_postal": "5524",
+  "commune": "Onhaye",
+  "coordonnees": "50.24098, 4.81187",
+  "telephone": "082 39 50 01",
+  "horaires": "Le 3e mercredi du mois, de 14h à 18h (sauf juillet)",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "personne_reference": "Maria Zemmouri",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-onhaye/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Situé à Gerin (Onhaye). Coordonnées approximatives (centre de la commune) : à corriger."
+}

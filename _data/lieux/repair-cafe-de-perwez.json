@@ -1,0 +1,21 @@
+{
+  "nom": "Repair Café de Perwez",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Salle du SCAJ, Rue Émile de Brabant 43",
+  "code_postal": "1360",
+  "commune": "Perwez",
+  "coordonnees": "50.66192, 4.82151",
+  "email": "repaircafeperwez@gmail.com",
+  "site_web": "https://www.facebook.com/RepairCafePerwez",
+  "horaires": "Le 2e lundi du mois, de 19h30 à 21h30",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-de-perwez/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page indique être toujours ouvert aux nouveaux bénévoles."
+}

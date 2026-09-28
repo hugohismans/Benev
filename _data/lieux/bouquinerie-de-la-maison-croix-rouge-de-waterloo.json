@@ -1,0 +1,21 @@
+{
+  "nom": "Bouquinerie de la Maison Croix-Rouge de Waterloo",
+  "actif": true,
+  "description": "Vous pourrez trier et conseiller romans, BD et puzzles d'occasion, ou apporter des livres en maison de repos avec l'équipe.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Culture et loisirs",
+    "Personnes âgées"
+  ],
+  "adresse": "Boulevard Henri Rolin 5B",
+  "code_postal": "1410",
+  "commune": "Waterloo",
+  "coordonnees": "50.71055, 4.39953",
+  "telephone": "02 351 00 52",
+  "email": "mcr.waterloo@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/waterloo/",
+  "horaires": "Mercredi 14h-18h30 ; samedi 10h-12h et 14h-16h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/waterloo/service/4063/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. À l'arrière de l'hôtel IBIS, au rez-de-chaussée du Waterloo Tennis. Offres 'Bouquinerie en Maison Croix-Rouge – Waterloo', appui location de matériel paramédical, animation premiers secours sur https://volontariat.croix-rouge.be/offres/"
+}

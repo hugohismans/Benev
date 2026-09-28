@@ -1,0 +1,20 @@
+{
+  "nom": "Dierenasiel Ieper (refuge animalier)",
+  "actif": false,
+  "description": "Refuge pour chiens et chats qui compte sur de nombreux bénévoles, dont des promeneurs de chiens. Vous pourrez aider à promener et soigner les animaux.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Oudstrijderslaan 10",
+  "code_postal": "8900",
+  "commune": "Ypres (Ieper)",
+  "coordonnees": "50.84247, 2.88475",
+  "telephone": "057 21 91 00",
+  "email": "secretariaat@dierenasielieper.be",
+  "site_web": "https://www.dierenasielieper.be/",
+  "horaires": "Téléphone entre 14h et 16h",
+  "pmr": "Je ne sais pas",
+  "langue": "Néerlandais (à vérifier)",
+  "source": "https://www.dierenasielieper.be/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Caché : accueil des francophones non confirmé (lieu en Flandre). Le site invite à devenir bénévole. Lieu en néerlandais ; promener des chiens demande peu de langue (à confirmer)."
+}

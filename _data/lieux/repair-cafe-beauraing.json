@@ -1,0 +1,21 @@
+{
+  "nom": "Repair Café Beauraing",
+  "actif": false,
+  "description": "Un rendez-vous annuel où l'on répare ensemble plutôt que jeter. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Faubourg Saint-Martin 22",
+  "code_postal": "5570",
+  "commune": "Beauraing",
+  "coordonnees": "50.10990, 4.95362",
+  "email": "jc@ventre-a-pattes.com",
+  "site_web": "https://www.facebook.com/groups/182278022347779",
+  "horaires": "Une fois par an",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par an.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-beauraing-3/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Fiche non mise à jour depuis novembre 2024 et absente de la liste principale : activité à confirmer."
+}

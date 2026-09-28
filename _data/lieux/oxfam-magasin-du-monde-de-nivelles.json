@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam-Magasin du monde de Nivelles",
+  "actif": true,
+  "description": "Vous pourrez tenir la caisse, conseiller les clients et achalander les rayons de produits équitables, au sein d'une équipe locale de bénévoles.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue de Namur 17",
+  "code_postal": "1400",
+  "commune": "Nivelles",
+  "coordonnees": "50.59817, 4.32540",
+  "email": "infobenevoles@mdmoxfam.be",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/nivelles/",
+  "horaires": "Ma-ve 10h-18h ; sa 9h30-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/nivelles/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Les magasins sont animés par des équipes de bénévoles ; pour rejoindre une équipe : infobenevoles@mdmoxfam.be (https://benevoles.oxfammagasinsdumonde.be/notre-offre-de-benevolat/dans-une-equipe-locale/)."
+}

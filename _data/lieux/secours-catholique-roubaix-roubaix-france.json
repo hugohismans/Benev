@@ -1,0 +1,16 @@
+{
+  "nom": "Secours Catholique – Roubaix",
+  "actif": false,
+  "description": "Vous pourrez aider à l'accueil et à l'accompagnement de personnes en difficulté.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "19 rue d'Isly",
+  "code_postal": "59100",
+  "commune": "Roubaix (France)",
+  "coordonnees": "50.68794, 3.16440",
+  "site_web": "https://n-lille.secours-catholique.org/",
+  "pmr": "Je ne sais pas",
+  "source": "https://fr.mappy.com/poi/52cc56bee4b026bfb8390264",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Adresse issue d'un annuaire (Mappy). Recherche de bénévoles non confirmée par la source."
+}

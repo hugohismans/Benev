@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam-Magasin du monde de Rixensart",
+  "actif": true,
+  "description": "Vous pourrez tenir la caisse, conseiller les clients et achalander les rayons de produits équitables, au sein d'une équipe locale de bénévoles.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Alphonse Collin 1",
+  "code_postal": "1330",
+  "commune": "Rixensart",
+  "coordonnees": "50.71249, 4.53046",
+  "email": "infobenevoles@mdmoxfam.be",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/rixensart/",
+  "horaires": "Ma-ve 10h-12h et 14h-18h ; sa 10h-13h et 14h-18h (horaires spéciaux en juillet-août)",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/rixensart/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Les magasins sont animés par des équipes de bénévoles ; pour rejoindre une équipe : infobenevoles@mdmoxfam.be (https://benevoles.oxfammagasinsdumonde.be/notre-offre-de-benevolat/dans-une-equipe-locale/). La fiche du site classe ce magasin sous 'Bruxelles' par erreur."
+}

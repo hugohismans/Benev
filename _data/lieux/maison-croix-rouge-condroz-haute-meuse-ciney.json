@@ -1,0 +1,22 @@
+{
+  "nom": "Maison Croix-Rouge Condroz Haute Meuse",
+  "actif": true,
+  "description": "Vous pourrez aider à l'épicerie sociale, à la vestiboutique, à la bouquinerie ou à la brocante, ou accompagner des personnes isolées.",
+  "categories": [
+    "Aide alimentaire",
+    "Seconde main et recyclage",
+    "Personnes âgées",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Avenue de Namur 35",
+  "code_postal": "5590",
+  "commune": "Ciney",
+  "coordonnees": "50.29924, 5.10268",
+  "telephone": "+32 83 21 55 70",
+  "email": "V-Presidence.MCR.Condroz-Hte-M@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/condroz-haute-meuse/",
+  "horaires": "Lundi et mardi 13h30-17h30 ; jeudi 10h-17h30 (sauf fériés)",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/condroz-haute-meuse/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Couvre Anhée, Ciney, Dinant, Hamois, Havelange, Onhaye, Yvoir, Somme-Leuze (plusieurs points de service). La page précise que « les volontaires contribuent » aux collectes de sang. Maison Croix-Rouge gérée par des volontaires ; pour s'engager, contacter la maison ou le 105."
+}

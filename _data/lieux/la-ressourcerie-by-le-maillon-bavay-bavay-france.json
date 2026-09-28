@@ -1,0 +1,17 @@
+{
+  "nom": "La Ressourcerie by Le Maillon – Bavay",
+  "actif": false,
+  "description": "Vous pourrez découvrir le réemploi d'objets et de meubles dans une ressourcerie solidaire.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "29 rue Pierre Mathieu",
+  "code_postal": "59570",
+  "commune": "Bavay (France)",
+  "coordonnees": "50.29785, 3.79606",
+  "telephone": "09 80 43 53 93",
+  "site_web": "https://www.lemaillonc2ri.fr/ressourcerie",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.lemaillonc2ri.fr/ressourcerie",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Structure d'insertion ; la page ne mentionne pas de bénévoles — à demander."
+}

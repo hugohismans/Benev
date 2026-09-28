@@ -1,0 +1,18 @@
+{
+  "nom": "Secours populaire français – Comité de Tourcoing",
+  "actif": true,
+  "description": "Vous pourrez aider à l'accueil des familles, à l'aide alimentaire ou à l'organisation d'actions solidaires près de chez vous.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "129 rue de Courtrai",
+  "code_postal": "59200",
+  "commune": "Tourcoing (France)",
+  "coordonnees": "50.73675, 3.16458",
+  "telephone": "03 20 03 46 25",
+  "site_web": "https://www.secourspopulaire.fr/59-tourcoing/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.secourspopulaire.fr/59-tourcoing/nous-contacter/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page du comité propose un lien « Je deviens bénévole »."
+}

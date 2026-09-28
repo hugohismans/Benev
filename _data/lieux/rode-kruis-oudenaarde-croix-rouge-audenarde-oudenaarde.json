@@ -1,0 +1,18 @@
+{
+  "nom": "Rode Kruis Oudenaarde (Croix-Rouge)",
+  "actif": false,
+  "description": "Vous pourrez donner un coup de main lors des collectes de sang, des actions de récolte de fonds ou des événements de la section locale.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Bedrijvenpark Coupure 21",
+  "code_postal": "9700",
+  "commune": "Audenarde (Oudenaarde)",
+  "coordonnees": "50.83894, 3.59323",
+  "email": "pr@oudenaarde.rodekruis.be",
+  "site_web": "https://www.rodekruis.be/afdeling/oudenaarde/",
+  "pmr": "Je ne sais pas",
+  "langue": "Néerlandais (à vérifier)",
+  "source": "https://www.rodekruis.be/afdeling/oudenaarde/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Caché : accueil des francophones non confirmé (lieu en Flandre). La page invite à devenir bénévole. Site en néerlandais ; accueil francophone non précisé."
+}

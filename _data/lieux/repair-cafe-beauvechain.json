@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café Beauvechain",
+  "actif": false,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Place Saint-Martin",
+  "code_postal": "1320",
+  "commune": "Beauvechain",
+  "coordonnees": "50.77831, 4.74632",
+  "site_web": "https://beauvechainentransition.reseautransition.be/repair-cafe/",
+  "horaires": "Le 3e samedi du mois, de 10h à 14h",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-beauvechain-3/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. À Tourinnes-la-Grosse ; lieu variable. Fiche non mise à jour depuis novembre 2024 et absente de la liste principale : activité à confirmer."
+}

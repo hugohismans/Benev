@@ -1,0 +1,21 @@
+{
+  "nom": "Maison Croix-Rouge Charlemagne",
+  "actif": true,
+  "description": "Vous pourrez aider à la petite vestiboutique, à l'épicerie sociale et aux colis alimentaires, ou accompagner des personnes isolées.",
+  "categories": [
+    "Aide alimentaire",
+    "Seconde main et recyclage",
+    "Personnes âgées"
+  ],
+  "adresse": "Boulevard de l'Enseignement 1",
+  "code_postal": "5600",
+  "commune": "Philippeville",
+  "coordonnees": "50.19721, 4.54738",
+  "telephone": "+32 493 40 98 63",
+  "email": "Presidence.MCR.La-Charlemagne@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/charlemagne/",
+  "horaires": "Permanences lundi 10h-12h et vendredi 13h-16h, ou sur rendez-vous",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/charlemagne/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Couvre Florennes, Philippeville, Doische. La page précise que « les volontaires contribuent » aux collectes de sang. Maison Croix-Rouge gérée par des volontaires ; pour s'engager, contacter la maison ou le 105."
+}

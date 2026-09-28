@@ -1,0 +1,17 @@
+{
+  "nom": "Boutique Terre Namur",
+  "actif": false,
+  "description": "Boutique de vêtements de seconde main d'une entreprise d'économie sociale.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue des Carmes 56",
+  "code_postal": "5000",
+  "commune": "Namur",
+  "coordonnees": "50.46710, 4.86401",
+  "telephone": "081 41 38 79",
+  "site_web": "http://www.terre.be",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.namur.be/fr/annuaire/terre-asbl-boutique-terre-namur",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Structure d'insertion socioprofessionnelle ; aucune mention de bénévolat trouvée."
+}

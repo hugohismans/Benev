@@ -1,0 +1,20 @@
+{
+  "nom": "Oxfam-Wereldwinkel Zennevallei",
+  "actif": false,
+  "description": "Vous pourrez aider à accueillir les clients et à tenir la boutique de commerce équitable.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Ninoofsesteenweg 5",
+  "code_postal": "1500",
+  "commune": "Hal (Halle)",
+  "coordonnees": "50.73644, 4.23562",
+  "telephone": "0456 34 07 87",
+  "email": "info@oxfamzennevallei.eu",
+  "site_web": "https://oxfambelgie.be/winkels/halle",
+  "horaires": "Mer-ven 9h30-18h ; sam 9h30-17h30",
+  "pmr": "Je ne sais pas",
+  "langue": "Néerlandais (à vérifier)",
+  "source": "https://oxfambelgie.be/winkels/halle",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page ne parle pas explicitement de bénévoles (à demander). Lieu en néerlandais ; Hal est proche de la frontière linguistique (à confirmer)."
+}

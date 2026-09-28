@@ -1,0 +1,19 @@
+{
+  "nom": "Vestiboutique Croix-Rouge de Nivelles",
+  "actif": true,
+  "description": "Vous pourrez accueillir les clients, trier et mettre en rayon des vêtements de seconde main dans une boutique solidaire ouverte à tous.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue du Géant 4",
+  "code_postal": "1400",
+  "commune": "Nivelles",
+  "coordonnees": "50.59822, 4.32626",
+  "telephone": "0492 46 87 49",
+  "email": "mcr.nivelles@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/nivelles-genappe-villers-la-ville/",
+  "horaires": "Du lundi au samedi 9h30-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/nivelles-genappe-villers-la-ville/service/5320/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Maison Croix-Rouge Nivelles-Genappe-Villers-la-Ville. Une offre de volontariat pour cette maison (référent volontariat des jeunes, Nivelles) figure sur https://volontariat.croix-rouge.be/offres/ ; demander directement pour la vestiboutique."
+}

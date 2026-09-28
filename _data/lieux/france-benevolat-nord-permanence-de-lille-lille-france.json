@@ -1,0 +1,19 @@
+{
+  "nom": "France Bénévolat Nord – Permanence de Lille",
+  "actif": false,
+  "description": "Vous pourrez y être accueilli·e et conseillé·e pour trouver une mission de bénévolat qui vous correspond, près de chez vous.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Maison des Associations, 27 rue Jean Bart",
+  "code_postal": "59000",
+  "commune": "Lille (France)",
+  "coordonnees": "50.62807, 3.06568",
+  "telephone": "03 20 40 21 22",
+  "email": "fb.nord@francebenevolat.org",
+  "site_web": "https://nord.francebenevolat.org/",
+  "horaires": "Lundi au vendredi 14h-17h (hors vacances scolaires) ; mardi et jeudi 14h-17h pendant les vacances",
+  "pmr": "Je ne sais pas",
+  "source": "https://nord.francebenevolat.org/nous-rencontrer/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Centre d'orientation vers le bénévolat (on y trouve une mission, on n'y fait pas forcément du bénévolat sur place)."
+}

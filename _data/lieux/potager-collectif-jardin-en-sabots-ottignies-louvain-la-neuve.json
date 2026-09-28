@@ -1,0 +1,17 @@
+{
+  "nom": "Potager collectif « Jardin en sabots »",
+  "actif": false,
+  "description": "Vous pourrez jardiner avec des voisins, apprendre et partager des techniques de potager, et profiter ensemble des récoltes.",
+  "categories": [
+    "Nature et jardinage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Avenue des Hirondelles",
+  "code_postal": "1341",
+  "commune": "Ottignies-Louvain-la-Neuve",
+  "coordonnees": "50.65127, 4.54600",
+  "telephone": "010 43 64 80",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.olln.be/fr/vivre-a-olln/nature/potagers-collectifs",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Village : Céroux-Mousty (Mousty). Potager collectif (participation comme jardinier, pas du bénévolat au sens strict) ; la page communale indique des espaces disponibles. Pas de numéro de rue ; code postal déduit du quartier. Téléphone = service de cohésion et prévention sociales de la Ville (qui coordonne les potagers, sauf celui du cœur de ville, indépendant)."
+}

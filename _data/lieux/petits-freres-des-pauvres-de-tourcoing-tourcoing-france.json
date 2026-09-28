@@ -1,0 +1,20 @@
+{
+  "nom": "Petits Frères des Pauvres de Tourcoing",
+  "actif": true,
+  "description": "Vous pourrez rendre visite à des personnes âgées isolées et participer aux animations conviviales du mardi et du mercredi après-midi.",
+  "categories": [
+    "Personnes âgées",
+    "Accueil et convivialité"
+  ],
+  "adresse": "96 rue de Lille",
+  "code_postal": "59200",
+  "commune": "Tourcoing (France)",
+  "coordonnees": "50.72274, 3.15266",
+  "telephone": "03 20 26 91 45",
+  "horaires": "Animations les mardis et mercredis après-midi",
+  "engagement": "Régulier",
+  "engagement_details": "Visites hebdomadaires à domicile ou en établissement",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.petitsfreresdespauvres.fr/nos-implantations/les-petits-freres-des-pauvres-de-tourcoing",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Équipe d'une quarantaine de bénévoles ; accompagne des personnes résidant uniquement à Tourcoing."
+}

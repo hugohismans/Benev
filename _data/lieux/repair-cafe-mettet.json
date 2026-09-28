@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Mettet",
+  "actif": true,
+  "description": "Tous les deux mois, bénévoles et habitants se retrouvent pour réparer ensemble plutôt que jeter, autour d'un café. Vous pourrez accueillir les visiteurs, tenir le bar ou mettre la main à la pâte si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Bibliothèque communale (à côté), Rue Léon Colin 11",
+  "code_postal": "5640",
+  "commune": "Mettet",
+  "coordonnees": "50.32509, 4.65541",
+  "telephone": "0470/10.30.93",
+  "site_web": "https://www.facebook.com/MettetRepairCafe",
+  "horaires": "Le 3e samedi des mois pairs, de 9h à 13h",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session tous les deux mois, quelques heures.",
+  "personne_reference": "Françoise Wauthy (0497 02 63 80) ; Marie Warnant (071 71 04 51)",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-mettet/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

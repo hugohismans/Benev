@@ -1,0 +1,19 @@
+{
+  "nom": "Épicerie sociale et colis alimentaires Croix-Rouge de Court-Saint-Étienne",
+  "actif": true,
+  "description": "Vous pourrez préparer et distribuer des colis alimentaires et tenir l'épicerie sociale installée chez APIDES.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Clos de l'Aciérie 1",
+  "code_postal": "1490",
+  "commune": "Court-Saint-Étienne",
+  "coordonnees": "50.65081, 4.56499",
+  "telephone": "0490 11 34 75",
+  "email": "mcr.ottignies@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/ottignies-louvain-la-neuve-court-st-etienne/",
+  "horaires": "Épicerie : mardi 11h30-13h30 ; colis alimentaires une fois par mois",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/ottignies-louvain-la-neuve-court-st-etienne/service/4019/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Rattachée à la Maison Croix-Rouge d'Ottignies-LLN-Court-Saint-Étienne. La page colis précise qu'un bénévole remet les colis (service/4631)."
+}

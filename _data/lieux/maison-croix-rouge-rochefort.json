@@ -1,0 +1,20 @@
+{
+  "nom": "Maison Croix-Rouge Rochefort",
+  "actif": false,
+  "description": "Vous pourrez donner un coup de main à la vestiboutique et à la brocante solidaire, ou aider au prêt de matériel paramédical. Une façon concrète de soutenir les habitants de la région de Rochefort.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Louis Banneux 8",
+  "code_postal": "5580",
+  "commune": "Rochefort",
+  "coordonnees": "50.16293, 5.22328",
+  "telephone": "+32 475 83 83 17",
+  "email": "Presidence.MCR.Rochefort@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/rochefort/",
+  "horaires": "Mercredi et vendredi de 14h à 18h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/rochefort/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Couvre Ave-et-Auffe, Buissonville, Eprave, Han-sur-Lesse, Jemelle, Lavaux-Sainte-Anne, Lessive, Montgauthier, Villers-sur-Lesse, Wavreille. Services : vestiboutique, brocante, matériel paramédical, transport sanitaire léger, jeunesse, collectes de sang. La page ne mentionne pas explicitement la recherche de volontaires. Maison Croix-Rouge gérée par des volontaires ; pour s'engager, contacter la maison ou le 105."
+}

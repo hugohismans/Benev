@@ -1,0 +1,19 @@
+{
+  "nom": "Rode Kruis Kortrijk (Croix-Rouge)",
+  "actif": false,
+  "description": "Vous pourrez rejoindre les bénévoles de la section locale, par exemple pour les collectes de sang.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Antoon Van Dycklaan 14/A",
+  "code_postal": "8500",
+  "commune": "Courtrai (Kortrijk)",
+  "coordonnees": "50.83697, 3.26701",
+  "telephone": "056 35 85 42",
+  "email": "info@kortrijk.rodekruis.be",
+  "site_web": "https://www.rodekruis.be/afdeling/kortrijk/",
+  "pmr": "Je ne sais pas",
+  "langue": "Néerlandais (à vérifier)",
+  "source": "https://www.rodekruis.be/afdeling/kortrijk/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Caché : accueil des francophones non confirmé (lieu en Flandre). La page mentionne les possibilités de bénévolat. Site en néerlandais ; accueil francophone non précisé."
+}

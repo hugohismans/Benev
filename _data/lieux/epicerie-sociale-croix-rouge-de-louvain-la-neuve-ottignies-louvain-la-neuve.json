@@ -1,0 +1,20 @@
+{
+  "nom": "Épicerie sociale Croix-Rouge de Louvain-la-Neuve",
+  "actif": true,
+  "description": "Vous pourrez aider à ranger les rayons et accueillir avec respect les personnes qui viennent faire leurs courses à moitié prix.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue des Bruyères 12",
+  "code_postal": "1348",
+  "commune": "Ottignies-Louvain-la-Neuve",
+  "coordonnees": "50.66650, 4.61055",
+  "telephone": "0492 90 29 30",
+  "email": "mcr.ottignies@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/ottignies-louvain-la-neuve-court-st-etienne/",
+  "horaires": "Lundi et jeudi 13h-17h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/ottignies-louvain-la-neuve-court-st-etienne/service/4455/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Village : Louvain-la-Neuve. La Maison Croix-Rouge d'Ottignies publie plusieurs offres de volontariat (vestiboutique, bouquinerie, isolement) sur https://volontariat.croix-rouge.be/offres/ ; pas d'offre spécifique à l'épicerie vue."
+}

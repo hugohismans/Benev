@@ -1,0 +1,18 @@
+{
+  "nom": "INNI asbl – refuge pour chats",
+  "actif": true,
+  "description": "Vous pourrez soigner les chats du refuge et nettoyer leurs pièces de vie en binôme, ou aider lors des récoltes de nourriture en magasin.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Rue Fond des Rys 16",
+  "code_postal": "5060",
+  "commune": "Sambreville",
+  "coordonnees": "50.44655, 4.62077",
+  "site_web": "https://www.inni-inni.be/",
+  "engagement": "Régulier",
+  "engagement_details": "Minimum une fois par semaine ou toutes les deux semaines, environ 2h ; engagement de plusieurs mois demandé.",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.inni-inni.be/benevolat",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Village : Moignelée. Candidature via questionnaire en ligne. Récoltes de nourriture à Jemeppe-sur-Sambre et Erpent (9h-18h). Coordonnées approximatives (centre de la commune) : à corriger."
+}

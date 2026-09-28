@@ -1,0 +1,23 @@
+{
+  "nom": "Repair Café Gesves",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue de la Pichelotte",
+  "code_postal": "5340",
+  "commune": "Gesves",
+  "coordonnees": "50.40973, 5.05874",
+  "telephone": "083 670 344",
+  "email": "repaircafegesves@gmail.com",
+  "site_web": "https://www.facebook.com/Plan-de-Cohésion-Sociale-Gesves-395068624246175",
+  "horaires": "Le 1er samedi du mois, de 13h30 à 16h30",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "personne_reference": "Marion Mancel",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-gesves/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

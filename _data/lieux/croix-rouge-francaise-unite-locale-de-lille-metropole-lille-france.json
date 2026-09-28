@@ -1,0 +1,19 @@
+{
+  "nom": "Croix-Rouge française – Unité locale de Lille Métropole",
+  "actif": true,
+  "description": "Vous pourrez rejoindre une équipe de près de 500 bénévoles qui aident les personnes en difficulté dans la métropole lilloise (maraudes, aide aux plus démunis…).",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "10-12 rue Guy de Dampierre",
+  "code_postal": "59800",
+  "commune": "Lille (France)",
+  "coordonnees": "50.63639, 3.06508",
+  "telephone": "03 20 16 98 60",
+  "site_web": "https://www.croix-rouge.fr/unite-locale-de-lille",
+  "horaires": "10h-12h et 14h-17h (selon la page, à vérifier)",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.croix-rouge.fr/unite-locale-de-lille",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Autres implantations à Roubaix, Tourcoing, Wattignies et Templemars selon la page. Coordonnées approximatives (centre de la commune) : à corriger."
+}

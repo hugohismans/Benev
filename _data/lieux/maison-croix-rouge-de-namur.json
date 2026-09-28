@@ -1,0 +1,22 @@
+{
+  "nom": "Maison Croix-Rouge de Namur",
+  "actif": true,
+  "description": "Vous pourrez rendre visite à des personnes isolées, aider à l'accueil de la maison, à la vestiboutique ou aux collectes de sang.",
+  "categories": [
+    "Personnes âgées",
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue de l'Industrie 124",
+  "code_postal": "5002",
+  "commune": "Namur",
+  "coordonnees": "50.47614, 4.84743",
+  "telephone": "081 30 20 10",
+  "email": "mcr.namur@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/namur/",
+  "horaires": "Lundi au vendredi 9h-12h30 et 13h30-16h",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/namur/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Village : Saint-Servais. Couvre le Grand Namur et Profondeville. Deux vestiboutiques (Saint-Servais et rue des Carmes, adresse de celle-ci non précisée). Annonces levolontariat.be : accueil (https://www.levolontariat.be/volontaire-en-charge-de-laccueil), Reliage (https://www.levolontariat.be/volontaire-reliage-lutte-contre-lisolement-social-et-la-solitude-0), transport social, animation jeunesse."
+}

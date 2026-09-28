@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam-Magasin du monde de Waterloo",
+  "actif": true,
+  "description": "Vous pourrez tenir la caisse, conseiller les clients et achalander les rayons de produits équitables, au sein d'une équipe locale de bénévoles.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Chaussée de Bruxelles 139 bte 3",
+  "code_postal": "1410",
+  "commune": "Waterloo",
+  "coordonnees": "50.71822, 4.39817",
+  "email": "infobenevoles@mdmoxfam.be",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/waterloo/",
+  "horaires": "Lu 13h-18h ; ma-sa 10h-18h",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/waterloo/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Les magasins sont animés par des équipes de bénévoles ; pour rejoindre une équipe : infobenevoles@mdmoxfam.be (https://benevoles.oxfammagasinsdumonde.be/notre-offre-de-benevolat/dans-une-equipe-locale/)."
+}

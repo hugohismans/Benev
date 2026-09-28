@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam-Magasin du monde de Jodoigne (commerce équitable)",
+  "actif": true,
+  "description": "Vous pourrez tenir la caisse, conseiller les clients et achalander les rayons de produits équitables, au sein d'une équipe locale de bénévoles.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Grand-Place 34",
+  "code_postal": "1370",
+  "commune": "Jodoigne",
+  "coordonnees": "50.72462, 4.86795",
+  "email": "infobenevoles@mdmoxfam.be",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/jodoigne-commerce-equitable/",
+  "horaires": "Ma 14h-17h ; me 10h-17h30 ; je 9h-17h30 ; ve 10h-17h30 ; sa 11h-13h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/jodoigne-commerce-equitable/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Les magasins sont animés par des équipes de bénévoles ; pour rejoindre une équipe : infobenevoles@mdmoxfam.be (https://benevoles.oxfammagasinsdumonde.be/notre-offre-de-benevolat/dans-une-equipe-locale/)."
+}

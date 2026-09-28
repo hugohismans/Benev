@@ -1,0 +1,20 @@
+{
+  "nom": "Maison Croix-Rouge Entre Meuse et Lesse",
+  "actif": false,
+  "description": "Vous pourrez trier et vendre des vêtements et des livres de seconde main à la vestiboutique et à la bouquinerie, ou aider à la grande brocante d'Opont.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue de Rochefort 215",
+  "code_postal": "5570",
+  "commune": "Beauraing",
+  "coordonnees": "50.12151, 4.97836",
+  "telephone": "+32 492 18 19 79",
+  "email": "MCR.Entre-M-Et-L@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/entre-meuse-et-lesse/",
+  "horaires": "Mardi, mercredi et vendredi de 14h à 17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/entre-meuse-et-lesse/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Couvre Beauraing, Hastière, Houyet. Brocante située à Opont (Paliseul, prov. Luxembourg). Page sans mention explicite de recherche de volontaires. Maison Croix-Rouge gérée par des volontaires ; pour s'engager, contacter la maison ou le 105."
+}

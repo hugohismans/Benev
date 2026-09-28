@@ -1,0 +1,17 @@
+{
+  "nom": "Petits Frères des Pauvres de Roubaix",
+  "actif": true,
+  "description": "Vous pourrez offrir du temps et de la présence à des personnes âgées isolées.",
+  "categories": [
+    "Personnes âgées",
+    "Accueil et convivialité"
+  ],
+  "adresse": "34 rue du Pays",
+  "code_postal": "59100",
+  "commune": "Roubaix (France)",
+  "coordonnees": "50.69489, 3.17330",
+  "telephone": "03 20 74 01 02",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.petitsfreresdespauvres.fr/nos-implantations/les-petits-freres-des-pauvres-de-roubaix",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page contient un appel « Devenir bénévole »."
+}

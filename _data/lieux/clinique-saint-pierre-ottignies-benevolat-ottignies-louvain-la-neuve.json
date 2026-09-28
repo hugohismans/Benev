@@ -1,0 +1,21 @@
+{
+  "nom": "Clinique Saint-Pierre Ottignies – bénévolat",
+  "actif": true,
+  "description": "Vous pourrez offrir le café aux patients, les écouter, les accompagner prendre l'air ou vers leurs consultations, pour apporter de l'humanité à leur séjour.",
+  "categories": [
+    "Accueil et convivialité",
+    "Personnes âgées"
+  ],
+  "adresse": "Avenue Reine Fabiola 9",
+  "code_postal": "1340",
+  "commune": "Ottignies-Louvain-la-Neuve",
+  "coordonnees": "50.66748, 4.56029",
+  "telephone": "010 43 72 11",
+  "email": "benevole@cspo.be",
+  "site_web": "https://www.cspo.be/",
+  "engagement": "Régulier",
+  "engagement_details": "Environ 4h par semaine, selon vos possibilités ; avoir au moins 20 ans.",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.cspo.be/benevolat",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. 70 bénévoles actifs. Contact : responsable des bénévoles via benevole@cspo.be."
+}

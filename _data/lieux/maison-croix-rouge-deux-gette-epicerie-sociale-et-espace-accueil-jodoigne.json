@@ -1,0 +1,21 @@
+{
+  "nom": "Maison Croix-Rouge Deux Gette – épicerie sociale et espace accueil",
+  "actif": true,
+  "description": "Vous pourrez accueillir les personnes à l'épicerie sociale ou dans l'espace accueil, un lieu convivial où l'on partage une boisson et un moment d'écoute.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité",
+    "Personnes âgées"
+  ],
+  "adresse": "Petite Rue Saint-Lambert 12",
+  "code_postal": "1370",
+  "commune": "Jodoigne",
+  "coordonnees": "50.72332, 4.86412",
+  "telephone": "010 40 03 84",
+  "email": "MCR.Deux-Gette@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/deux-gette/",
+  "horaires": "Épicerie : mercredi et vendredi 14h-16h ; espace accueil : lundi 16h30-18h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/deux-gette/service/4453/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page de l'épicerie indique que 'les bénévoles de la Croix-Rouge vous accueillent'. Espace accueil : https://maisons.croix-rouge.be/maisons/deux-gette/service/3704/"
+}

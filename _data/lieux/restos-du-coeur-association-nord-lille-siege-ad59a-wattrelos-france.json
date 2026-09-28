@@ -1,0 +1,20 @@
+{
+  "nom": "Restos du Cœur – Association Nord-Lille (siège AD59A)",
+  "actif": true,
+  "description": "Vous pourrez rejoindre l'un des nombreux centres de la métropole lilloise (Roubaix, Tourcoing, Lille…) pour aider à l'aide alimentaire, l'accueil des familles ou les activités culture et loisirs.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité",
+    "Culture et loisirs"
+  ],
+  "adresse": "6 rue Amédée Prouvost",
+  "code_postal": "59150",
+  "commune": "Wattrelos (France)",
+  "coordonnees": "50.70183, 3.19701",
+  "telephone": "03 20 26 47 01",
+  "email": "ad59a.siege@restosducoeur.org",
+  "site_web": "https://www.ad59a.com/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.restosducoeur.org/associations-departementales/les-restos-du-coeur-de-lille-a/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Siège de l'association départementale (1 842 bénévoles en 2024/2025) : il oriente vers le centre le plus proche."
+}

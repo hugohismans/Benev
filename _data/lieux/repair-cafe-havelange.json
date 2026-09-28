@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Havelange",
+  "actif": true,
+  "description": "Des bénévoles réparent avec les habitants appareils, vêtements et petits objets, lors de sessions conviviales. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Ferme des Tilleuls, Rue de Hiettine 6",
+  "code_postal": "5370",
+  "commune": "Havelange",
+  "coordonnees": "50.38706, 5.24233",
+  "telephone": "+32 83 63 40 27",
+  "site_web": "https://www.facebook.com/repaircafehavelange",
+  "horaires": "Dates annoncées à l'avance",
+  "engagement": "Ponctuel",
+  "engagement_details": "Sessions ponctuelles de quelques heures, selon l'agenda.",
+  "personne_reference": "Mireille Henrot",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-havelange/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

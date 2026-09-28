@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Buissonville",
+  "actif": false,
+  "description": "Quelques fois par an, une équipe de bénévoles répare avec les habitants les objets du quotidien, dans la bonne humeur. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue de Parwet 4",
+  "code_postal": "5580",
+  "commune": "Rochefort",
+  "coordonnees": "50.21664, 5.19400",
+  "telephone": "0475 40 39 57",
+  "email": "repairbuissonville@gmail.com",
+  "site_web": "https://www.facebook.com/RepairCafeBuissonville",
+  "horaires": "Le 1er dimanche du mois, tous les 3 mois, de 14h à 18h",
+  "engagement": "Ponctuel",
+  "engagement_details": "Quelques sessions par an, quelques heures chacune.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-buissonville-3/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Fiche uniquement en version anglaise, non mise à jour depuis avril 2025 et absente de la liste principale : activité à confirmer."
+}

@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café La Hulpe",
+  "actif": false,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Buvette du foot, Avenue Soyer 9",
+  "code_postal": "1310",
+  "commune": "La Hulpe",
+  "coordonnees": "50.72832, 4.48805",
+  "telephone": "02 634 30 78",
+  "site_web": "https://www.lahulpe.be/agenda/ccca/repair-cafe",
+  "horaires": "Le 3e samedi du mois, de 10h à 12h30",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "personne_reference": "Christel Francotte ; Aliette Swalens",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/en/group/repair-cafe-la-hulpe-3/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Fiche uniquement en version anglaise, non mise à jour depuis novembre 2024 et absente de la liste principale : activité à confirmer."
+}

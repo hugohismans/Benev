@@ -1,0 +1,21 @@
+{
+  "nom": "École de devoirs de COALA – Wavre",
+  "actif": true,
+  "description": "Vous pourrez accompagner des enfants de 6 à 12 ans dans leurs devoirs, puis participer à des ateliers créatifs, culinaires et ludiques.",
+  "categories": [
+    "Enfants et jeunes"
+  ],
+  "adresse": "Rue du Rivage 10",
+  "code_postal": "1300",
+  "commune": "Wavre",
+  "coordonnees": "50.72220, 4.62473",
+  "telephone": "0499 75 14 24",
+  "email": "stephane@coala.be",
+  "horaires": "Enfants accueillis du lundi au vendredi 15h15-18h15 (dès 12h15 le mercredi)",
+  "engagement": "Régulier",
+  "engagement_details": "1 fois par semaine ou plus.",
+  "personne_reference": "Stéphane Vranckx",
+  "pmr": "Je ne sais pas",
+  "source": "https://volontariat.ecolesdedevoirs.be/edd-recherche-volontaires/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. COALA asbl, antenne Wavre. École de devoirs reconnue par l'ONE."
+}

@@ -1,0 +1,18 @@
+{
+  "nom": "Secours populaire français – Comité de Raismes",
+  "actif": true,
+  "description": "Vous pourrez aider à l'accueil des familles, à l'aide alimentaire ou à l'organisation d'actions solidaires près de chez vous.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "21 rue César Franck",
+  "code_postal": "59590",
+  "commune": "Raismes (France)",
+  "coordonnees": "50.40337, 3.51277",
+  "telephone": "03 27 36 80 09",
+  "site_web": "https://www.secourspopulaire.fr/59-raismes/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.secourspopulaire.fr/59-raismes/nous-contacter/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page du comité propose un lien « Je deviens bénévole »."
+}

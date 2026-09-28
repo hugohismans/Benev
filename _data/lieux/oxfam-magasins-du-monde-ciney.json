@@ -1,0 +1,19 @@
+{
+  "nom": "Oxfam-Magasins du monde Ciney",
+  "actif": true,
+  "description": "Vous pourrez accueillir les clients, ranger les rayons d'épicerie équitable et trier les vêtements de seconde main dans ce magasin tenu par des bénévoles.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Edouard Dinot 10",
+  "code_postal": "5590",
+  "commune": "Ciney",
+  "coordonnees": "50.29395, 5.09959",
+  "telephone": "083 68 92 63",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/ciney/",
+  "horaires": "Mardi à samedi 10h-12h30 et 14h-17h",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/ciney/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Magasin présenté comme « Espace bénévole » (tenu par des bénévoles). Contact national : info@mdmoxfam.be / 010 43 79 50."
+}

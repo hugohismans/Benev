@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café Sambreville",
+  "actif": true,
+  "description": "Des bénévoles réparent avec les habitants appareils, vêtements et petits objets, lors de sessions conviviales. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Chalet de Moignelée, Rue de Fleurus 78",
+  "code_postal": "5060",
+  "commune": "Sambreville",
+  "coordonnees": "50.44400, 4.58763",
+  "telephone": "0499/70.15.48",
+  "horaires": "5 fois par an, le vendredi de 17h30 à 20h",
+  "engagement": "Ponctuel",
+  "engagement_details": "Sessions ponctuelles de quelques heures, selon l'agenda.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-sambreville/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

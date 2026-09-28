@@ -1,0 +1,18 @@
+{
+  "nom": "Épicerie sociale Croix-Rouge d'Archennes",
+  "actif": false,
+  "description": "Vous pourrez aider à tenir une petite épicerie sociale où des familles trouvent des produits de base à moitié prix.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue des Moulins 10",
+  "code_postal": "1390",
+  "commune": "Grez-Doiceau",
+  "coordonnees": "50.75075, 4.67636",
+  "telephone": "0498 86 74 41",
+  "site_web": "https://maisons.croix-rouge.be/maisons/ardennes-brabanconnes/",
+  "horaires": "Lundi et jeudi 11h30-13h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/ardennes-brabanconnes/service/4452/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Village : Archennes, dans les locaux du CPAS. Gérée par la Maison Croix-Rouge des Ardennes brabançonnes (offre chauffeur aide alimentaire Chaumont-Gistoux/Grez-Doiceau sur https://volontariat.croix-rouge.be/offres/). Pas d'offre spécifique à l'épicerie vue."
+}

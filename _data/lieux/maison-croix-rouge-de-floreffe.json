@@ -1,0 +1,22 @@
+{
+  "nom": "Maison Croix-Rouge de Floreffe",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique ou à l'épicerie sociale, tenir compagnie à une personne isolée, ou accompagner des aînés dans le numérique.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Aide alimentaire",
+    "Personnes âgées"
+  ],
+  "adresse": "Rue Camille Giroul 3",
+  "code_postal": "5150",
+  "commune": "Floreffe",
+  "coordonnees": "50.43410, 4.75930",
+  "telephone": "0499 69 27 10",
+  "email": "Presidence.MCR.Floreffe@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/floreffe/",
+  "horaires": "Vestiboutique : jeudi 9h-12h et 1er/3e samedi 9h-12h ; épicerie sociale : jeudi 9h-12h30 ; permanence tél. lu-ve 9h-17h",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/floreffe/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Couvre Floreffe, Floriffoux, Franière, Soye. Le projet Reliage mobilise des bénévoles (page source). Annonces levolontariat.be : accompagnement numérique (https://www.levolontariat.be/volontariat-accompagnement-numerique-hfd-1), animation jeunesse."
+}

@@ -1,0 +1,17 @@
+{
+  "nom": "Restos du Cœur – Centre d'activités d'Onnaing",
+  "actif": true,
+  "description": "Vous pourrez aider à la distribution alimentaire et à l'accueil des personnes accueillies par les Restos.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue des Faisans",
+  "code_postal": "59264",
+  "commune": "Onnaing (France)",
+  "coordonnees": "50.39246, 3.59054",
+  "site_web": "https://ad59b.restosducoeur.org",
+  "pmr": "Je ne sais pas",
+  "source": "https://ad59b.restosducoeur.org/centres-departementaux/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Contact de l'association départementale (Restos du Cœur du Hainaut-Cambrésis, Raismes) : 03 27 21 15 50, ad59b.secretariat@restosducoeur.org. L'association compte 1 310 bénévoles et publie des annonces de bénévolat (https://www.restosducoeur.org/annonces/?idad=12712). Confirmation au niveau départemental, pas du centre précis."
+}

@@ -1,0 +1,24 @@
+{
+  "nom": "Repair Café Kortrijk (Deelfabriek)",
+  "actif": false,
+  "description": "Vous pourrez aider les visiteurs à réparer vêtements, petits appareils, vélos ou ordinateurs. La curiosité et l'envie d'apprendre comptent autant que l'expérience.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rijkswachtstraat 5",
+  "code_postal": "8500",
+  "commune": "Courtrai (Kortrijk)",
+  "coordonnees": "50.82409, 3.27606",
+  "telephone": "056 27 76 60",
+  "email": "Deelfabriek@kortrijk.be",
+  "site_web": "https://www.kortrijk.be/deelfabriek/repair-cafe",
+  "horaires": "Quelques samedis par an (en 2026 : 26 septembre, 21 novembre)",
+  "engagement": "Flexible",
+  "engagement_details": "Horaires à convenir ; aucune expérience professionnelle requise",
+  "debut_en_douceur": true,
+  "personne_reference": "Barbara Deman",
+  "pmr": "Je ne sais pas",
+  "langue": "Néerlandais",
+  "source": "https://www.giveaday.eu/nl-be/kortrijk/vrijwilligerswerk/word-vrijwilliger-bij-ons-repair-cafe/73880",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Caché : accueil des francophones non confirmé (lieu en Flandre). Offre de bénévolat sur Give a Day. Langue demandée : néerlandais ; un réparateur peut aider avec peu de mots, mais à confirmer."
+}

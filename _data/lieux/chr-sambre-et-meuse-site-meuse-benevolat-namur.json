@@ -1,0 +1,21 @@
+{
+  "nom": "CHR Sambre et Meuse – site Meuse (bénévolat)",
+  "actif": true,
+  "description": "Vous pourrez accueillir et orienter patients et visiteurs, tenir compagnie aux personnes en dialyse ou aux urgences, avec une présence bienveillante.",
+  "categories": [
+    "Accueil et convivialité",
+    "Personnes âgées"
+  ],
+  "adresse": "Avenue Albert Ier 185",
+  "code_postal": "5000",
+  "commune": "Namur",
+  "coordonnees": "50.39450, 4.69582",
+  "telephone": "081 72 61 11",
+  "email": "benevolat.meuse@chrsm.be",
+  "site_web": "https://meuse.chrsm.be/benevolat",
+  "engagement": "Régulier",
+  "personne_reference": "Nathalie Plessy (responsable du bénévolat)",
+  "pmr": "Je ne sais pas",
+  "source": "https://meuse.chrsm.be/benevolat",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Services : accueil central, urgences, dialyse, gériatrie, hôpital de jour, pédiatrie (week-ends). Convention et charte de confidentialité. Candidature par e-mail ou formulaire, puis entretien."
+}

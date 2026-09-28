@@ -1,0 +1,16 @@
+{
+  "nom": "Restos du Cœur – Nord Maubeuge",
+  "actif": false,
+  "description": "Vous pourrez aider les Restos du Cœur de la Sambre-Avesnois dans leurs actions d'aide alimentaire.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "28 Zone industrielle du Centre",
+  "code_postal": "59131",
+  "commune": "Rousies (France)",
+  "coordonnees": "50.27151, 3.99910",
+  "telephone": "03 27 39 55 98",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.engagement-solidaire.fr/place/10197/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Rousies est limitrophe de Maubeuge. La fiche ne mentionne pas explicitement de recherche de bénévoles. Coordonnées approximatives (centre de la commune) : à corriger."
+}

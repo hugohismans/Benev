@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Gembloux",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Réfectoire de l'internat de l'ITH, Rue de l'Entrée Jacques 31a",
+  "code_postal": "5030",
+  "commune": "Gembloux",
+  "coordonnees": "50.56703, 4.70538",
+  "telephone": "0476616055",
+  "email": "repair.cafe.gembloux@gmail.com",
+  "site_web": "https://www.repaircafe-gembloux.be",
+  "horaires": "Le 3e jeudi du mois, de 20h à 22h",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-gembloux/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Coordonnées approximatives (centre de la commune) : à corriger."
+}

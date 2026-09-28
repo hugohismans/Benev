@@ -1,0 +1,22 @@
+{
+  "nom": "Resto du Cœur de Wavre",
+  "actif": true,
+  "description": "Vous pourrez préparer des colis, servir des repas avec respect et accueillir les bénéficiaires, au sein d'une équipe de plus de soixante bénévoles.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Provinciale 34",
+  "code_postal": "1301",
+  "commune": "Wavre",
+  "coordonnees": "50.71361, 4.60281",
+  "telephone": "0472 75 67 61",
+  "email": "info@restoducoeurwavre.be",
+  "site_web": "https://restoducoeurwavre.be/",
+  "horaires": "Téléphone général : lundi 14h-17h, mardi-vendredi 9h-15h",
+  "engagement": "Flexible",
+  "engagement_details": "Activités surtout en semaine, en journée ; quelques heures par semaine ou ponctuellement. Une rencontre préalable permet de découvrir les locaux et de choisir sa mission.",
+  "pmr": "Je ne sais pas",
+  "source": "https://restoducoeurwavre.be/index.php/agir-avec-nous/donner-de-son-temps/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Village : Bierges (derrière l'Hyper Carrefour). Seul Resto du Cœur du Brabant wallon. Un résultat de recherche mentionnait une équipe 'au complet' mais la page 'Donner de son temps' invite à rejoindre l'équipe : vérifier en appelant."
+}

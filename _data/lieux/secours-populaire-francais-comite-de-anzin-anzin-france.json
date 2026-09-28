@@ -1,0 +1,18 @@
+{
+  "nom": "Secours populaire français – Comité de Anzin",
+  "actif": true,
+  "description": "Vous pourrez aider à l'accueil des familles, à l'aide alimentaire ou à l'organisation d'actions solidaires près de chez vous.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "14 bis square de la République",
+  "code_postal": "59410",
+  "commune": "Anzin (France)",
+  "coordonnees": "50.37111, 3.50077",
+  "telephone": "06 23 43 61 48",
+  "site_web": "https://www.secourspopulaire.fr/59-anzin/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.secourspopulaire.fr/59-anzin/nous-contacter/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page du comité propose un lien « Je deviens bénévole »."
+}

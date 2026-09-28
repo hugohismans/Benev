@@ -1,0 +1,18 @@
+{
+  "nom": "Le Rêve d'Aby – refuge pour animaux de ferme",
+  "actif": false,
+  "description": "Refuge agréé pour vaches, chevaux, ânes, cochons et moutons sauvés de la maltraitance.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Chaussée de Namur 440",
+  "code_postal": "5030",
+  "commune": "Gembloux",
+  "coordonnees": "50.52759, 4.74917",
+  "telephone": "0476 32 19 70",
+  "email": "info@lerevedaby.com",
+  "site_web": "https://www.lerevedaby.com/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.lerevedaby.com/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Village : Beuzet. La page d'accueil appelle au soutien (dons, parrainages) mais ne mentionne pas de recherche de bénévoles : à demander."
+}

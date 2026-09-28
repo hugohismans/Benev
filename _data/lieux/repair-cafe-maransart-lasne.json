@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café Maransart",
+  "actif": true,
+  "description": "Des bénévoles réparent avec les habitants appareils, vêtements et petits objets, lors de sessions conviviales. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Centre sportif de Maransart, Rue de Colinet 11",
+  "code_postal": "1380",
+  "commune": "Lasne",
+  "coordonnees": "50.66058, 4.46576",
+  "telephone": "0478 61 84 22",
+  "engagement": "Ponctuel",
+  "engagement_details": "Sessions ponctuelles de quelques heures, selon l'agenda.",
+  "personne_reference": "Philippe Saussu",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-maransart/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Horaire non précisé sur la page ; la page indique être toujours à la recherche de bénévoles."
+}

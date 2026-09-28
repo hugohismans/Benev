@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Villers-la-Ville",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Maison des jeunes de Mellery, Rue de Thébais 57h",
+  "code_postal": "1495",
+  "commune": "Villers-la-Ville",
+  "coordonnees": "50.58129, 4.56882",
+  "telephone": "0496 02 98 66",
+  "site_web": "http://villersentransition.be/nos-activites/repair-cafe-villers-la-ville/",
+  "horaires": "Le 4e dimanche du mois, de 10h à 13h",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "personne_reference": "Alice Denis",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-villers-la-ville/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page invite les bricoleurs à rejoindre l'équipe comme réparateurs bénévoles."
+}

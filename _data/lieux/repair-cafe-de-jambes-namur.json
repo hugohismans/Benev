@@ -1,0 +1,23 @@
+{
+  "nom": "Repair Café de Jambes",
+  "actif": true,
+  "description": "Tous les deux mois, bénévoles et habitants se retrouvent pour réparer ensemble plutôt que jeter, autour d'un café. Vous pourrez accueillir les visiteurs, tenir le bar ou mettre la main à la pâte si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Résidence Entour'âge, Rue de Dave 169",
+  "code_postal": "5100",
+  "commune": "Namur",
+  "coordonnees": "50.45152, 4.86953",
+  "telephone": "0456 10 10 22",
+  "email": "repaircafe60@gmail.com",
+  "site_web": "https://repair-cafe-jambes.be/",
+  "horaires": "Le 3e vendredi des mois impairs, de 17h à 20h",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session tous les deux mois, quelques heures.",
+  "personne_reference": "Fabrice Vandenbol",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-de-jambes/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

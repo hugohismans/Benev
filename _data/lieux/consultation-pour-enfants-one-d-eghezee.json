@@ -1,0 +1,22 @@
+{
+  "nom": "Consultation pour enfants ONE d'Éghezée",
+  "actif": true,
+  "description": "Vous pourrez accueillir, en équipe, les familles et leurs bébés lors des séances de consultation pour enfants.",
+  "categories": [
+    "Enfants et jeunes",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Route de Ramillies 12",
+  "code_postal": "5310",
+  "commune": "Éghezée",
+  "coordonnees": "50.59420, 4.91397",
+  "telephone": "0499 99 80 14",
+  "email": "Sophie.Dubois@one.be",
+  "horaires": "3e mercredi et 4e mardi du mois (en journée), depuis le 1er septembre",
+  "engagement": "Régulier",
+  "engagement_details": "Deux séances par mois.",
+  "personne_reference": "Sophie Dubois",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.levolontariat.be/benevole-daccueil-consultation-pour-enfants-one-de-eghezee-route-de-ramillies-12",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

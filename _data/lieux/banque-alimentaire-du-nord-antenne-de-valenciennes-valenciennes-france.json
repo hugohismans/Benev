@@ -1,0 +1,17 @@
+{
+  "nom": "Banque Alimentaire du Nord – Antenne de Valenciennes",
+  "actif": false,
+  "description": "Vous pourrez aider à trier et préparer les denrées redistribuées aux associations locales du Valenciennois.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "33 rue Grégoire-Nicolas Finez",
+  "code_postal": "59300",
+  "commune": "Valenciennes (France)",
+  "coordonnees": "50.35835, 3.47984",
+  "telephone": "03 27 41 26 33",
+  "site_web": "https://ba59.banquealimentaire.org/",
+  "pmr": "Je ne sais pas",
+  "source": "https://ba59.banquealimentaire.org/nos-antennes-1225",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page des antennes ne parle pas explicitement de bénévoles ; l'association publie toutefois des missions sur JeVeuxAider (https://www.jeveuxaider.gouv.fr/organisations/6080-banque-alimentaire-du-nord)."
+}

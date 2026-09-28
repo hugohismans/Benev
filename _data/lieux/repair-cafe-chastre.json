@@ -1,0 +1,23 @@
+{
+  "nom": "Repair Café Chastre",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Ancienne salle du conseil communal, Avenue du Castillon 71",
+  "code_postal": "1450",
+  "commune": "Chastre",
+  "coordonnees": "50.61075, 4.64465",
+  "telephone": "0476818590",
+  "email": "repaircafe.chastre@gmail.com",
+  "site_web": "https://www.facebook.com/repaircafechastre",
+  "horaires": "Le 2e vendredi du mois, de 15h30 à 18h30",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "personne_reference": "Marie Paule Herdies",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-chastre/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

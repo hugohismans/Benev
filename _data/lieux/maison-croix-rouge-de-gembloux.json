@@ -1,0 +1,25 @@
+{
+  "nom": "Maison Croix-Rouge de Gembloux",
+  "actif": true,
+  "description": "Vous pourrez aider à la vestiboutique, au bar à soupe, aux paniers alimentaires, à l'accueil ou rendre visite à des aînés isolés, avec beaucoup de souplesse d'horaire.",
+  "categories": [
+    "Aide alimentaire",
+    "Seconde main et recyclage",
+    "Personnes âgées",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue de la Vôte 1 B",
+  "code_postal": "5030",
+  "commune": "Gembloux",
+  "coordonnees": "50.55774, 4.69125",
+  "telephone": "081 61 49 64",
+  "email": "mcr.gembloux@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/gembloux/",
+  "horaires": "Lundi au vendredi 9h-17h",
+  "engagement": "Flexible",
+  "engagement_details": "Grande souplesse d'horaire selon l'activité, tous les jours de la semaine possibles ; âge minimum 16 ans (18 ans pour les chauffeurs).",
+  "personne_reference": "Claude Grégoire (président)",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.gembloux.be/ma-commune/services-communaux/cohesion-sociale/gembloux-solidaire/liste-des-benevolats-ouverts/liste-des-benevolats-ouverts",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Couvre Gembloux et Sombreffe. Module d'introduction Croix-Rouge (~3h) pour tout nouveau volontaire."
+}

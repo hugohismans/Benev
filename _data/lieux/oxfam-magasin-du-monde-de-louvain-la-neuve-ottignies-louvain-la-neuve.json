@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam-Magasin du monde de Louvain-la-Neuve",
+  "actif": true,
+  "description": "Vous pourrez tenir la caisse, conseiller les clients et achalander les rayons de produits équitables, au sein d'une équipe locale de bénévoles.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Grand-Place 5",
+  "code_postal": "1348",
+  "commune": "Ottignies-Louvain-la-Neuve",
+  "coordonnees": "50.66910, 4.61196",
+  "email": "infobenevoles@mdmoxfam.be",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/louvain-la-neuve/",
+  "horaires": "Lu 13h-18h30 ; ma-sa 10h30-18h30",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/louvain-la-neuve/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Les magasins sont animés par des équipes de bénévoles ; pour rejoindre une équipe : infobenevoles@mdmoxfam.be (https://benevoles.oxfammagasinsdumonde.be/notre-offre-de-benevolat/dans-une-equipe-locale/). Village : Louvain-la-Neuve."
+}

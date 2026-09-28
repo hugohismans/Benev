@@ -1,0 +1,20 @@
+{
+  "nom": "Jardin partagé de Gertrude (Ville de Valenciennes)",
+  "actif": false,
+  "description": "Vous pourrez cultiver un potager collectif avec d'autres habitants, dans une ambiance conviviale et au naturel.",
+  "categories": [
+    "Nature et jardinage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "11 ter rue de l'Âtre de Gertrude",
+  "code_postal": "59300",
+  "commune": "Valenciennes (France)",
+  "coordonnees": "50.35079, 3.53354",
+  "telephone": "03 27 22 56 02",
+  "site_web": "https://www.valenciennes.fr/jardins-partages/",
+  "engagement": "Régulier",
+  "engagement_details": "Les jardiniers s'engagent à jardiner pendant trois ans avec le groupe",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.valenciennes.fr/jardins-partages/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Participation citoyenne plutôt que bénévolat. La page s'adresse aux habitants de Valenciennes (« Vous êtes Valenciennois ») : probablement réservé aux résidents."
+}

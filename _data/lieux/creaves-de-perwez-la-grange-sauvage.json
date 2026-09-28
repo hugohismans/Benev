@@ -1,0 +1,19 @@
+{
+  "nom": "CREAVES de Perwez – La Grange Sauvage",
+  "actif": true,
+  "description": "Vous pourrez aider à soigner et nourrir des animaux sauvages blessés, comme les nombreux hérissons accueillis chaque saison.",
+  "categories": [
+    "Animaux",
+    "Nature et jardinage"
+  ],
+  "adresse": "Rue de l'Intérieur 37",
+  "code_postal": "1360",
+  "commune": "Perwez",
+  "coordonnees": "50.63337, 4.78177",
+  "telephone": "081 39 17 04",
+  "email": "creaves@lagrangesauvage.be",
+  "site_web": "https://www.lagrangesauvage.be/",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.lagrangesauvage.be/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Village : Thorembais-Saint-Trond. Géré par Plumes d'Eaux ASBL. Le site mentionne des 'bénévoles dévoués' et un compteur de bénévoles, sans appel explicite : contacter le centre."
+}

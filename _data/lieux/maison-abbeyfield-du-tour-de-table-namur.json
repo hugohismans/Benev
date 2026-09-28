@@ -1,0 +1,19 @@
+{
+  "nom": "Maison Abbeyfield du Tour de Table",
+  "actif": true,
+  "description": "Vous pourrez partager du temps avec les 8 habitants seniors de cette maison : discussions, lecture, courses, petits bricolages ou ateliers manuels.",
+  "categories": [
+    "Personnes âgées",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue des Brasseurs 170 B",
+  "code_postal": "5000",
+  "commune": "Namur",
+  "coordonnees": "50.46203, 4.86522",
+  "telephone": "0484 62 73 21",
+  "engagement": "Flexible",
+  "personne_reference": "Gaëlle Van den Plas",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.giveaday.eu/fr-be/namur/volontariat/benevole-habitat-groupe-seniors-namur/71927",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Habitat groupé pour seniors (56 à 88 ans) géré par Abbeyfield Wallonie."
+}

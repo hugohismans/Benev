@@ -1,0 +1,21 @@
+{
+  "nom": "Repair Café Rochefort – Maison citoyenne",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Maison citoyenne, Rue de la Sauvenière 16",
+  "code_postal": "5580",
+  "commune": "Rochefort",
+  "coordonnees": "50.15971, 5.22224",
+  "telephone": "084/37.41.81",
+  "horaires": "Le 3e samedi du mois (depuis janvier 2026)",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "personne_reference": "Stéphanie Galland",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-rochefort-maison-citoyenne/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Lancé en 2026 ; la page indique rechercher réparateurs et bénévoles."
+}

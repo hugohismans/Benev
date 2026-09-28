@@ -1,0 +1,20 @@
+{
+  "nom": "Kringwinkel Ronse",
+  "actif": false,
+  "description": "Magasin de seconde main où l'on trie, range et vend des objets de récupération. Vous pourrez demander s'il y a une place pour un coup de main.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Alexandre-Louis Vanhovestraat 14",
+  "code_postal": "9600",
+  "commune": "Renaix (Ronse)",
+  "coordonnees": "50.74597, 3.59286",
+  "telephone": "054 32 05 00",
+  "email": "info@kwzov.be",
+  "site_web": "https://www.kringwinkel.be/winkels/kringwinkel-ronse",
+  "horaires": "Lun-sam 10h-17h30",
+  "pmr": "Je ne sais pas",
+  "langue": "Néerlandais (à vérifier)",
+  "source": "https://www.kringwinkel.be/winkels/kringwinkel-ronse",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La source ne parle pas de bénévoles : c'est une entreprise d'économie sociale (emploi adapté). À demander directement. Site uniquement en néerlandais ; tâches manuelles possibles sans bien parler néerlandais (à confirmer)."
+}

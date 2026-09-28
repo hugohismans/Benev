@@ -1,0 +1,19 @@
+{
+  "nom": "Fonds Emile Salamon",
+  "actif": true,
+  "description": "Si vous avez une voiture, vous pourrez accompagner des patients isolés atteints d'un cancer vers leur lieu de traitement dans la région namuroise.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Place Louise Godin 15",
+  "code_postal": "5000",
+  "commune": "Namur",
+  "coordonnees": "50.45972, 4.84458",
+  "telephone": "0471 49 00 80",
+  "email": "fondsemilesalamon@gmail.com",
+  "site_web": "https://www.fonds-salamon.be/",
+  "engagement": "Flexible",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.fonds-salamon.be/recherche-de-benevoles-namur-andenne-gembloux-ciney/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Véhicule indispensable. Régions : Namur, Andenne, Gembloux, Ciney. Autre contact : info@fonds-salamon.be / 081 72 07 72."
+}

@@ -1,0 +1,19 @@
+{
+  "nom": "Centre de Volontariat de Namur (Plateforme francophone du Volontariat)",
+  "actif": true,
+  "description": "Vous pourrez y être reçu·e pour clarifier vos envies et trouver une association qui vous correspond près de chez vous.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Place l'Ilon 13",
+  "code_postal": "5000",
+  "commune": "Namur",
+  "coordonnees": "50.46376, 4.87029",
+  "telephone": "0497 99 53 25",
+  "email": "centre.namur@levolontariat.be",
+  "site_web": "https://www.levolontariat.be/namur",
+  "horaires": "Sur rendez-vous ; téléphone lundi, jeudi et vendredi en journée",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.levolontariat.be/centres-de-volontariat",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Service d'orientation vers le volontariat (tenu par des bénévoles) plutôt qu'un lieu de mission : idéal comme première étape."
+}

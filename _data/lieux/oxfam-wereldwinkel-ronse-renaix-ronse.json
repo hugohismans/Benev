@@ -1,0 +1,21 @@
+{
+  "nom": "Oxfam-Wereldwinkel Ronse",
+  "actif": false,
+  "description": "Vous pourrez aider à accueillir les clients et à tenir la boutique de commerce équitable, aux côtés d'une équipe de bénévoles.",
+  "categories": [
+    "Accueil et convivialité",
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Abeelstraat 16",
+  "code_postal": "9600",
+  "commune": "Renaix (Ronse)",
+  "coordonnees": "50.74514, 3.60017",
+  "telephone": "055 21 34 94",
+  "email": "ronse@oww.be",
+  "site_web": "https://oxfambelgie.be/winkels/ronse",
+  "horaires": "Mer-sam 9h30-12h30 et 14h-17h30",
+  "pmr": "Je ne sais pas",
+  "langue": "Néerlandais (à vérifier)",
+  "source": "https://oxfambelgie.be/winkels/ronse",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Caché : accueil des francophones non confirmé (lieu en Flandre). Magasin fonctionnant avec des bénévoles (« Onze vrijwilligers staan klaar… »). Renaix est une commune à facilités : des clients francophones sont probables, mais la langue d'accueil du magasin n'est pas précisée (à confirmer)."
+}

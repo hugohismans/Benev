@@ -1,0 +1,16 @@
+{
+  "nom": "Épicerie sociale « Le Lien » (Andenne)",
+  "actif": false,
+  "description": "Épicerie sociale pour les personnes bénéficiant de revenus sociaux.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue du Pont 40",
+  "code_postal": "5300",
+  "commune": "Andenne",
+  "coordonnees": "50.49224, 5.09649",
+  "horaires": "Mardi au vendredi sur rendez-vous",
+  "pmr": "Je ne sais pas",
+  "source": "https://annuaire.andenne.be/poi/epicerie-sociale-le-lien/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Aucune mention de bénévolat sur la fiche : à demander."
+}

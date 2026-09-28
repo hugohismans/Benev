@@ -1,0 +1,21 @@
+{
+  "nom": "CREAVES de Namur",
+  "actif": true,
+  "description": "Vous pourrez nourrir et soigner des animaux sauvages blessés, nettoyer les enclos, bricoler ou assurer l'accueil et le transport, dans une grande équipe de bénévoles.",
+  "categories": [
+    "Animaux",
+    "Nature et jardinage"
+  ],
+  "adresse": "Batys de Soye 1",
+  "code_postal": "5020",
+  "commune": "Namur",
+  "coordonnees": "50.47241, 4.76894",
+  "telephone": "0477 70 98 03",
+  "email": "creaves.namur@gmail.com",
+  "site_web": "https://www.creaves-namur.be/",
+  "engagement": "Régulier",
+  "engagement_details": "Minimum une demi-journée par semaine ; 18 ans minimum.",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.creaves-namur.be/devenez-b%C3%A9n%C3%A9voles",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Village : Temploux. Pas de câlins aux animaux (animaux sauvages) ; confrontation possible à la maladie et à la mort. Premières journées encadrées par les équipes."
+}

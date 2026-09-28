@@ -1,0 +1,17 @@
+{
+  "nom": "Banque Alimentaire du Nord – Antenne de Ferrière-la-Grande",
+  "actif": false,
+  "description": "Vous pourrez aider à trier et préparer les denrées redistribuées aux associations de la Sambre-Avesnois.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "83 rue Ernest Lesaffre",
+  "code_postal": "59680",
+  "commune": "Ferrière-la-Grande (France)",
+  "coordonnees": "50.25304, 4.00628",
+  "telephone": "03 27 61 34 05",
+  "site_web": "https://ba59.banquealimentaire.org/",
+  "pmr": "Je ne sais pas",
+  "source": "https://ba59.banquealimentaire.org/nos-antennes-1225",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Proche de Maubeuge. La page des antennes ne parle pas explicitement de bénévoles ; l'association publie des missions sur JeVeuxAider."
+}

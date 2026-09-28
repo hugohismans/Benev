@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam-Magasins du monde Beauraing",
+  "actif": true,
+  "description": "Vous pourrez accueillir les clients et faire vivre ce petit magasin de commerce équitable au centre de Beauraing.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue de Dinant 2",
+  "code_postal": "5570",
+  "commune": "Beauraing",
+  "coordonnees": "50.11032, 4.95554",
+  "telephone": "082 66 51 61",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/beauraing/",
+  "horaires": "Mardi à jeudi 13h-18h ; vendredi et samedi 10h-18h",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/beauraing/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Magasin présenté comme « Espace bénévole ». Contact national : info@mdmoxfam.be / 010 43 79 50."
+}

@@ -1,0 +1,19 @@
+{
+  "nom": "Syndicat d'Initiative de La Bruyère",
+  "actif": true,
+  "description": "Vous pourrez accueillir habitants et touristes avec le sourire, répondre à leurs questions et faire découvrir la commune, lors de permanences souples.",
+  "categories": [
+    "Accueil et convivialité",
+    "Culture et loisirs"
+  ],
+  "adresse": "Rue du Village 2",
+  "code_postal": "5081",
+  "commune": "La Bruyère",
+  "coordonnees": "50.55205, 4.80035",
+  "telephone": "0473 77 18 61",
+  "engagement": "Régulier",
+  "engagement_details": "Environ 2 heures par semaine ; permanences selon vos disponibilités ; niveau débutant.",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.giveaday.eu/fr-be/la-bruyere/volontariat/vous-aimez-accueillir-les-gens-avec-le-sourire/13795",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Accompagnement bienveillant par les responsables annoncé."
+}

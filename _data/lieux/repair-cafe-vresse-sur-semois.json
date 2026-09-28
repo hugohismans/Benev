@@ -1,0 +1,21 @@
+{
+  "nom": "Repair Café Vresse-sur-Semois",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Salle La Glycine, Rue Albert Raty 83",
+  "code_postal": "5550",
+  "commune": "Vresse-sur-Semois",
+  "coordonnees": "49.87318, 4.93387",
+  "telephone": "061 21 04 39",
+  "site_web": "https://www.facebook.com/RepairCafeVressesurSemois",
+  "horaires": "Le 3e samedi du mois, de 9h à 12h",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-vresse-sur-semois/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page mentionne aussi la salle du Conseil communal comme lieu."
+}

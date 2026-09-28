@@ -1,0 +1,21 @@
+{
+  "nom": "Oxybulle asbl (Namur et environs)",
+  "actif": true,
+  "description": "Vous pourrez proposer des activités de loisirs (sorties, bricolage, nature...) ou un soutien scolaire à des enfants qui vivent en maison d'accueil. Vous êtes accompagné·e et vos frais sont remboursés.",
+  "categories": [
+    "Enfants et jeunes",
+    "Culture et loisirs"
+  ],
+  "adresse": "Rue Joseph Saintraint 10",
+  "code_postal": "5000",
+  "commune": "Namur",
+  "coordonnees": "50.46337, 4.86082",
+  "email": "oxy@oxybulle.org",
+  "horaires": "Mercredis, congés scolaires et week-ends (loisirs) ; soutien scolaire en semaine vers 16h30-18h",
+  "engagement": "Régulier",
+  "engagement_details": "Engagement d'1 an minimum et au moins 1 activité par mois ; soutien scolaire environ 1h/semaine.",
+  "personne_reference": "Stéphanie van Steenberghe",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.levolontariat.be/activtes-de-loisir-avec-des-enfants-province-de-namur",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Les activités ont lieu dans des maisons d'accueil partenaires dans et autour de Namur. Autre annonce : soutien scolaire à Wépion (https://www.levolontariat.be/soutien-scolaire-wepion)."
+}

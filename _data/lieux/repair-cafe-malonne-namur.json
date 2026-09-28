@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café Malonne",
+  "actif": true,
+  "description": "Tous les deux mois, bénévoles et habitants se retrouvent pour réparer ensemble plutôt que jeter, autour d'un café. Vous pourrez accueillir les visiteurs, tenir le bar ou mettre la main à la pâte si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Abbaye Saint-Berthuin, Fond de Malonne 127",
+  "code_postal": "5020",
+  "commune": "Namur",
+  "coordonnees": "50.43469, 4.79550",
+  "telephone": "081 73 29 63",
+  "horaires": "Le 1er samedi de février, avril, juin, août, octobre et décembre",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session tous les deux mois, quelques heures.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-malonne/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. En alternance avec le Repair Café de Floreffe."
+}

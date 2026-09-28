@@ -1,0 +1,18 @@
+{
+  "nom": "Bibliothèque des Jeunes de Linkebeek",
+  "actif": false,
+  "description": "Bibliothèque francophone pour enfants, née en 1971 grâce à des bénévoles. Vous pourrez demander à aider au prêt de livres ou au rangement.",
+  "categories": [
+    "Enfants et jeunes",
+    "Culture et loisirs"
+  ],
+  "adresse": "Rue de l'Eglise 31",
+  "code_postal": "1630",
+  "commune": "Linkebeek",
+  "coordonnees": "50.77193, 4.33515",
+  "site_web": "https://www.bibli-jeunes-linkebeek.be/",
+  "pmr": "Je ne sais pas",
+  "langue": "Néerlandais, francophones bienvenus",
+  "source": "https://www.bibli-jeunes-linkebeek.be/histoire.php",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Site en français (commune à facilités). Fondée par des bénévoles, mais la source consultée ne dit pas si elle cherche des bénévoles aujourd'hui. Adresse issue d'un extrait de recherche, à vérifier."
+}

@@ -1,0 +1,21 @@
+{
+  "nom": "Repair Café Eghezée",
+  "actif": true,
+  "description": "Tous les deux mois, bénévoles et habitants se retrouvent pour réparer ensemble plutôt que jeter, autour d'un café. Vous pourrez accueillir les visiteurs, tenir le bar ou mettre la main à la pâte si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue du Village",
+  "code_postal": "5310",
+  "commune": "Éghezée",
+  "coordonnees": "50.61082, 4.87349",
+  "telephone": "0486 23 46 53",
+  "site_web": "https://www.gefentransition.be/",
+  "horaires": "Le 3e dimanche des mois pairs, de 13h à 16h",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session tous les deux mois, quelques heures.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-eghezee/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

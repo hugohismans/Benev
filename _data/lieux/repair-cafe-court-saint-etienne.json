@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Court-Saint-Étienne",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Quatre Quarts, Rue Émile Henricot 61",
+  "code_postal": "1490",
+  "commune": "Court-Saint-Étienne",
+  "coordonnees": "50.64587, 4.56583",
+  "telephone": "0495 43 53 67",
+  "email": "repair.cafe.cse@gmail.com",
+  "site_web": "https://www.facebook.com/TransitionEnCourt",
+  "horaires": "Le 3e samedi du mois, de 10h à 13h (uniquement sur réservation pour les visiteurs)",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-court-saint-etienne/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

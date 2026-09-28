@@ -1,0 +1,21 @@
+{
+  "nom": "Dierenasiel De Leiestreek (refuge animalier)",
+  "actif": false,
+  "description": "Refuge pour animaux abandonnés qui cherche des bénévoles passionnés par les animaux. Vous pourrez aider à prendre soin des pensionnaires.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Avelgemstraat 186 C",
+  "code_postal": "8550",
+  "commune": "Zwevegem",
+  "coordonnees": "50.79815, 3.35778",
+  "telephone": "056 75 59 19",
+  "email": "info@dierenasiel-leiestreek.be",
+  "site_web": "https://www.dierenasiel-leiestreek.be/",
+  "horaires": "Joignable par téléphone lun-sam 14h-18h (fermé jeudi, dimanche et jours fériés) ; visites sur rendez-vous",
+  "engagement_details": "À partir de 18 ans",
+  "pmr": "Je ne sais pas",
+  "langue": "Néerlandais (à vérifier)",
+  "source": "https://www.dierenasiel-leiestreek.be/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Caché : accueil des francophones non confirmé (lieu en Flandre). Cherche des bénévoles de 18 ans et plus. Lieu en néerlandais ; avec les animaux la langue compte moins (à confirmer)."
+}

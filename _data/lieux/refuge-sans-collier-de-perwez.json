@@ -1,0 +1,21 @@
+{
+  "nom": "Refuge Sans Collier de Perwez",
+  "actif": true,
+  "description": "Vous pourrez promener et socialiser les chiens, prendre soin des chats, ou aider lors d'événements et de collectes, selon votre temps et votre énergie.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Chaussée de Charleroi 68",
+  "code_postal": "1360",
+  "commune": "Perwez",
+  "coordonnees": "50.62530, 4.76487",
+  "telephone": "081 35 40 90",
+  "email": "info@sanscollier.be",
+  "site_web": "https://www.sanscollier.be/",
+  "horaires": "Accessible au public du lundi au samedi 13h-17h (hors jours fériés)",
+  "engagement": "Flexible",
+  "engagement_details": "Plusieurs formes : terrain chiens, terrain chats, suivi post-adoption depuis chez soi, événementiel ponctuel, médiation animale.",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.sanscollier.be/benevole/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Deuxième refuge à Chastre (Chaussée de Wavre 18, 1450) non accessible au public."
+}

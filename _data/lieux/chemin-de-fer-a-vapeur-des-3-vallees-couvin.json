@@ -1,0 +1,23 @@
+{
+  "nom": "Chemin de fer à vapeur des 3 Vallées",
+  "actif": true,
+  "description": "Vous pourrez restaurer le matériel ferroviaire à l'atelier le samedi, accueillir les visiteurs, servir à la cafétéria ou guider au musée.",
+  "categories": [
+    "Culture et loisirs",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Chaussée de Givet 49-51",
+  "code_postal": "5660",
+  "commune": "Couvin",
+  "coordonnees": "50.09082, 4.53666",
+  "telephone": "+32 60 31 24 40",
+  "email": "secretariat@cf3v.eu",
+  "site_web": "https://cfv3v.eu/",
+  "horaires": "Secrétariat du lundi au vendredi 9h-16h ; atelier le samedi",
+  "engagement": "Flexible",
+  "engagement_details": "Atelier (samedi), voies, administratif, accueil, cafétéria, guidage au musée",
+  "pmr": "Je ne sais pas",
+  "transports": "Gare SNCB de Mariembourg (ligne 132) à proximité",
+  "source": "https://cfv3v.eu/en/become-a-member/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Village : Mariembourg (sites à Mariembourg et Treignes). Adhésion comme membre actif via formulaire. Environ 60 à 80 volontaires."
+}

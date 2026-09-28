@@ -1,0 +1,21 @@
+{
+  "nom": "Refuge Sans Famille",
+  "actif": true,
+  "description": "Vous pourrez nourrir et soigner les animaux, promener les chiens le week-end, bricoler ou jardiner, ou donner un coup de main lors des portes ouvertes.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Rue de Daviseau 30",
+  "code_postal": "5503",
+  "commune": "Dinant",
+  "coordonnees": "50.26087, 4.99719",
+  "telephone": "082 22 60 43",
+  "email": "info@sansfamille.be",
+  "site_web": "https://www.sansfamille.be/",
+  "horaires": "Sur rendez-vous ; promenades le week-end à partir de 14h (téléphoner avant)",
+  "engagement": "Flexible",
+  "engagement_details": "Aide-soignant, promeneur (week-end), bricoleur, inspecteur post-adoption ou aide ponctuelle lors d'événements",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.sansfamille.be/fr/benevoles-2300",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Village : Sorinnes. Refuge pour chiens, chats, chevaux, cochons, poules. Tous les membres sont bénévoles. Coordonnées approximatives (centre de la commune) : à corriger."
+}

@@ -1,0 +1,21 @@
+{
+  "nom": "Repair Café de Waterloo",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "École communale du Chenois, Rue Bodrissart",
+  "code_postal": "1410",
+  "commune": "Waterloo",
+  "coordonnees": "50.70977, 4.37769",
+  "email": "repaircafewat@gmail.com",
+  "site_web": "https://www.facebook.com/Repair-Café-de-Waterloo-646321012190908/",
+  "horaires": "Le 1er dimanche du mois, de 14h à 17h (sauf juillet et août)",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-de-waterloo/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

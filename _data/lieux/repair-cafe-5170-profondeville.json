@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café 5170",
+  "actif": true,
+  "description": "Tous les deux mois, bénévoles et habitants se retrouvent pour réparer ensemble plutôt que jeter, autour d'un café. Vous pourrez accueillir les visiteurs, tenir le bar ou mettre la main à la pâte si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Place de l'Armistice 21",
+  "code_postal": "5170",
+  "commune": "Profondeville",
+  "coordonnees": "50.38977, 4.82339",
+  "telephone": "081 41 29 74",
+  "email": "repair5170@gmail.com",
+  "site_web": "https://www.facebook.com/Repair-Cafe-5170-214914105685738",
+  "horaires": "Un samedi tous les deux mois, de 14h à 16h45",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session tous les deux mois, quelques heures.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-5170/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

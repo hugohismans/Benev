@@ -1,0 +1,18 @@
+{
+  "nom": "Petits Frères des Pauvres du Valenciennois",
+  "actif": true,
+  "description": "Vous pourrez rendre visite à des personnes âgées isolées et partager des moments conviviaux (sorties, fêtes, anniversaires).",
+  "categories": [
+    "Personnes âgées",
+    "Accueil et convivialité"
+  ],
+  "code_postal": "59300",
+  "commune": "Valenciennes (France)",
+  "coordonnees": "50.34195, 3.52240",
+  "telephone": "06 49 04 45 16",
+  "engagement": "Régulier",
+  "engagement_details": "Visites hebdomadaires à domicile et en établissement",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.petitsfreresdespauvres.fr/nos-implantations/fraternite-des-hauts-de-france/les-petits-freres-des-pauvres-de-valenciennes/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Pas d'adresse de rue indiquée sur la page (seulement 59300 Valenciennes). Équipe d'une quinzaine de bénévoles. Coordonnées approximatives (centre de la commune) : à corriger."
+}

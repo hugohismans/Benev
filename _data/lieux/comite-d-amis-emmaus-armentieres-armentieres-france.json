@@ -1,0 +1,15 @@
+{
+  "nom": "Comité d'amis Emmaüs Armentières",
+  "actif": false,
+  "description": "Vous pourrez donner un coup de main au tri et à la vente d'objets de seconde main au profit d'Emmaüs.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "26 rue des Chauffours",
+  "code_postal": "59280",
+  "commune": "Armentières (France)",
+  "coordonnees": "50.68802, 2.88807",
+  "pmr": "Je ne sais pas",
+  "source": "https://alternativi.fr/annuaire/emmaus/wattrelos-59150",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Adresse issue d'un annuaire (alternativi.fr). Recherche de bénévoles non confirmée par la source."
+}

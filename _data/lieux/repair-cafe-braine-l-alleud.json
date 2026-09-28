@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Braine-l'Alleud",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "École Sainte-Famille, Rue de la Goëtte 43",
+  "code_postal": "1420",
+  "commune": "Braine-l'Alleud",
+  "coordonnees": "50.68338, 4.36774",
+  "telephone": "0495 500 234",
+  "site_web": "https://www.facebook.com/Repair-Café-Braine-lAlleud-538528732934214",
+  "horaires": "Le 2e dimanche du mois, de 14h à 17h30",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "personne_reference": "Godelieve Boulert",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-braine-lalleud/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

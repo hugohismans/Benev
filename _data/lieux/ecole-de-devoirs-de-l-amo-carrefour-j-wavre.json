@@ -1,0 +1,19 @@
+{
+  "nom": "École de devoirs de l'AMO Carrefour J – Wavre",
+  "actif": true,
+  "description": "Vous pourrez aider des enfants de primaire à faire leurs devoirs après l'école, dans une équipe encadrée.",
+  "categories": [
+    "Enfants et jeunes"
+  ],
+  "adresse": "Avenue Henri Lepage 5",
+  "code_postal": "1300",
+  "commune": "Wavre",
+  "coordonnees": "50.72043, 4.60754",
+  "telephone": "010 24 30 78",
+  "email": "claire@carrefourj.be",
+  "horaires": "Lundi, mardi et/ou jeudi 15h45-18h",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "source": "https://volontariat.ecolesdedevoirs.be/edd-recherche-volontaires/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Dans les locaux du CPAS de Wavre."
+}

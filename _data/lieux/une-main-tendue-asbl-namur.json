@@ -1,0 +1,19 @@
+{
+  "nom": "Une Main Tendue asbl",
+  "actif": true,
+  "description": "Vous pourrez trier les fruits, légumes et produits frais récoltés en grandes surfaces ou distribuer des colis alimentaires aux personnes qui en ont besoin. Un écolage est prévu.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Rue Piret Pauchet 57",
+  "code_postal": "5000",
+  "commune": "Namur",
+  "coordonnees": "50.47199, 4.86403",
+  "horaires": "Tri : mardi-vendredi à partir de 9h jusque 14h ; distribution : mardi-vendredi 15h30-19h30",
+  "engagement": "Régulier",
+  "engagement_details": "Au minimum 1 fois par semaine, idéalement plus (du mardi au vendredi).",
+  "pmr": "Oui",
+  "transports": "À 5 minutes à pied de la gare des trains et bus de Namur.",
+  "source": "https://www.levolontariat.be/volontaire-dans-le-tri-alimentaire-pour-la-confection-de-colis",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. E-mail personnel retiré de la fiche : passer par la source. Deux annonces : tri alimentaire et distribution (https://www.levolontariat.be/distribution-de-colis-alimentaires). Annonce distribution indiquée accessible PMR et aux personnes ne maîtrisant pas le français. L'adresse outlook est celle affichée comme contact de l'asbl."
+}

@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café Chaumont-Gistoux",
+  "actif": true,
+  "description": "Des bénévoles réparent avec les habitants appareils, vêtements et petits objets, lors de sessions conviviales. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Zaine 9",
+  "code_postal": "1325",
+  "commune": "Chaumont-Gistoux",
+  "coordonnees": "50.68273, 4.69805",
+  "telephone": "0475/50 00 63",
+  "site_web": "https://www.facebook.com/repaircafechaumontgistoux",
+  "engagement": "Ponctuel",
+  "engagement_details": "Sessions ponctuelles de quelques heures, selon l'agenda.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-chaumont-gistoux/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Horaire non précisé sur la page."
+}

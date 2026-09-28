@@ -1,0 +1,19 @@
+{
+  "nom": "Croix-Rouge française – Unité locale de Fourmies",
+  "actif": false,
+  "description": "Vous pourrez aider à la boutique solidaire, à l'aide alimentaire ou aux actions auprès des personnes âgées.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Aide alimentaire",
+    "Personnes âgées"
+  ],
+  "adresse": "17 rue Jean-Pierre Dupont",
+  "code_postal": "59610",
+  "commune": "Fourmies (France)",
+  "coordonnees": "50.01682, 4.04416",
+  "telephone": "03 27 60 15 06",
+  "site_web": "https://www.croix-rouge.fr/unite-locale-de-fourmies",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.croix-rouge.fr/unite-locale-de-fourmies",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. La page ne mentionne pas explicitement une recherche de bénévoles."
+}

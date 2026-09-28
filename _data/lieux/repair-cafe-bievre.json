@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café Bièvre",
+  "actif": true,
+  "description": "Quelques fois par an, une équipe de bénévoles répare avec les habitants les objets du quotidien, dans la bonne humeur. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Centre culturel de Bièvre, Rue de Bouillon 39A",
+  "code_postal": "5555",
+  "commune": "Bièvre",
+  "coordonnees": "49.93746, 5.02181",
+  "site_web": "https://www.facebook.com/repaircafebievre",
+  "horaires": "Une fois tous les 3 mois, de 9h à 12h",
+  "engagement": "Ponctuel",
+  "engagement_details": "Quelques sessions par an, quelques heures chacune.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-bievre/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

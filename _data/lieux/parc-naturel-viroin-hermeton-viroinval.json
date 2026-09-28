@@ -1,0 +1,17 @@
+{
+  "nom": "Parc naturel Viroin-Hermeton",
+  "actif": false,
+  "description": "Le Parc naturel mène des actions de protection de la nature, des marchés du terroir et des animations sur Couvin, Philippeville et Viroinval.",
+  "categories": [
+    "Nature et jardinage"
+  ],
+  "adresse": "Rue d'Avignon 1",
+  "code_postal": "5670",
+  "commune": "Viroinval",
+  "coordonnees": "50.07389, 4.54694",
+  "telephone": "+32 60 39 17 90",
+  "site_web": "https://pnvh.org/",
+  "pmr": "Je ne sais pas",
+  "source": "https://pnvh.org/contact/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Village : Nismes. Aucune offre de bénévolat explicite trouvée (seulement des chantiers participatifs de rénovation chez l'habitant) : à demander directement."
+}

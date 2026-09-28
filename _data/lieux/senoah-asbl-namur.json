@@ -1,0 +1,21 @@
+{
+  "nom": "Senoah asbl",
+  "actif": true,
+  "description": "Vous pourrez visiter, en duo, des maisons de repos et résidences pour seniors afin d'aider l'association à bien informer les aînés et leurs familles.",
+  "categories": [
+    "Personnes âgées"
+  ],
+  "adresse": "Avenue Cardinal Mercier 22",
+  "code_postal": "5000",
+  "commune": "Namur",
+  "coordonnees": "50.46588, 4.85202",
+  "telephone": "081 22 85 98",
+  "email": "info@senoah.be",
+  "horaires": "En semaine, en journée",
+  "engagement": "Ponctuel",
+  "engagement_details": "Actions ponctuelles selon l'organisation de l'asbl ; déplacements possibles en Wallonie.",
+  "personne_reference": "Mégane Vander Elst",
+  "pmr": "Oui",
+  "source": "https://www.levolontariat.be/volontaires-pour-visiter-des-maisons-de-repos",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. L'asbl travaille avec des seniors volontaires ; visites en duo selon un canevas établi."
+}

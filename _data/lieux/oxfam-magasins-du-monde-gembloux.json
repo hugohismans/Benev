@@ -1,0 +1,19 @@
+{
+  "nom": "Oxfam-Magasins du monde – Gembloux",
+  "actif": false,
+  "description": "Vous pourrez aider dans la boutique de commerce équitable et de vêtements de seconde main : accueil des clients, rangement, tri.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Léopold 17-19",
+  "code_postal": "5030",
+  "commune": "Gembloux",
+  "coordonnees": "50.56025, 4.69240",
+  "telephone": "081 60 15 54",
+  "site_web": "https://oxfammagasinsdumonde.be/magasins/gembloux/",
+  "horaires": "Mardi au samedi 10h-18h",
+  "pmr": "Je ne sais pas",
+  "source": "https://oxfammagasinsdumonde.be/magasins/gembloux/",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Recherche de bénévoles non mentionnée explicitement sur la fiche du magasin."
+}

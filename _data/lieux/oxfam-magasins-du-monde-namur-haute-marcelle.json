@@ -1,0 +1,18 @@
+{
+  "nom": "Oxfam-Magasins du monde – Namur Haute Marcelle",
+  "actif": true,
+  "description": "Vous pourrez tenir la boutique de commerce équitable, conseiller les clients et participer à la vie d'un mouvement de bénévoles.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Haute Marcelle 36",
+  "code_postal": "5000",
+  "commune": "Namur",
+  "coordonnees": "50.46455, 4.86378",
+  "telephone": "081 22 33 40",
+  "site_web": "https://oxfammagasinsdumonde.be/",
+  "horaires": "Lundi au samedi 10h-17h45 (selon l'annuaire de la Ville)",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.namur.be/fr/annuaire/oxfam-magasins-du-monde",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. L'annuaire de la Ville indique que les activités reposent sur le bénévolat et que les candidats peuvent s'adresser rue Haute Marcelle 36. C'est aussi le point de contact pour les autres magasins Oxfam namurois."
+}

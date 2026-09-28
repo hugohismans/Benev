@@ -1,0 +1,17 @@
+{
+  "nom": "Restos du Cœur – Les Tables du Cœur (accueil de jour, repas chauds)",
+  "actif": true,
+  "description": "Vous pourrez aider à servir des repas chauds et à accueillir les personnes avec chaleur.",
+  "categories": [
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "44 avenue du Maréchal Juin",
+  "code_postal": "59300",
+  "commune": "Valenciennes (France)",
+  "coordonnees": "50.36546, 3.52056",
+  "site_web": "https://ad59b.restosducoeur.org",
+  "pmr": "Je ne sais pas",
+  "source": "https://ad59b.restosducoeur.org/centres-departementaux/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Contact de l'association départementale (Restos du Cœur du Hainaut-Cambrésis, Raismes) : 03 27 21 15 50, ad59b.secretariat@restosducoeur.org. L'association compte 1 310 bénévoles et publie des annonces de bénévolat (https://www.restosducoeur.org/annonces/?idad=12712). Confirmation au niveau départemental, pas du centre précis."
+}

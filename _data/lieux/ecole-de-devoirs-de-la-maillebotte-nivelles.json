@@ -1,0 +1,20 @@
+{
+  "nom": "École de devoirs de la Maillebotte",
+  "actif": true,
+  "description": "Vous pourrez aider des enfants et des jeunes dans leurs devoirs, ou proposer des activités créatives, culturelles, des jeux ou du sport.",
+  "categories": [
+    "Enfants et jeunes"
+  ],
+  "adresse": "Allée des Roses 21A",
+  "code_postal": "1400",
+  "commune": "Nivelles",
+  "coordonnees": "50.60125, 4.34845",
+  "telephone": "0478 30 95 63",
+  "horaires": "Lundi, mardi, jeudi et/ou vendredi 15h-18h (hors congés scolaires)",
+  "engagement": "Régulier",
+  "engagement_details": "Un ou plusieurs jours par semaine, de septembre 2026 à juin 2027.",
+  "personne_reference": "Pierre Otte",
+  "pmr": "Je ne sais pas",
+  "source": "https://volontariat.ecolesdedevoirs.be/edd-recherche-volontaires/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Autre contact : Paul Lossignol 0487 46 93 88. Public : primaire et secondaire."
+}

@@ -1,0 +1,19 @@
+{
+  "nom": "Épicerie du Cœur (Resto du Cœur de Wavre)",
+  "actif": true,
+  "description": "Vous pourrez aider à ranger les rayons et accueillir les clients de cette épicerie sociale où plus de 200 articles sont vendus à prix réduit.",
+  "categories": [
+    "Aide alimentaire"
+  ],
+  "adresse": "Avenue des Déportés 79",
+  "code_postal": "1300",
+  "commune": "Wavre",
+  "coordonnees": "50.71549, 4.61273",
+  "telephone": "0499 50 76 91",
+  "email": "info@restoducoeurwavre.be",
+  "site_web": "https://restoducoeurwavre.be/",
+  "horaires": "Lundi 14h-17h ; jeudi 9h-12h",
+  "pmr": "Je ne sais pas",
+  "source": "https://restoducoeurwavre.be/index.php/nos-services/lepicerie-du-coeur/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. À côté du Centre Culturel Espagnol, cour-parking de l'Académie de Musique. Bénévolat via le Resto du Cœur de Wavre (0472 75 67 61)."
+}

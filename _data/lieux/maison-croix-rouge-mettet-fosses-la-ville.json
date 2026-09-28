@@ -1,0 +1,22 @@
+{
+  "nom": "Maison Croix-Rouge Mettet | Fosses-la-Ville",
+  "actif": true,
+  "description": "Vous pourrez rendre visite à des personnes isolées (Reliage), aider à l'aide alimentaire ou donner un coup de main administratif au service de prêt de matériel paramédical.",
+  "categories": [
+    "Personnes âgées",
+    "Aide alimentaire",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Léon Colin 11 C",
+  "code_postal": "5640",
+  "commune": "Mettet",
+  "coordonnees": "50.32509, 4.65541",
+  "telephone": "071 38 97 54",
+  "email": "mcr.mettet-fosses@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/mettet-fosses-la-ville/",
+  "horaires": "Permanences mardi et vendredi 13h30-16h",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/mettet-fosses-la-ville/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Couvre Mettet et Fosses-la-Ville. Annonces levolontariat.be : Reliage (https://www.levolontariat.be/volontaire-reliage-lutte-contre-lisolement-social-et-la-solitude-1), appui administratif SLMP, plusieurs mandats (président, secrétaire...)."
+}

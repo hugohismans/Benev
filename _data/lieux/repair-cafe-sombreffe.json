@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Sombreffe",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Maison de Village de Boignée, Rue de Boignée",
+  "code_postal": "5140",
+  "commune": "Sombreffe",
+  "coordonnees": "50.50804, 4.62075",
+  "telephone": "0484 32 92 37",
+  "site_web": "https://www.facebook.com/groups/185170553604354/",
+  "horaires": "Le 1er samedi du mois, de 14h à 17h30 (sauf janvier, juillet et août)",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "personne_reference": "Corinne Leduc",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-sombreffe/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

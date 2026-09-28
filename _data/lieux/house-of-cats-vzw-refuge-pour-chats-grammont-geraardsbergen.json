@@ -1,0 +1,18 @@
+{
+  "nom": "House of Cats vzw (refuge pour chats)",
+  "actif": false,
+  "description": "Petit refuge pour chats qui fonctionne uniquement avec des bénévoles. Vous pourrez aider à prendre soin des chats en attente d'adoption.",
+  "categories": [
+    "Animaux"
+  ],
+  "adresse": "Grotestraat 43",
+  "code_postal": "9500",
+  "commune": "Grammont (Geraardsbergen)",
+  "coordonnees": "50.77200, 3.87785",
+  "telephone": "0496 31 96 25",
+  "site_web": "https://www.houseofcatsvzw.com/",
+  "pmr": "Je ne sais pas",
+  "langue": "Néerlandais (à vérifier)",
+  "source": "https://www.adopteereendier.be/dierenasielen/Oost-Vlaanderen/vzw-house-of-cats",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. E-mail personnel retiré de la fiche : passer par la source. Caché : accueil des francophones non confirmé (lieu en Flandre). Adresse sur adopteereendier.be. Selon un résultat de recherche (site houseofcatsvzw.com), le refuge travaille exclusivement avec des bénévoles et invite à écrire par e-mail ; non revérifié sur la page. Lieu en néerlandais ; avec les animaux la langue compte moins (à confirmer)."
+}

@@ -1,0 +1,19 @@
+{
+  "nom": "Maison Croix-Rouge de Braine-l'Alleud",
+  "actif": true,
+  "description": "Vous pourrez rendre visite à des personnes isolées pour leur rendre de petits services, les écouter et partager un moment de convivialité.",
+  "categories": [
+    "Personnes âgées",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue du Ménil 47",
+  "code_postal": "1420",
+  "commune": "Braine-l'Alleud",
+  "coordonnees": "50.68707, 4.38035",
+  "telephone": "02 384 01 98",
+  "email": "mcr.braine-l-alleud@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/braine-lalleud/",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/braine-lalleud/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Couvre aussi Ophain, Bois-Seigneur-Isaac, Lillois-Witterzée, Lasne. Offres 'Appui à l'activité Reliage' et 'Appui au service de location de matériel paramédical' à Braine-l'Alleud sur https://volontariat.croix-rouge.be/offres/"
+}

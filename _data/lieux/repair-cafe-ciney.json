@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café Ciney",
+  "actif": true,
+  "description": "Une fois par mois, des bénévoles réparent avec les habitants appareils, vêtements et objets du quotidien, dans une ambiance conviviale. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Rue Charles Capelle 19",
+  "code_postal": "5590",
+  "commune": "Ciney",
+  "coordonnees": "50.29260, 5.09925",
+  "telephone": "083 66 89 03",
+  "horaires": "Le 2e samedi du mois",
+  "engagement": "Ponctuel",
+  "engagement_details": "Une session par mois, quelques heures ; vous venez quand vous pouvez.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-ciney/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

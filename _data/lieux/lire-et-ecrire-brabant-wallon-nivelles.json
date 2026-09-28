@@ -1,0 +1,20 @@
+{
+  "nom": "Lire et Écrire Brabant wallon",
+  "actif": true,
+  "description": "Vous pourrez vous former puis vous investir volontairement dans l'alphabétisation d'adultes, en groupe, près de chez vous.",
+  "categories": [
+    "Culture et loisirs",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Boulevard des Archers 21",
+  "code_postal": "1400",
+  "commune": "Nivelles",
+  "coordonnees": "50.60020, 4.32311",
+  "telephone": "067 84 09 46",
+  "email": "brabant.wallon@lire-et-ecrire.be",
+  "site_web": "https://lire-et-ecrire.be/brabantwallon",
+  "horaires": "Lundi au vendredi 8h-16h",
+  "pmr": "Je ne sais pas",
+  "source": "https://lire-et-ecrire.be/contact-bw",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Siège social ; formations aussi à Court-Saint-Étienne, Ottignies, Braine-l'Alleud, Tubize. La page d'accueil (https://lire-et-ecrire.be/brabantwallon) annonce un cycle de formation pour formateur·ice en alpha (02/11-14/12/2026) pour 's'investir volontairement'."
+}

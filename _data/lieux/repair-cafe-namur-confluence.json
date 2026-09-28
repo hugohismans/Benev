@@ -1,0 +1,22 @@
+{
+  "nom": "Repair Café Namur Confluence",
+  "actif": true,
+  "description": "Des bénévoles réparent avec les habitants appareils, vêtements et petits objets, lors de sessions conviviales. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Avenue du Transvaal 96",
+  "code_postal": "5000",
+  "commune": "Namur",
+  "coordonnees": "50.47712, 4.86214",
+  "telephone": "0485 23 57 64",
+  "email": "accueil@repaircafe-namur-confluence.be",
+  "site_web": "https://www.facebook.com/Repair-Café-Namur-Confluence-107556011379252",
+  "horaires": "Voir l'agenda",
+  "engagement": "Ponctuel",
+  "engagement_details": "Sessions ponctuelles de quelques heures, selon l'agenda.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-namur-confluence/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu."
+}

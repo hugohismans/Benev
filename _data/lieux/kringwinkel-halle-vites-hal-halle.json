@@ -1,0 +1,17 @@
+{
+  "nom": "Kringwinkel Halle (ViTeS)",
+  "actif": false,
+  "description": "Magasin de seconde main en ville. Vous pourrez demander s'il existe une place pour un coup de main.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Bergensesteenweg 65",
+  "code_postal": "1500",
+  "commune": "Hal (Halle)",
+  "coordonnees": "50.73303, 4.23268",
+  "site_web": "https://www.kringwinkel.be/locaties/vites/halle-bergensessteenweg-65",
+  "pmr": "Je ne sais pas",
+  "langue": "Néerlandais (à vérifier)",
+  "source": "https://www.kringwinkel.be/locaties/vites/halle-bergensessteenweg-65",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Entreprise d'économie sociale ; aucune mention de bénévoles trouvée : à demander. Équipe très multiculturelle (59 nationalités selon ViTeS), mais langue d'accueil non précisée."
+}

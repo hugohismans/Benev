@@ -1,0 +1,20 @@
+{
+  "nom": "Repair Café du Buston",
+  "actif": true,
+  "description": "Des bénévoles réparent avec les habitants appareils, vêtements et petits objets, lors de sessions conviviales. Vous pourrez aider à l'accueil, servir le café ou réparer si vous aimez bricoler.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Maison de quartier Le Buston, Avenue des Églantines 5",
+  "code_postal": "1342",
+  "commune": "Ottignies-Louvain-la-Neuve",
+  "coordonnees": "50.67680, 4.56171",
+  "telephone": "0485760762",
+  "site_web": "https://repaircafebuston.be/",
+  "engagement": "Ponctuel",
+  "engagement_details": "Sessions ponctuelles de quelques heures, selon l'agenda.",
+  "pmr": "Je ne sais pas",
+  "source": "https://repairtogether.be/group/repair-cafe-du-buston/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Horaire indiqué « à venir » sur la page (mais des sessions ont déjà eu lieu)."
+}

@@ -1,0 +1,16 @@
+{
+  "nom": "Les Petits Riens – magasin de Namur",
+  "actif": false,
+  "description": "Grand magasin de seconde main (vêtements, livres, jouets, meubles, vaisselle).",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "Rue Rogier 48",
+  "code_postal": "5000",
+  "commune": "Namur",
+  "coordonnees": "50.46734, 4.86760",
+  "site_web": "https://petitsriens.be/",
+  "pmr": "Je ne sais pas",
+  "source": "https://service-citoyen.be/faire-un-service-citoyen/les-missions/les-petits-riens-namur-redonne-de-la-valeur-aux-objets-et-au-contact-humain-aux-petits-riens-id11581",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Seule mission trouvée : Service Citoyen (jeunes, 28h/semaine), pas une offre de bénévolat classique. Bénévolat non confirmé."
+}

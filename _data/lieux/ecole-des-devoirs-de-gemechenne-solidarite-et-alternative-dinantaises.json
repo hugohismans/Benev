@@ -1,0 +1,17 @@
+{
+  "nom": "École des Devoirs de Gemechenne (Solidarité et Alternative Dinantaises)",
+  "actif": true,
+  "description": "Vous pourrez aider des élèves à faire leurs devoirs et à reprendre confiance dans leur scolarité, aux côtés des animateurs.",
+  "categories": [
+    "Enfants et jeunes"
+  ],
+  "adresse": "Rue en Rhée 39",
+  "code_postal": "5500",
+  "commune": "Dinant",
+  "coordonnees": "50.25955, 4.91442",
+  "horaires": "Lundi, mardi et jeudi après l'école",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.matele.be/dinant-l-ecole-des-devoirs-existe-depuis-32-ans",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Matélé : élèves encadrés par « différents animateurs ou bénévoles ». Adresse issue d'un annuaire (koifaire.com, École de Devoirs S.A.D. asbl) : à vérifier. Article non daté précisément."
+}

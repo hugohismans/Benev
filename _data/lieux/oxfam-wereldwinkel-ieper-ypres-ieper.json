@@ -1,0 +1,20 @@
+{
+  "nom": "Oxfam-Wereldwinkel Ieper",
+  "actif": false,
+  "description": "Vous pourrez aider à accueillir les clients et à tenir la boutique de commerce équitable, aux côtés d'une équipe de bénévoles.",
+  "categories": [
+    "Accueil et convivialité"
+  ],
+  "adresse": "De Stuersstraat 14",
+  "code_postal": "8900",
+  "commune": "Ypres (Ieper)",
+  "coordonnees": "50.85028, 2.88037",
+  "telephone": "0475 36 17 44",
+  "email": "ieper@oww.be",
+  "site_web": "https://oxfambelgie.be/winkels/ieper",
+  "horaires": "Mar-ven 14h30-18h ; sam 10h-12h et 14h30-17h30",
+  "pmr": "Je ne sais pas",
+  "langue": "Néerlandais (à vérifier)",
+  "source": "https://oxfambelgie.be/winkels/ieper",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Caché : accueil des francophones non confirmé (lieu en Flandre). Magasin tenu par des bénévoles selon la source. Lieu en néerlandais ; tâches de rangement/réassort accessibles avec peu de néerlandais (à confirmer). Candidature via oxfambelgie.be (« Word vrijwilliger »)."
+}

@@ -1,0 +1,17 @@
+{
+  "nom": "La Ressourcerie by Le Maillon – Anzin",
+  "actif": false,
+  "description": "Vous pourrez découvrir le réemploi d'objets et de meubles dans une ressourcerie solidaire.",
+  "categories": [
+    "Seconde main et recyclage"
+  ],
+  "adresse": "450 rue Jean Jaurès",
+  "code_postal": "59410",
+  "commune": "Anzin (France)",
+  "coordonnees": "50.38362, 3.52268",
+  "telephone": "03 27 46 77 92",
+  "site_web": "https://www.lemaillonc2ri.fr/ressourcerie",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.lemaillonc2ri.fr/ressourcerie",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Structure d'insertion (chantier d'insertion) ; la page ne mentionne pas de bénévoles — à demander."
+}

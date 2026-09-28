@@ -1,0 +1,22 @@
+{
+  "nom": "Maison Croix-Rouge Le Samson (Andenne)",
+  "actif": true,
+  "description": "Vous pourrez accueillir les clients de la vestiboutique, trier et étiqueter les vêtements, ou rendre visite à des personnes isolées. Une équipe locale qui couvre Andenne, Gesves, Ohey et Assesse.",
+  "categories": [
+    "Seconde main et recyclage",
+    "Accueil et convivialité",
+    "Personnes âgées"
+  ],
+  "adresse": "Galerie Sainte-Begge - Rue Brun 25/19",
+  "code_postal": "5300",
+  "commune": "Andenne",
+  "coordonnees": "50.48674, 5.05785",
+  "telephone": "085 84 54 04",
+  "email": "mcr.le-samson@croix-rouge.be",
+  "site_web": "https://maisons.croix-rouge.be/maisons/le-samson/",
+  "horaires": "Mardi à vendredi 10h-17h ; 1er samedi du mois 10h-16h",
+  "engagement": "Régulier",
+  "pmr": "Je ne sais pas",
+  "source": "https://maisons.croix-rouge.be/maisons/le-samson/",
+  "notes": "Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Entités couvertes : Andenne, Gesves, Ohey, Assesse. Recherche de volontaires confirmée par des annonces levolontariat.be (vestiboutique : https://www.levolontariat.be/volontaire-en-vestiboutique-0 ; appui Reliage ; transport). Module d'introduction Croix-Rouge (3h) pour tout nouveau volontaire. Coordonnées approximatives (centre de la commune) : à corriger."
+}

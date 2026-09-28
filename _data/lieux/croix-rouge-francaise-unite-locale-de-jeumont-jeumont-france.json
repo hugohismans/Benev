@@ -1,0 +1,19 @@
+{
+  "nom": "Croix-Rouge française – Unité locale de Jeumont",
+  "actif": false,
+  "description": "Vous pourrez aider à l'aide alimentaire, au textile et bric-à-brac ou aux appels de convivialité.",
+  "categories": [
+    "Aide alimentaire",
+    "Seconde main et recyclage",
+    "Accueil et convivialité"
+  ],
+  "adresse": "Maison de la Solidarité, 237 rue Marx Dormoy",
+  "code_postal": "59460",
+  "commune": "Jeumont (France)",
+  "coordonnees": "50.30353, 4.09452",
+  "telephone": "03 27 67 00 94",
+  "site_web": "https://www.croix-rouge.fr/unite-locale-de-jeumont",
+  "pmr": "Je ne sais pas",
+  "source": "https://www.croix-rouge.fr/unite-locale-de-jeumont",
+  "notes": "À VÉRIFIER : accueil de bénévoles non confirmé. Infos collectées automatiquement le 28/09/2026, à confirmer avec le lieu. Commune frontalière (face à Erquelinnes). La page ne mentionne pas explicitement une recherche de bénévoles."
+}
